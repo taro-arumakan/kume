@@ -2546,6 +2546,7 @@ onSwatchHovered_fn = async function(event, target) {
   }
 };
 onSwatchChanged_fn = async function(event, target) {
+  this.product = await ProductLoader.load(this.getAttribute("handle"));
   if (target.hasAttribute("data-variant-id")) {
     this.querySelectorAll(`a[href^="${Shopify.routes.root}products/${this.getAttribute("handle")}"`).forEach((link) => {
       const url = new URL(link.href);
@@ -2559,7 +2560,7 @@ onSwatchChanged_fn = async function(event, target) {
   const newMedia = JSON.parse(target.getAttribute("data-variant-media")), primaryMediaElement = this.querySelector(".product-card__image--primary"), secondaryMediaElement = this.querySelector(".product-card__image--secondary"), newPrimaryMediaElement = __privateMethod(this, _ProductCard_instances, createMediaImg_fn).call(this, newMedia, primaryMediaElement.className, primaryMediaElement.sizes);
   if (primaryMediaElement.src !== newPrimaryMediaElement.src) {
     if (secondaryMediaElement) {
-      secondaryMediaElement.replaceWith(__privateMethod(this, _ProductCard_instances, createMediaImg_fn).call(this, newMedia, secondaryMediaElement.className, secondaryMediaElement.sizes));
+      secondaryMediaElement.replaceWith(__privateMethod(this, _ProductCard_instances, createMediaImg_fn).call(this, this.product["media"][newMedia['position'] + 1] || this.product["media"][0], secondaryMediaElement.className, secondaryMediaElement.sizes));
     }
     await primaryMediaElement.animate({ opacity: [1, 0] }, { duration: 150, easing: "ease-in", fill: "forwards" }).finished;
     await new Promise((resolve) => newPrimaryMediaElement.complete ? resolve() : newPrimaryMediaElement.onload = () => resolve());
