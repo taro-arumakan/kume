@@ -391,7 +391,7 @@
         "swatch": "Swatch"
       },
       "rating_category": "Product rating",
-      "rating_category_info": "To display a rating, add a product rating app. [Learn more](https:\/\/help.shopify.com\/en\/manual\/products\/product-reviews\/installation)",
+      "rating_category_info": "To display a rating, add a product rating app. [Learn more](https:\/\/apps.shopify.com\/categories\/store-design-social-proof-product-reviews)",
       "show_product_rating": "Show product rating",
       "show_product_rating_if_empty": "Show if no reviews",
       "show_product_rating_as": "Show product rating as...",
@@ -730,6 +730,7 @@
         "body": "Body text"
       },
       "sidebar_show_dividers": "Show sidebar menu dividers",
+      "sidebar_open_second_level_menus": "Open second-level menus by default",
       "desktop_category": "Desktop",
       "layout": "Layout",
       "layout_options": {
@@ -1085,7 +1086,7 @@
         },
         "rating": {
           "name": "Rating",
-          "instructions": "To display a rating, add a product rating app. [Learn more](https:\/\/help.shopify.com\/en\/manual\/products\/product-reviews\/installation)",
+          "instructions": "To display a rating, add a product rating app. [Learn more](https:\/\/apps.shopify.com\/categories\/store-design-social-proof-product-reviews)",
           "show_if_no_reviews": "Show if no reviews",
           "show_product_rating_as": "Show product rating as...",
           "show_product_rating_as_options": {
@@ -1192,13 +1193,6 @@
           "show_below_gallery": "Show below gallery on desktop",
           "stack_products": "Stack products",
           "show_quick_buy": "Show quick buy"
-        },
-        "reviews": {
-          "name": "Reviews",
-          "instructions": "Show reviews below the product gallery, inside a collapsible. To show your reviews at a different position, use the dedicated block of your app instead.",
-          "show_star_icon": "Show star icon",
-          "liquid": "Custom Liquid",
-          "liquid_info": "Integrate natively with the free [Shopify Reviews app](https:\/\/apps.shopify.com\/product-reviews). To show reviews coming from a different review app, contact the support of your app."
         },
         "offers": {
           "name": "Offers",
@@ -1359,7 +1353,8 @@
       "delay": "Delay until the popup appears",
       "show_only_on_home_page": "Show only on home page",
       "hide_for_account_holders": "Hide for account holders",
-      "show_only_once": "Show once to visitors"
+      "show_only_once": "Show once to visitors",
+      "show_newsletter_form": "Show newsletter form"
     },
     "pickup_availability": {
       "name": "Store pickup availability"

@@ -5,6 +5,7 @@
       "blocks": {
         "vendor": {
           "type": "vendor",
+          "disabled": true,
           "settings": {
           }
         },
@@ -12,6 +13,21 @@
           "type": "title",
           "settings": {
             "heading_tag": "h3"
+          }
+        },
+        "variant_picker": {
+          "type": "variant_picker",
+          "settings": {
+            "hide_sold_out_variants": false,
+            "selector_style": "block",
+            "swatch_selector_style": "swatch",
+            "variant_image_options": "カラー",
+            "size_chart_page": ""
+          }
+        },
+        "quantity_selector": {
+          "type": "quantity_selector",
+          "settings": {
           }
         },
         "price": {
@@ -35,21 +51,6 @@
           "settings": {
             "collapse_content": false,
             "show_below_gallery": false
-          }
-        },
-        "variant_picker": {
-          "type": "variant_picker",
-          "settings": {
-            "hide_sold_out_variants": false,
-            "selector_style": "block",
-            "swatch_selector_style": "swatch",
-            "variant_image_options": "カラー",
-            "size_chart_page": ""
-          }
-        },
-        "quantity_selector": {
-          "type": "quantity_selector",
-          "settings": {
           }
         },
         "buy_buttons": {
@@ -77,12 +78,12 @@
       "block_order": [
         "vendor",
         "title",
+        "variant_picker",
+        "quantity_selector",
         "price",
         "payment_terms",
         "separator",
         "description",
-        "variant_picker",
-        "quantity_selector",
         "buy_buttons",
         "complementary_products"
       ],
@@ -91,10 +92,10 @@
         "container_size": "lg",
         "product_info_size": 35,
         "show_sticky_add_to_cart": true,
-        "center_basic_info": false,
+        "center_basic_info": true,
         "desktop_media_layout": "grid",
         "desktop_media_grid_gap": 30,
-        "mobile_controls": "dots",
+        "mobile_controls": "thumbnails",
         "enable_media_autoplay": false,
         "enable_video_looping": true,
         "enable_image_zoom": true,

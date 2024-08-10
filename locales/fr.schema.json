@@ -391,7 +391,7 @@
         "swatch": "Pastille"
       },
       "rating_category": "Avis client",
-      "rating_category_info": "Pour afficher les avis, ajoutez une application d'avis clients. [En savoir plus](https:\/\/help.shopify.com\/fr\/manual\/products\/product-reviews\/installation)",
+      "rating_category_info": "Pour afficher les avis, ajoutez une application d'avis clients. [En savoir plus](https:\/\/apps.shopify.com\/categories\/store-design-social-proof-product-reviews)",
       "show_product_rating": "Afficher les avis client",
       "show_product_rating_if_empty": "Afficher si aucun avis",
       "show_product_rating_as": "Afficher les avis en...",
@@ -730,6 +730,7 @@
         "body": "Corps du texte"
       },
       "sidebar_show_dividers": "Afficher les separateurs sur le menu latéral",
+      "sidebar_open_second_level_menus": "Ouvrir les menus de second niveau par défault",
       "desktop_category": "Desktop",
       "layout": "Disposition",
       "layout_options": {
@@ -1085,7 +1086,7 @@
         },
         "rating": {
           "name": "Avis clients",
-          "instructions": "Pour afficher la note, ajoutez une application d'avis clients. [En savoir plus](https:\/\/help.shopify.com\/fr\/manual\/products\/product-reviews\/installation)",
+          "instructions": "Pour afficher la note, ajoutez une application d'avis clients. [En savoir plus](https:\/\/apps.shopify.com\/categories\/store-design-social-proof-product-reviews)",
           "show_if_no_reviews": "Afficher si aucun avis",
           "show_product_rating_as": "Afficher les avis en...",
           "show_product_rating_as_options": {
@@ -1192,13 +1193,6 @@
           "show_below_gallery": "Afficher sous les images",
           "stack_products": "Empiler les produits",
           "show_quick_buy": "Afficher l'achat rapide"
-        },
-        "reviews": {
-          "name": "Avis clients",
-          "instructions": "Affiche les avis clients sous la galerie d'images, dans un menu déroulant. Pour afficher les avis clients à un autre endroit, utilisez directement le block de l'app de votre choix.",
-          "show_star_icon": "Afficher une icône",
-          "liquid": "Code Liquid",
-          "liquid_info": "Le thème s'intègre par défaut avec l'app gratuite [Shopify Reviews app](https:\/\/apps.shopify.com\/product-reviews). Pour afficher les avis clients d'une autre app, contactez le support technique de l'app de votre choix."
         },
         "offers": {
           "name": "Offres",
@@ -1359,7 +1353,8 @@
       "delay": "Délai d'apparition de la modale",
       "show_only_on_home_page": "Afficher uniquement sur la page d'accueil",
       "hide_for_account_holders": "Cacher pour les visiteurs ayant un compte client",
-      "show_only_once": "Afficher qu'une fois aux visiteurs"
+      "show_only_once": "Afficher qu'une fois aux visiteurs",
+      "show_newsletter_form": "Afficher le formulaire de newsletter"
     },
     "pickup_availability": {
       "name": "Retrait en boutique"
