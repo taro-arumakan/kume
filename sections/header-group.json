@@ -8,7 +8,7 @@
         "message-1": {
           "type": "message",
           "settings": {
-            "text": "Announce something here"
+            "text": "全国一律送料880円、また30,000円(税込)以上のご購入で全国送料無料"
           }
         }
       },
@@ -26,11 +26,14 @@
     },
     "header": {
       "type": "header",
+      "custom_css": [
+
+      ],
       "settings": {
         "color_scheme": "",
         "enable_sticky": true,
-        "hide_on_scroll": false,
-        "show_separation_border": true,
+        "hide_on_scroll": true,
+        "show_separation_border": false,
         "reduce_padding": false,
         "logo": "shopify:\/\/shop_images\/kume_logo2.png",
         "logo_max_width": 140,
@@ -39,14 +42,15 @@
         "sidebar_menu": "",
         "menu_open_trigger": "hover",
         "enable_search": true,
-        "sidebar_color_scheme": "",
+        "sidebar_color_scheme": "scheme-3",
         "sidebar_text_font": "heading",
-        "sidebar_show_dividers": true,
+        "sidebar_show_dividers": false,
+        "sidebar_open_second_level_menus": true,
         "layout": "logo_left_navigation_inline",
         "show_icons": true,
-        "show_country_selector": true,
+        "show_country_selector": false,
         "show_country_name": false,
-        "show_country_flag": true,
+        "show_country_flag": false,
         "show_locale_selector": false,
         "transparent_header_text_color": "#ffffff"
       }

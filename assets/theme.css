@@ -972,7 +972,7 @@ height-observer {
   height: 100%;
   display: grid;
   position: relative;
-  opacity: 95%;
+  opacity: 75%;
 }
 
 .drawer::part(header) {
