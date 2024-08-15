@@ -36,6 +36,17 @@
             "show_taxes_notice": false
           }
         },
+        "buy_buttons": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_payment_button": true,
+            "show_gift_card_recipient": true,
+            "atc_button_background": "",
+            "atc_button_text_color": "",
+            "payment_button_background": "",
+            "payment_button_text_color": ""
+          }
+        },
         "payment_terms": {
           "type": "payment_terms",
           "settings": {
@@ -51,17 +62,6 @@
           "settings": {
             "collapse_content": false,
             "show_below_gallery": false
-          }
-        },
-        "buy_buttons": {
-          "type": "buy_buttons",
-          "settings": {
-            "show_payment_button": true,
-            "show_gift_card_recipient": true,
-            "atc_button_background": "",
-            "atc_button_text_color": "",
-            "payment_button_background": "",
-            "payment_button_text_color": ""
           }
         },
         "complementary_products": {
@@ -81,15 +81,15 @@
         "variant_picker",
         "quantity_selector",
         "price",
+        "buy_buttons",
         "payment_terms",
         "separator",
         "description",
-        "buy_buttons",
         "complementary_products"
       ],
       "settings": {
         "color_scheme": "",
-        "container_size": "lg",
+        "container_size": "full",
         "product_info_size": 35,
         "show_sticky_add_to_cart": true,
         "center_basic_info": true,
@@ -118,10 +118,28 @@
         "title": "Related products",
         "content": ""
       }
+    },
+    "recently_viewed_products_rTNm3d": {
+      "type": "recently-viewed-products",
+      "settings": {
+        "separate_section_with_border": true,
+        "color_scheme": "",
+        "hide_product_information": false,
+        "stack_products": false,
+        "products_count": 9,
+        "products_per_row_mobile": "2",
+        "products_per_row_desktop": 4,
+        "horizontal_spacing_factor": 1,
+        "vertical_spacing_factor": 1,
+        "subheading": "",
+        "title": "Recently viewed products",
+        "content": ""
+      }
     }
   },
   "order": [
     "main",
-    "related-products"
+    "related-products",
+    "recently_viewed_products_rTNm3d"
   ]
 }
