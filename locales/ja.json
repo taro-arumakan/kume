@@ -379,7 +379,7 @@
     "general": {
       "title": "検索",
       "terms": "\"{{terms}}\" の検索結果",
-      "search_placeholder": "何をお探しですか？",
+      "search_placeholder": "サイト全体を検索",
       "products": "商品",
       "suggestions": "候補",
       "collections": "コレクション",
@@ -387,7 +387,7 @@
       "pages": "ページ",
       "clear": "リゼット",
       "view_all_results": "全ての検索結果を表示",
-      "no_results": "結果は見つかりませんでした"
+      "no_results": "「{{ terms }}」は見つかりませんでした"
     },
     "results_count": {
       "other": "{{count}}件"
