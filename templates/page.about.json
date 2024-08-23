@@ -1,0 +1,137 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "color_scheme": "",
+        "show_title": false,
+        "page_width": "xs"
+      }
+    },
+    "video_A4rrTA": {
+      "type": "video",
+      "blocks": {
+        "play_6rHbh7": {
+          "type": "play",
+          "disabled": true,
+          "settings": {
+            "icon_color": "#ffffff"
+          }
+        },
+        "heading_RkBRGm": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "text": "Video",
+            "heading_tag": "h2"
+          }
+        }
+      },
+      "block_order": [
+        "play_6rHbh7",
+        "heading_RkBRGm"
+      ],
+      "settings": {
+        "autoplay": true,
+        "show_controls": false,
+        "video_size": "md",
+        "video": "shopify:\/\/files\/videos\/about_FW_0318_Landscape.MP4",
+        "mobile_video": "shopify:\/\/files\/videos\/about_FW_0318_Vertical.mp4",
+        "external_video_url": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc",
+        "text_color": "#ffffff"
+      }
+    },
+    "logo_list_RBLytF": {
+      "type": "logo-list",
+      "blocks": {
+        "logo_LHaNYC": {
+          "type": "logo",
+          "settings": {
+            "logo": "shopify:\/\/shop_images\/kume_logo2.png",
+            "logo_width": 120,
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "logo_LHaNYC"
+      ],
+      "settings": {
+        "color_scheme": "scheme-2",
+        "separate_section_with_border": false,
+        "subheading": "",
+        "title": "",
+        "items_per_row": 3,
+        "logo_item_background": "",
+        "logo_item_border": ""
+      }
+    },
+    "rich_text_z964Ar": {
+      "type": "rich-text",
+      "blocks": {
+        "subheading_8AhW6M": {
+          "type": "subheading",
+          "disabled": true,
+          "settings": {
+            "text": "Subheading"
+          }
+        },
+        "heading_qww3gd": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "text": "Heading",
+            "heading_tag": "h1"
+          }
+        },
+        "richtext_4mqMVb": {
+          "type": "richtext",
+          "settings": {
+            "content": "<p>オンもオフも。すべてを楽しむ30代の女性へ。<br\/>その活気あるライフスタイルにKUMÉは寄り添います。<\/p><p>『On-Time』でも不自由なオフィススタイルではなく、<br\/>性格や趣味の表現を大切にします。<br\/>柔らかなシルエットや独自のディテール、高級な素材にこだわり、<br\/>現代の女性らしい『Contemporary Feminine Look』を提案します。<\/p><p>『Off-Time』は余暇を積極的に楽しみ、<br\/>健康的でポジティブな生活を理想にしたスタイルを展開します。<br\/>動きやすく快適なパターンと素材を使用し、<br\/>シーズンごとのポイントカラーを生かしながら<br\/>活動的な『Daily Kinetic Look』を提案します。<\/p><p>女性の心を誰よりも理解しているからこそ、<br\/>女性の体も理解したデザインを追求したい。<br\/>動きに気を配ったパターン、上質な素材、高級な仕様、<br\/>丈夫な縫製、美しい仕上げまで、丁寧な服づくりに努めます。<br\/>ハンガーにかけている時より、袖を通した時こそ<br\/>その真価を実感していただけるのがKUMÉです。<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "subheading_8AhW6M",
+        "heading_qww3gd",
+        "richtext_4mqMVb"
+      ],
+      "disabled": true,
+      "custom_css": [
+        "@media screen and (min-width: 700px) {.prose {line-height: 2.1rem; }}"
+      ],
+      "settings": {
+        "color_scheme": "scheme-2",
+        "separate_section_with_border": false,
+        "content_width": "lg",
+        "text_position": "center",
+        "remove_vertical_spacing": false
+      }
+    },
+    "custom_liquid_gH97Yi": {
+      "type": "custom-liquid",
+      "custom_css": [
+        "@media screen and (min-width: 750px) {.pc {display: inline; } .sp {display: none; } .text-center {line-height: 2.1rem; }}",
+        "@media screen and (max-width: 749px) {.text-center {text-align: left; } .pc {display: none; } .sp {display: inline; } .text-center {line-height: 1.8rem; }}",
+        ".text-center :first-child {margin-block-start: 0 !important;}",
+        ".text-center :where(:not(meta, span) + *) {margin-block-start: 1rem;}"
+      ],
+      "settings": {
+        "color_scheme": "scheme-2",
+        "separate_section_with_border": false,
+        "remove_vertical_spacing": false,
+        "remove_horizontal_spacing": false,
+        "liquid": "<p>\nオンもオフも。すべてを楽しむ30代の女性へ。<br>\nその活気あるライフスタイルにKUMÉは寄り添います。<br>\n<\/p>\n\n<p>\n『On-Time』でも不自由なオフィススタイルではなく、<br class=\"pc\">\n性格や趣味の表現を大切にします。<br>\n柔らかなシルエットや独自のディテール、高級な素材にこだわり、<br class=\"pc\">\n現代の女性らしい『Contemporary Feminine Look』を提案します。<br>\n<\/p>\n<p>\n『Off-Time』は余暇を積極的に楽しみ、<br class=\"pc\">\n健康的でポジティブな生活を理想にしたスタイルを展開します。<br>\n動きやすく快適なパターンと素材を使用し、<br class=\"pc\">\nシーズンごとのポイントカラーを生かしながら<br class=\"pc\">\n活動的な『Daily Kinetic Look』を提案します。<br>\n<\/p>\n<p>\n女性の心を誰よりも理解しているからこそ、<br>\n女性の体も理解したデザインを追求したい。<br>\n動きに気を配ったパターン、上質な素材、高級な仕様、<br class=\"pc\">\n丈夫な縫製、美しい仕上げまで、丁寧な服づくりに努めます。<br>\nハンガーにかけている時より、袖を通した時こそ<br>\nその真価を実感していただけるのがKUMÉです。\n<\/p>",
+        "text_alignment": "center"
+      }
+    }
+  },
+  "order": [
+    "main",
+    "video_A4rrTA",
+    "logo_list_RBLytF",
+    "rich_text_z964Ar",
+    "custom_liquid_gH97Yi"
+  ]
+}
