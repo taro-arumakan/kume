@@ -36,7 +36,7 @@
         "autoplay": true,
         "show_controls": false,
         "video_size": "md",
-        "video": "shopify:\/\/files\/videos\/about_FW_0318_Landscape.MP4",
+        "video": "shopify:\/\/files\/videos\/about_FW_0318_Landscape_1.MP4",
         "mobile_video": "shopify:\/\/files\/videos\/about_FW_0318_Vertical.mp4",
         "external_video_url": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc",
         "text_color": "#ffffff"
@@ -88,7 +88,7 @@
         "richtext_4mqMVb": {
           "type": "richtext",
           "settings": {
-            "content": "<p>オンもオフも。すべてを楽しむ30代の女性へ。<br\/>その活気あるライフスタイルにKUMÉは寄り添います。<\/p><p>『On-Time』でも不自由なオフィススタイルではなく、<br\/>性格や趣味の表現を大切にします。<br\/>柔らかなシルエットや独自のディテール、高級な素材にこだわり、<br\/>現代の女性らしい『Contemporary Feminine Look』を提案します。<\/p><p>『Off-Time』は余暇を積極的に楽しみ、<br\/>健康的でポジティブな生活を理想にしたスタイルを展開します。<br\/>動きやすく快適なパターンと素材を使用し、<br\/>シーズンごとのポイントカラーを生かしながら<br\/>活動的な『Daily Kinetic Look』を提案します。<\/p><p>女性の心を誰よりも理解しているからこそ、<br\/>女性の体も理解したデザインを追求したい。<br\/>動きに気を配ったパターン、上質な素材、高級な仕様、<br\/>丈夫な縫製、美しい仕上げまで、丁寧な服づくりに努めます。<br\/>ハンガーにかけている時より、袖を通した時こそ<br\/>その真価を実感していただけるのがKUMÉです。<\/p>"
+            "content": "<p>オンもオフも。すべてを楽しむ30代の女性へ。<br\/>その活気あるライフスタイルに<br\/>KUMÉは寄り添います。<\/p><p><br\/>『On-Time』でも不自由な<br\/>オフィススタイルではなく、<br\/>性格や趣味の表現を大切にします。<br\/>柔らかなシルエットや独自のディテール、<br\/>高級な素材にこだわり、現代の女性らしい<br\/>『Contemporary Feminine Look』を提案します<\/p><p><br\/>『Off-Time』は余暇を積極的に楽しみ、<br\/>健康的でポジティブな生活を理想にした<br\/>スタイルを展開します。<br\/>動きやすく快適なパターンと素材を使用し、<br\/>シーズンごとのポイントカラーを生かしながら<br\/>活動的な『Daily Kinetic Look』を提案します。<\/p><p><br\/>女性の心を誰よりも理解しているからこそ、<br\/>女性の体も理解したデザインを追求したい。<br\/>動きに気を配ったパターン、上質な素材、<br\/>高級な仕様、丈夫な縫製、<br\/>美しい仕上げまで、丁寧な服づくりに努めます。<br\/>ハンガーにかけている時より、袖を通した時こそ<br\/>その真価を実感していただけるのがKUMÉです。<\/p><p><br\/><\/p>"
           }
         }
       },
@@ -97,9 +97,9 @@
         "heading_qww3gd",
         "richtext_4mqMVb"
       ],
-      "disabled": true,
       "custom_css": [
-        "@media screen and (min-width: 700px) {.prose {line-height: 2.1rem; }}"
+        "@media screen and (min-width: 700px) {.prose {line-height: 2.1rem; }}",
+        ".prose {line-height: 1.8rem;}"
       ],
       "settings": {
         "color_scheme": "scheme-2",
@@ -111,6 +111,7 @@
     },
     "custom_liquid_gH97Yi": {
       "type": "custom-liquid",
+      "disabled": true,
       "custom_css": [
         "@media screen and (min-width: 750px) {.pc {display: inline; } .sp {display: none; } .text-center {line-height: 2.1rem; }}",
         "@media screen and (max-width: 749px) {.text-center {text-align: left; } .pc {display: none; } .sp {display: inline; } .text-center {line-height: 1.8rem; }}",
