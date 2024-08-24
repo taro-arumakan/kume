@@ -21,12 +21,12 @@
 
 .reveal_tran_tb {
   opacity: 0;
-  transform: translate(0, -0.8vw);
+  transform: translate(0, -3%);
 }
 
 .reveal_tran_bt {
   opacity: 0;
-  transform: translate(0, 0.8vw);
+  transform: translate(0, 3%);
 }
 
 .reveal_tran_rl {
