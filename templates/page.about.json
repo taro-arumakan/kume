@@ -35,7 +35,7 @@
       "settings": {
         "autoplay": true,
         "show_controls": false,
-        "video_size": "md",
+        "video_size": "auto",
         "video": "shopify:\/\/files\/videos\/about_FW_0318_Landscape_1.MP4",
         "mobile_video": "shopify:\/\/files\/videos\/about_FW_0318_Vertical.mp4",
         "external_video_url": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc",
@@ -97,6 +97,7 @@
         "heading_qww3gd",
         "richtext_4mqMVb"
       ],
+      "disabled": true,
       "custom_css": [
         "@media screen and (min-width: 700px) {.prose {line-height: 2.1rem; }}",
         ".prose {line-height: 1.8rem;}"
@@ -111,19 +112,16 @@
     },
     "custom_liquid_gH97Yi": {
       "type": "custom-liquid",
-      "disabled": true,
       "custom_css": [
         "@media screen and (min-width: 750px) {.pc {display: inline; } .sp {display: none; } .text-center {line-height: 2.1rem; }}",
-        "@media screen and (max-width: 749px) {.text-center {text-align: left; } .pc {display: none; } .sp {display: inline; } .text-center {line-height: 1.8rem; }}",
-        ".text-center :first-child {margin-block-start: 0 !important;}",
-        ".text-center :where(:not(meta, span) + *) {margin-block-start: 1rem;}"
+        "@media screen and (max-width: 749px) {.pc {display: none; } .sp {display: inline; } .text-center {line-height: 1.8rem; }}"
       ],
       "settings": {
         "color_scheme": "scheme-2",
         "separate_section_with_border": false,
         "remove_vertical_spacing": false,
         "remove_horizontal_spacing": false,
-        "liquid": "<p>\nオンもオフも。すべてを楽しむ30代の女性へ。<br>\nその活気あるライフスタイルにKUMÉは寄り添います。<br>\n<\/p>\n\n<p>\n『On-Time』でも不自由なオフィススタイルではなく、<br class=\"pc\">\n性格や趣味の表現を大切にします。<br>\n柔らかなシルエットや独自のディテール、高級な素材にこだわり、<br class=\"pc\">\n現代の女性らしい『Contemporary Feminine Look』を提案します。<br>\n<\/p>\n<p>\n『Off-Time』は余暇を積極的に楽しみ、<br class=\"pc\">\n健康的でポジティブな生活を理想にしたスタイルを展開します。<br>\n動きやすく快適なパターンと素材を使用し、<br class=\"pc\">\nシーズンごとのポイントカラーを生かしながら<br class=\"pc\">\n活動的な『Daily Kinetic Look』を提案します。<br>\n<\/p>\n<p>\n女性の心を誰よりも理解しているからこそ、<br>\n女性の体も理解したデザインを追求したい。<br>\n動きに気を配ったパターン、上質な素材、高級な仕様、<br class=\"pc\">\n丈夫な縫製、美しい仕上げまで、丁寧な服づくりに努めます。<br>\nハンガーにかけている時より、袖を通した時こそ<br>\nその真価を実感していただけるのがKUMÉです。\n<\/p>",
+        "liquid": "<p class=\"reveal_tran_tb\">オンもオフも。すべてを楽しむ30代の女性へ。<\/p>\n<p class=\"reveal_tran_tb\">その活気あるライフスタイルに<br\/>\nKUMÉは寄り添います。<\/p>\n<br\/><br\/>\n<p class=\"reveal_tran_tb\">『On-Time』でも不自由な<br\/>\nオフィススタイルではなく、<br\/>\n性格や趣味の表現を大切にします。<\/p>\n<p class=\"reveal_tran_tb\">柔らかなシルエットや独自のディテール、<br\/>\n高級な素材にこだわり、現代の女性らしい<br\/>\n『Contemporary Feminine Look』を提案します。<\/p>\n<br\/><br\/>\n<p class=\"reveal_tran_tb\">『Off-Time』は余暇を積極的に楽しみ、<br\/>\n健康的でポジティブな生活を理想にした<br\/>\nスタイルを展開します。<\/p>\n<p class=\"reveal_tran_tb\">動きやすく快適なパターンと素材を使用し、<br\/>\nシーズンごとのポイントカラーを生かしながら<br\/>\n活動的な『Daily Kinetic Look』を提案します。<\/p>\n<br\/><br\/>\n<p class=\"reveal_tran_tb\">女性の心を誰よりも理解しているからこそ、<br\/>\n女性の体も理解したデザインを追求したい。<\/p>\n<p class=\"reveal_tran_tb\">動きに気を配ったパターン、上質な素材、<br\/>\n高級な仕様、丈夫な縫製、<br\/>\n美しい仕上げまで、丁寧な服づくりに努めます。<\/p>\n<p class=\"reveal_tran_tb\">ハンガーにかけている時より、袖を通した時こそ<br\/>\nその真価を実感していただけるのがKUMÉです。<\/p>",
         "text_alignment": "center"
       }
     }

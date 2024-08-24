@@ -34,6 +34,11 @@
     {%- render 'css-variables' -%}
     {%- render 'js-variables' -%}
 
+    {%- if request.page_type == 'page' -%}
+      {{- 'animate.css' | asset_url | stylesheet_tag: preload: true -}}
+      <script src="{{ 'animate.js' | asset_url }}" defer></script>
+    {%- endif -%}
+
     {%- if request.page_type == 'gift_card' -%}
       <script src="{{ 'vendor/qrcode.js' | shopify_asset_url }}" defer></script>
     {%- endif -%}
