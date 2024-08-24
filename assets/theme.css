@@ -6775,11 +6775,12 @@ product-rerender {
   border-block-start-width: 0px;
 }
 
-.divide-y>li:nth-of-type(5) {
-  border-block-start-width: 1.1px !important;
-  border-color: white;
+.divide-y>:is(li:nth-of-type(5),li:nth-last-of-type(2)) {
+  border-block-start-width: 0.8px !important;
+  border-color: rgb(var(--text-color));
   margin-top: 20px;
 }
+
 .rounded-full {
   border-radius: var(--rounded-full);
 }
