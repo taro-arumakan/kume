@@ -2,6 +2,8 @@
   "current": {
     "icon_stroke_width": 1.2,
     "section_vertical_spacing": "md",
+    "default_color_scheme": "scheme-1",
+    "modal_color_scheme": "scheme-1",
     "product_rating_color": "#1c1c1c",
     "product_on_sale_accent": "#e32c2b",
     "product_sold_out_badge_background": "#efefef",
@@ -32,7 +34,7 @@
     "color_schemes": {
       "scheme-1": {
         "settings": {
-          "background": "#efefef",
+          "background": "#f9faf7",
           "background_gradient": "",
           "text_color": "#1c1c1c",
           "primary_button_background": "#1c1c1c",
