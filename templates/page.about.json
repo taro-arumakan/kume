@@ -35,8 +35,8 @@
       "settings": {
         "autoplay": true,
         "show_controls": false,
-        "video_size": "auto",
-        "video": "shopify:\/\/files\/videos\/about_FW_0318_Landscape_1.MP4",
+        "video_size": "lg",
+        "video": "shopify:\/\/files\/videos\/about_FW_0318_Vertical.mp4",
         "mobile_video": "shopify:\/\/files\/videos\/about_FW_0318_Vertical.mp4",
         "external_video_url": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc",
         "text_color": "#ffffff"
@@ -58,7 +58,7 @@
         "logo_LHaNYC"
       ],
       "settings": {
-        "color_scheme": "scheme-2",
+        "color_scheme": "scheme-1",
         "separate_section_with_border": false,
         "subheading": "",
         "title": "",
@@ -117,7 +117,7 @@
         "@media screen and (max-width: 749px) {.pc {display: none; } .sp {display: inline; } .text-center {line-height: 1.8rem; }}"
       ],
       "settings": {
-        "color_scheme": "scheme-2",
+        "color_scheme": "scheme-1",
         "separate_section_with_border": false,
         "remove_vertical_spacing": false,
         "remove_horizontal_spacing": false,

@@ -1699,13 +1699,15 @@ video-media > video[controls] {
 }
 
 video-media > :-webkit-any(video:not(:-webkit-full-screen), img) {
-  object-fit: cover;
+  background-color: rgb(var(--background));
+  object-fit: contain;
   object-position: center;
   margin: 0 !important;
 }
 
 video-media > :is(video:not(:fullscreen), img) {
-  object-fit: cover;
+  background-color: rgb(var(--background));
+  object-fit: contain;
   object-position: center;
   margin: 0 !important;
 }

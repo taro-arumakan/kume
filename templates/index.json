@@ -6,7 +6,7 @@
         "video_fAdeKw": {
           "type": "video",
           "settings": {
-            "video": "shopify:\/\/files\/videos\/PC_KUME_2.MP4",
+            "video": "shopify:\/\/files\/videos\/SP_FW_0318_1_2.mp4",
             "mobile_video": "shopify:\/\/files\/videos\/SP_FW_0318_1_2.mp4",
             "allow_sound": false,
             "subheading": "",
@@ -130,7 +130,7 @@
         "autoplay": true,
         "autoplay_pause_on_video": true,
         "cycle_speed": 5,
-        "background": "#000000",
+        "background": "#f9faf7",
         "controls_color": "#ffffff"
       }
     },
@@ -153,7 +153,7 @@
       ],
       "settings": {
         "color_scheme": "",
-        "separate_section_with_border": true,
+        "separate_section_with_border": false,
         "hide_product_information": false,
         "stack_products": false,
         "products_per_row_mobile": "2",
@@ -182,7 +182,7 @@
       ],
       "settings": {
         "color_scheme": "",
-        "separate_section_with_border": true,
+        "separate_section_with_border": false,
         "hide_product_information": false,
         "stack_products": false,
         "products_per_row_mobile": "2",
@@ -211,7 +211,7 @@
       ],
       "settings": {
         "color_scheme": "",
-        "separate_section_with_border": true,
+        "separate_section_with_border": false,
         "hide_product_information": false,
         "stack_products": false,
         "products_per_row_mobile": "2",
