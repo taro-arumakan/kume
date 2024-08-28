@@ -4824,7 +4824,7 @@ product-rerender {
   background: rgb(var(--background));
   color: rgb(var(--text-color));
   box-shadow: 2px 2px 6px rgb(var(--text-color) / .05);
-  border-width: 0 1px 1px;
+  border-width: 0 1px 1px 0;
   width: max-content;
   min-width: 12.5rem;
   max-width: 17.5rem;
