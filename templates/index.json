@@ -141,7 +141,7 @@
           "type": "collection",
           "settings": {
             "collection": "new-arrival",
-            "products_count": 8,
+            "products_count": 4,
             "title": "NEW ARRIVAL",
             "link_url": "",
             "link_text": "View all"
@@ -155,7 +155,7 @@
         "color_scheme": "",
         "separate_section_with_border": false,
         "hide_product_information": false,
-        "stack_products": false,
+        "stack_products": true,
         "products_per_row_mobile": "2",
         "products_per_row_desktop": 4,
         "horizontal_spacing_factor": 1,
@@ -169,10 +169,10 @@
         "collection_zr6qGz": {
           "type": "collection",
           "settings": {
-            "collection": "rnaking",
-            "products_count": 8,
-            "title": "Ranking",
-            "link_url": "",
+            "collection": "recommend",
+            "products_count": 4,
+            "title": "RECOMMEND",
+            "link_url": "shopify:\/\/collections\/recommend",
             "link_text": "View all"
           }
         }
@@ -184,7 +184,7 @@
         "color_scheme": "",
         "separate_section_with_border": false,
         "hide_product_information": false,
-        "stack_products": false,
+        "stack_products": true,
         "products_per_row_mobile": "2",
         "products_per_row_desktop": 4,
         "horizontal_spacing_factor": 1,
@@ -199,8 +199,8 @@
           "type": "collection",
           "settings": {
             "collection": "ss24",
-            "products_count": 8,
-            "title": "24SS COLLECTION",
+            "products_count": 4,
+            "title": "COLLECTION",
             "link_url": "",
             "link_text": "View all"
           }
@@ -213,7 +213,7 @@
         "color_scheme": "",
         "separate_section_with_border": false,
         "hide_product_information": false,
-        "stack_products": false,
+        "stack_products": true,
         "products_per_row_mobile": "2",
         "products_per_row_desktop": 4,
         "horizontal_spacing_factor": 1,
