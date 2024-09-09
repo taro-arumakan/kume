@@ -10,10 +10,24 @@
           "settings": {
             "text": "全国一律送料770円、また30,000円(税込)以上のご購入で全国送料無料"
           }
+        },
+        "message_JtBBEg": {
+          "type": "message",
+          "settings": {
+            "text": "24AW 9\/19(Thu) 12:00 Start!"
+          }
+        },
+        "message_4Ubh6N": {
+          "type": "message",
+          "settings": {
+            "text": "韓国お盆休みにより9月11日(水) 午後以降のご注文件に付きましては、9月19(木)日より順次配送予定。"
+          }
         }
       },
       "block_order": [
-        "message-1"
+        "message-1",
+        "message_JtBBEg",
+        "message_4Ubh6N"
       ],
       "settings": {
         "color_scheme": "",
