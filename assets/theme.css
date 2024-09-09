@@ -2789,6 +2789,12 @@ tr[onclick]:hover {
   }
 }
 
+@media screen and (max-width: 699px) {
+  img.password__logo-image.constrained-image {
+    filter: invert(1);
+  }
+}
+
 .branding-colors--facebook {
   --branding-background: 24 119 242;
   --branding-color: 255 255 255;
