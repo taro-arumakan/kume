@@ -20,6 +20,9 @@
     },
     "image_with_text_overlay_8cQLHp": {
       "type": "image-with-text-overlay",
+      "custom_css": [
+        ".content-over-media > picture img {min-width: unset;}"
+      ],
       "settings": {
         "color_scheme": "scheme-1",
         "image_size": "auto",
@@ -36,6 +39,9 @@
     },
     "image_with_text_overlay_beJcUf": {
       "type": "image-with-text-overlay",
+      "custom_css": [
+        ".content-over-media > picture img {min-width: unset;}"
+      ],
       "settings": {
         "color_scheme": "scheme-1",
         "image_size": "auto",
@@ -52,6 +58,9 @@
     },
     "image_with_text_overlay_x4Hh9D": {
       "type": "image-with-text-overlay",
+      "custom_css": [
+        ".content-over-media > picture img {min-width: unset;}"
+      ],
       "settings": {
         "color_scheme": "scheme-1",
         "image_size": "auto",
@@ -64,9 +73,13 @@
         "desktop_text_position": "sm:place-self-center sm:text-center",
         "overlay_color": "#000000",
         "overlay_opacity": 0
-      }    },
+      }
+    },
     "image_with_text_overlay_yYmN6T": {
       "type": "image-with-text-overlay",
+      "custom_css": [
+        ".content-over-media > picture img {min-width: unset;}"
+      ],
       "settings": {
         "color_scheme": "scheme-1",
         "image_size": "auto",
@@ -83,6 +96,9 @@
     },
     "image_with_text_overlay_fTcW83": {
       "type": "image-with-text-overlay",
+      "custom_css": [
+        ".content-over-media > picture img {min-width: unset;}"
+      ],
       "settings": {
         "color_scheme": "scheme-1",
         "image_size": "auto",
@@ -99,6 +115,9 @@
     },
     "image_with_text_overlay_RLAkC3": {
       "type": "image-with-text-overlay",
+      "custom_css": [
+        ".content-over-media > picture img {min-width: unset;}"
+      ],
       "settings": {
         "color_scheme": "scheme-1",
         "image_size": "auto",
@@ -115,6 +134,9 @@
     },
     "image_with_text_overlay_Ber6BH": {
       "type": "image-with-text-overlay",
+      "custom_css": [
+        ".content-over-media > picture img {min-width: unset;}"
+      ],
       "settings": {
         "color_scheme": "scheme-1",
         "image_size": "auto",
@@ -131,6 +153,9 @@
     },
     "image_with_text_overlay_GVFWCQ": {
       "type": "image-with-text-overlay",
+      "custom_css": [
+        ".content-over-media > picture img {min-width: unset;}"
+      ],
       "settings": {
         "color_scheme": "scheme-1",
         "image_size": "auto",

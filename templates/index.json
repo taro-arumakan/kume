@@ -265,7 +265,8 @@
         "image_JkYFYT"
       ],
       "custom_css": [
-        "slideshow-carousel {padding-block-start: 5rem;}"
+        "slideshow-carousel {padding-block-start: 5rem;}",
+        ".content-over-media>picture img {min-width: unset;}"
       ],
       "settings": {
         "allow_transparent_header": false,
