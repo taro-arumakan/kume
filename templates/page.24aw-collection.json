@@ -1,3 +1,12 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "sections": {
     "main": {
@@ -26,7 +35,7 @@
       "settings": {
         "color_scheme": "scheme-1",
         "image_size": "auto",
-        "image": "shopify:\/\/shop_images\/001.png",
+        "image": "shopify://shop_images/001.png",
         "allow_transparent_header": false,
         "reveal_on_scroll": true,
         "remove_vertical_spacing": false,
@@ -45,7 +54,7 @@
       "settings": {
         "color_scheme": "scheme-1",
         "image_size": "auto",
-        "image": "shopify:\/\/shop_images\/002.png",
+        "image": "shopify://shop_images/002.png",
         "allow_transparent_header": false,
         "reveal_on_scroll": true,
         "remove_vertical_spacing": false,
@@ -64,7 +73,7 @@
       "settings": {
         "color_scheme": "scheme-1",
         "image_size": "auto",
-        "image": "shopify:\/\/shop_images\/003.png",
+        "image": "shopify://shop_images/003.png",
         "allow_transparent_header": false,
         "reveal_on_scroll": true,
         "remove_vertical_spacing": false,
@@ -83,7 +92,7 @@
       "settings": {
         "color_scheme": "scheme-1",
         "image_size": "auto",
-        "image": "shopify:\/\/shop_images\/004.png",
+        "image": "shopify://shop_images/004.png",
         "allow_transparent_header": false,
         "reveal_on_scroll": true,
         "remove_vertical_spacing": false,
@@ -102,7 +111,7 @@
       "settings": {
         "color_scheme": "scheme-1",
         "image_size": "auto",
-        "image": "shopify:\/\/shop_images\/005.png",
+        "image": "shopify://shop_images/005.png",
         "allow_transparent_header": false,
         "reveal_on_scroll": true,
         "remove_vertical_spacing": false,
@@ -121,7 +130,7 @@
       "settings": {
         "color_scheme": "scheme-1",
         "image_size": "auto",
-        "image": "shopify:\/\/shop_images\/006.png",
+        "image": "shopify://shop_images/006.png",
         "allow_transparent_header": false,
         "reveal_on_scroll": true,
         "remove_vertical_spacing": false,
@@ -140,7 +149,7 @@
       "settings": {
         "color_scheme": "scheme-1",
         "image_size": "auto",
-        "image": "shopify:\/\/shop_images\/007.png",
+        "image": "shopify://shop_images/007.png",
         "allow_transparent_header": false,
         "reveal_on_scroll": true,
         "remove_vertical_spacing": false,
@@ -159,7 +168,7 @@
       "settings": {
         "color_scheme": "scheme-1",
         "image_size": "auto",
-        "image": "shopify:\/\/shop_images\/008.png",
+        "image": "shopify://shop_images/008.png",
         "allow_transparent_header": false,
         "reveal_on_scroll": true,
         "remove_vertical_spacing": false,

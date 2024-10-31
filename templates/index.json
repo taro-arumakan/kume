@@ -1,3 +1,12 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "sections": {
     "slideshow": {
@@ -6,8 +15,8 @@
         "video_fAdeKw": {
           "type": "video",
           "settings": {
-            "video": "shopify:\/\/files\/videos\/SP_FW_0318_1_2.mp4",
-            "mobile_video": "shopify:\/\/files\/videos\/SP_FW_0318_1_2.mp4",
+            "video": "shopify://files/videos/SP_FW_0318_1_2.mp4",
+            "mobile_video": "shopify://files/videos/SP_FW_0318_1_2.mp4",
             "allow_sound": false,
             "subheading": "",
             "title": "",
@@ -34,8 +43,8 @@
         "slide-1": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/PC_20240118_KUME92901.jpg",
-            "mobile_image": "shopify:\/\/shop_images\/SP_20240118_KUME92901_2.jpg",
+            "image": "shopify://shop_images/PC_20240118_KUME92901.jpg",
+            "mobile_image": "shopify://shop_images/SP_20240118_KUME92901_2.jpg",
             "subheading": "",
             "title": "",
             "mobile_text_position": "place-self-center text-center",
@@ -61,8 +70,8 @@
         "slide-2": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/PC_20240118_KUME92976.jpg",
-            "mobile_image": "shopify:\/\/shop_images\/SP_20240118_KUME92991_2.jpg",
+            "image": "shopify://shop_images/PC_20240118_KUME92976.jpg",
+            "mobile_image": "shopify://shop_images/SP_20240118_KUME92991_2.jpg",
             "subheading": "",
             "title": "",
             "mobile_text_position": "place-self-center text-center",
@@ -88,8 +97,8 @@
         "image_99KbiQ": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/PC_20240118_KUME93181.jpg",
-            "mobile_image": "shopify:\/\/shop_images\/SP_20240118_KUME93146_2.jpg",
+            "image": "shopify://shop_images/PC_20240118_KUME93181.jpg",
+            "mobile_image": "shopify://shop_images/SP_20240118_KUME93146_2.jpg",
             "subheading": "",
             "title": "",
             "mobile_text_position": "place-self-center text-center",
@@ -175,7 +184,7 @@
             "collection": "recommend",
             "products_count": 4,
             "title": "RECOMMEND",
-            "link_url": "shopify:\/\/collections\/recommend",
+            "link_url": "shopify://collections/recommend",
             "link_text": "View all"
           }
         }
@@ -204,9 +213,9 @@
         "collection_rYrVKE": {
           "type": "collection",
           "settings": {
-            "collection": "ss24",
+            "collection": "fw24",
             "products_count": 4,
-            "title": "24SS COLLECTION",
+            "title": "24AW COLLECTION",
             "link_url": "",
             "link_text": "View all"
           }
@@ -236,15 +245,15 @@
         "image_JkYFYT": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/001_f4632d0b-430d-45e6-8d54-ce910a5beeaf.png",
-            "mobile_image": "shopify:\/\/shop_images\/001_f4632d0b-430d-45e6-8d54-ce910a5beeaf.png",
+            "image": "shopify://shop_images/001_f4632d0b-430d-45e6-8d54-ce910a5beeaf.png",
+            "mobile_image": "shopify://shop_images/001_f4632d0b-430d-45e6-8d54-ce910a5beeaf.png",
             "subheading": "",
             "title": "",
             "mobile_text_position": "place-self-center text-center",
             "desktop_text_position": "sm:place-self-center sm:text-center",
             "content_max_width": 780,
             "button_1_text": "",
-            "button_1_link": "shopify:\/\/pages\/24aw-collection",
+            "button_1_link": "shopify://pages/24aw-collection",
             "button_1_style": "solid",
             "button_1_background": "#ffffff",
             "button_1_text_color": "#000000",
@@ -266,7 +275,7 @@
       ],
       "custom_css": [
         "slideshow-carousel {padding-block-start: 5rem;}",
-        ".content-over-media>picture img {min-width: unset;}"
+        ".content-over-media > picture img {min-width: unset;}"
       ],
       "settings": {
         "allow_transparent_header": false,
