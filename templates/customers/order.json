@@ -11,8 +11,7 @@
   "sections": {
     "main": {
       "type": "main-customers-order",
-      "settings": {
-      }
+      "settings": {}
     }
   },
   "order": [

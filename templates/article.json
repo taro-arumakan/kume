@@ -11,13 +11,11 @@
   "sections": {
     "main": {
       "type": "main-article",
-      "settings": {
-      }
+      "settings": {}
     },
     "prev-next-blog-posts": {
       "type": "prev-next-blog-posts",
-      "settings": {
-      }
+      "settings": {}
     }
   },
   "order": [

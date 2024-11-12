@@ -51,9 +51,7 @@
     },
     "header": {
       "type": "header",
-      "custom_css": [
-
-      ],
+      "custom_css": [],
       "settings": {
         "color_scheme": "scheme-1",
         "enable_sticky": true,

@@ -14,15 +14,13 @@
       "blocks": {
         "orders": {
           "type": "orders",
-          "settings": {
-          }
+          "settings": {}
         }
       },
       "block_order": [
         "orders"
       ],
-      "settings": {
-      }
+      "settings": {}
     }
   },
   "order": [

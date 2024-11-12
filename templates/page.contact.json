@@ -12,13 +12,11 @@
     "main": {
       "type": "main-page",
       "disabled": true,
-      "settings": {
-      }
+      "settings": {}
     },
     "contact-form": {
       "type": "contact",
-      "settings": {
-      }
+      "settings": {}
     }
   },
   "order": [

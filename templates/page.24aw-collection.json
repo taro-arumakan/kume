@@ -15,9 +15,7 @@
       "settings": {
         "color_scheme": "",
         "show_title": true,
-        "collections": [
-
-        ],
+        "collections": [],
         "collections_per_row_mobile": "1",
         "collections_per_row_desktop": 3,
         "image_size": "auto",

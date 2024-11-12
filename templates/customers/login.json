@@ -14,15 +14,13 @@
       "blocks": {
         "fields": {
           "type": "fields",
-          "settings": {
-          }
+          "settings": {}
         }
       },
       "block_order": [
         "fields"
       ],
-      "settings": {
-      }
+      "settings": {}
     }
   },
   "order": [

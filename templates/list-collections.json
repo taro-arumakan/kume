@@ -11,8 +11,7 @@
   "sections": {
     "main": {
       "type": "main-list-collections",
-      "settings": {
-      }
+      "settings": {}
     }
   },
   "order": [
