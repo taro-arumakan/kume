@@ -1,17 +1,35 @@
-/*
- * ------------------------------------------------------------
- * IMPORTANT: The contents of this file are auto-generated.
- *
- * This file may be updated by the Shopify admin theme editor
- * or related systems. Please exercise caution as any changes
- * made to this file may be overwritten.
- * ------------------------------------------------------------
- */
 {
   "sections": {
     "slideshow": {
       "type": "slideshow",
       "blocks": {
+        "image_NUC4Uf": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/kume_winter_24_outerwear_fair_pc_2_0.png",
+            "mobile_image": "shopify://shop_images/kume_winter_24_outerwear_fair_sp_2_0.png",
+            "subheading": "",
+            "title": "",
+            "mobile_text_position": "place-self-center text-center",
+            "desktop_text_position": "sm:place-self-center sm:text-center",
+            "content_max_width": 780,
+            "button_1_text": "",
+            "button_1_link": "shopify://collections/202411-outerwear-fair",
+            "button_1_style": "solid",
+            "button_1_background": "#ffffff",
+            "button_1_text_color": "#000000",
+            "button_2_text": "",
+            "button_2_link": "",
+            "button_2_style": "outline",
+            "button_2_background": "#ffffff",
+            "button_2_text_color": "#000000",
+            "background": "",
+            "background_opacity": 50,
+            "text_color": "#ffffff",
+            "border_color": "",
+            "gradient_overlay": ""
+          }
+        },
         "video_fAdeKw": {
           "type": "video",
           "settings": {
@@ -123,6 +141,7 @@
         }
       },
       "block_order": [
+        "image_NUC4Uf",
         "video_fAdeKw",
         "slide-1",
         "slide-2",
@@ -143,6 +162,34 @@
         "controls_color": "#ffffff"
       }
     },
+    "featured_collections_h7y7Ct": {
+      "type": "featured-collections",
+      "blocks": {
+        "collection_M6X879": {
+          "type": "collection",
+          "settings": {
+            "collection": "202411-outerwear-fair",
+            "products_count": 4,
+            "title": "Outerwear Fair",
+            "link_url": "shopify://collections/202411-outerwear-fair",
+            "link_text": "View all"
+          }
+        }
+      },
+      "block_order": ["collection_M6X879"],
+      "custom_css": [".section-spacing {padding-block-start: 5rem;}"],
+      "settings": {
+        "color_scheme": "",
+        "separate_section_with_border": true,
+        "hide_product_information": false,
+        "stack_products": true,
+        "products_per_row_mobile": "2",
+        "products_per_row_desktop": 4,
+        "horizontal_spacing_factor": 1,
+        "vertical_spacing_factor": 1,
+        "subheading": ""
+      }
+    },
     "featured_collections_gXQ4xX": {
       "type": "featured-collections",
       "blocks": {
@@ -157,12 +204,8 @@
           }
         }
       },
-      "block_order": [
-        "collection_rQAaCC"
-      ],
-      "custom_css": [
-        ".section-spacing {padding-block-start: 5rem;}"
-      ],
+      "block_order": ["collection_rQAaCC"],
+      "custom_css": [".section-spacing {padding-block-start: 5rem;}"],
       "settings": {
         "color_scheme": "",
         "separate_section_with_border": false,
@@ -189,12 +232,8 @@
           }
         }
       },
-      "block_order": [
-        "collection_zr6qGz"
-      ],
-      "custom_css": [
-        ".section-spacing {padding-block-start: 5rem;}"
-      ],
+      "block_order": ["collection_zr6qGz"],
+      "custom_css": [".section-spacing {padding-block-start: 5rem;}"],
       "settings": {
         "color_scheme": "",
         "separate_section_with_border": false,
@@ -221,12 +260,8 @@
           }
         }
       },
-      "block_order": [
-        "collection_rYrVKE"
-      ],
-      "custom_css": [
-        ".section-spacing {padding-block-start: 5rem;}"
-      ],
+      "block_order": ["collection_rYrVKE"],
+      "custom_css": [".section-spacing {padding-block-start: 5rem;}"],
       "settings": {
         "color_scheme": "",
         "separate_section_with_border": false,
@@ -270,9 +305,7 @@
           }
         }
       },
-      "block_order": [
-        "image_JkYFYT"
-      ],
+      "block_order": ["image_JkYFYT"],
       "custom_css": [
         "slideshow-carousel {padding-block-start: 5rem;}",
         ".content-over-media > picture img {min-width: unset;}"
@@ -292,6 +325,7 @@
   },
   "order": [
     "slideshow",
+    "featured_collections_h7y7Ct",
     "featured_collections_gXQ4xX",
     "featured_collections_fwC7AD",
     "featured_collections_XmV7Vg",
