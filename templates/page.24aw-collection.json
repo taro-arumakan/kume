@@ -1,12 +1,3 @@
-/*
- * ------------------------------------------------------------
- * IMPORTANT: The contents of this file are auto-generated.
- *
- * This file may be updated by the Shopify admin theme editor
- * or related systems. Please exercise caution as any changes
- * made to this file may be overwritten.
- * ------------------------------------------------------------
- */
 {
   "sections": {
     "main": {
@@ -27,9 +18,7 @@
     },
     "image_with_text_overlay_8cQLHp": {
       "type": "image-with-text-overlay",
-      "custom_css": [
-        ".content-over-media > picture img {min-width: unset;}"
-      ],
+      "custom_css": [".content-over-media > picture img {min-width: unset;}"],
       "settings": {
         "color_scheme": "scheme-1",
         "image_size": "auto",
@@ -46,9 +35,7 @@
     },
     "image_with_text_overlay_beJcUf": {
       "type": "image-with-text-overlay",
-      "custom_css": [
-        ".content-over-media > picture img {min-width: unset;}"
-      ],
+      "custom_css": [".content-over-media > picture img {min-width: unset;}"],
       "settings": {
         "color_scheme": "scheme-1",
         "image_size": "auto",
@@ -65,9 +52,7 @@
     },
     "image_with_text_overlay_x4Hh9D": {
       "type": "image-with-text-overlay",
-      "custom_css": [
-        ".content-over-media > picture img {min-width: unset;}"
-      ],
+      "custom_css": [".content-over-media > picture img {min-width: unset;}"],
       "settings": {
         "color_scheme": "scheme-1",
         "image_size": "auto",
@@ -84,9 +69,7 @@
     },
     "image_with_text_overlay_yYmN6T": {
       "type": "image-with-text-overlay",
-      "custom_css": [
-        ".content-over-media > picture img {min-width: unset;}"
-      ],
+      "custom_css": [".content-over-media > picture img {min-width: unset;}"],
       "settings": {
         "color_scheme": "scheme-1",
         "image_size": "auto",
@@ -103,9 +86,7 @@
     },
     "image_with_text_overlay_fTcW83": {
       "type": "image-with-text-overlay",
-      "custom_css": [
-        ".content-over-media > picture img {min-width: unset;}"
-      ],
+      "custom_css": [".content-over-media > picture img {min-width: unset;}"],
       "settings": {
         "color_scheme": "scheme-1",
         "image_size": "auto",
@@ -122,9 +103,7 @@
     },
     "image_with_text_overlay_RLAkC3": {
       "type": "image-with-text-overlay",
-      "custom_css": [
-        ".content-over-media > picture img {min-width: unset;}"
-      ],
+      "custom_css": [".content-over-media > picture img {min-width: unset;}"],
       "settings": {
         "color_scheme": "scheme-1",
         "image_size": "auto",
@@ -141,9 +120,7 @@
     },
     "image_with_text_overlay_Ber6BH": {
       "type": "image-with-text-overlay",
-      "custom_css": [
-        ".content-over-media > picture img {min-width: unset;}"
-      ],
+      "custom_css": [".content-over-media > picture img {min-width: unset;}"],
       "settings": {
         "color_scheme": "scheme-1",
         "image_size": "auto",
@@ -160,9 +137,7 @@
     },
     "image_with_text_overlay_GVFWCQ": {
       "type": "image-with-text-overlay",
-      "custom_css": [
-        ".content-over-media > picture img {min-width: unset;}"
-      ],
+      "custom_css": [".content-over-media > picture img {min-width: unset;}"],
       "settings": {
         "color_scheme": "scheme-1",
         "image_size": "auto",

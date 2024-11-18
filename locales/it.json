@@ -1,12 +1,3 @@
-/*
- * ------------------------------------------------------------
- * IMPORTANT: The contents of this file are auto-generated.
- *
- * This file may be updated by the Shopify admin language editor
- * or related systems. Please exercise caution as any changes
- * made to this file may be overwritten.
- * ------------------------------------------------------------
- */
 {
   "general": {
     "page": "Pagina {{ page }}",
@@ -27,28 +18,20 @@
       "unmute_video": "Riattiva audio",
       "rss_feed": "Feed RSS"
     },
-    "label": {
-      "color": "Colore",
-      "white": "Bianco",
-      "size": "Taglia"
-    },
+    "label": { "color": "Colore", "white": "Bianco", "size": "Taglia" },
     "breadcrumb": {
       "label": "Percorso di navigazione",
       "home": "Home",
       "shop": "Negozio"
     },
-    "reviews": {
-      "title": "Recensioni"
-    },
+    "reviews": { "title": "Recensioni" },
     "social": {
       "follow_on": "Seguici su {{ social_media }}",
       "share": "Condividi",
       "share_on": "Condividi su {{ social_media }}",
       "share_email": "Condividi via mail"
     },
-    "rating": {
-      "info": "{{ rating_value }} stelle su {{ rating_max }}"
-    },
+    "rating": { "info": "{{ rating_value }} stelle su {{ rating_max }}" },
     "newsletter": {
       "email": "E-mail",
       "subscribe": "Iscriviti alla newsletter",
@@ -59,13 +42,8 @@
       "country": "Paese/Area geografica",
       "language": "Lingua"
     },
-    "privacy_banner": {
-      "accept": "Accetta",
-      "decline": "Rifiuta"
-    },
-    "form": {
-      "max_characters": "Massimo {{ max_chars }} caratteri"
-    },
+    "privacy_banner": { "accept": "Accetta", "decline": "Rifiuta" },
+    "form": { "max_characters": "Massimo {{ max_chars }} caratteri" },
     "on_boarding": {
       "blog_post_category": "Categoria",
       "blog_post_title": "Articolo",

@@ -1,28 +1,10 @@
-/*
- * ------------------------------------------------------------
- * IMPORTANT: The contents of this file are auto-generated.
- *
- * This file may be updated by the Shopify admin theme editor
- * or related systems. Please exercise caution as any changes
- * made to this file may be overwritten.
- * ------------------------------------------------------------
- */
 {
   "sections": {
     "main": {
       "type": "main-product",
       "blocks": {
-        "vendor": {
-          "type": "vendor",
-          "disabled": true,
-          "settings": {}
-        },
-        "title": {
-          "type": "title",
-          "settings": {
-            "heading_tag": "h3"
-          }
-        },
+        "vendor": { "type": "vendor", "disabled": true, "settings": {} },
+        "title": { "type": "title", "settings": { "heading_tag": "h3" } },
         "variant_picker": {
           "type": "variant_picker",
           "settings": {
@@ -33,15 +15,10 @@
             "size_chart_page": ""
           }
         },
-        "quantity_selector": {
-          "type": "quantity_selector",
-          "settings": {}
-        },
+        "quantity_selector": { "type": "quantity_selector", "settings": {} },
         "price": {
           "type": "price",
-          "settings": {
-            "show_taxes_notice": false
-          }
+          "settings": { "show_taxes_notice": false }
         },
         "buy_buttons": {
           "type": "buy_buttons",
@@ -54,20 +31,11 @@
             "payment_button_text_color": ""
           }
         },
-        "payment_terms": {
-          "type": "payment_terms",
-          "settings": {}
-        },
-        "separator": {
-          "type": "separator",
-          "settings": {}
-        },
+        "payment_terms": { "type": "payment_terms", "settings": {} },
+        "separator": { "type": "separator", "settings": {} },
         "description": {
           "type": "description",
-          "settings": {
-            "collapse_content": false,
-            "show_below_gallery": false
-          }
+          "settings": { "collapse_content": false, "show_below_gallery": false }
         },
         "complementary_products": {
           "type": "complementary_products",
@@ -142,9 +110,5 @@
       }
     }
   },
-  "order": [
-    "main",
-    "related-products",
-    "recently_viewed_products_rTNm3d"
-  ]
+  "order": ["main", "related-products", "recently_viewed_products_rTNm3d"]
 }

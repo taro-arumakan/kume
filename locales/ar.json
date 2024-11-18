@@ -1,12 +1,3 @@
-/*
- * ------------------------------------------------------------
- * IMPORTANT: The contents of this file are auto-generated.
- *
- * This file may be updated by the Shopify admin language editor
- * or related systems. Please exercise caution as any changes
- * made to this file may be overwritten.
- * ------------------------------------------------------------
- */
 {
   "general": {
     "page": "الصفحة {{ page }}",
@@ -27,19 +18,13 @@
       "unmute_video": "إلغاء كتم صوت الفيديو",
       "rss_feed": "موجز RSS"
     },
-    "label": {
-      "color": "اللون",
-      "white": "أبيض",
-      "size": "المقاس"
-    },
+    "label": { "color": "اللون", "white": "أبيض", "size": "المقاس" },
     "breadcrumb": {
       "label": "العنوان",
       "home": "الصفحة الرئيسية",
       "shop": "المتجر"
     },
-    "reviews": {
-      "title": "المراجعات"
-    },
+    "reviews": { "title": "المراجعات" },
     "social": {
       "follow_on": "تابعنا على {{ social_media }}",
       "share": "مشاركة",
@@ -55,17 +40,9 @@
       "notify_me": "تلقي إشعار",
       "subscribed_successfully": "لقد اشتركت في رسائلنا الإخبارية."
     },
-    "localization": {
-      "country": "البلد",
-      "language": "اللغة"
-    },
-    "privacy_banner": {
-      "accept": "قبول",
-      "decline": "رفض"
-    },
-    "form": {
-      "max_characters": "{{max_chars}} من الأحرف كحد أقصى"
-    },
+    "localization": { "country": "البلد", "language": "اللغة" },
+    "privacy_banner": { "accept": "قبول", "decline": "رفض" },
+    "form": { "max_characters": "{{max_chars}} من الأحرف كحد أقصى" },
     "on_boarding": {
       "blog_post_category": "الفئة",
       "blog_post_title": "المقال",
@@ -416,11 +393,7 @@
     }
   },
   "gift_card": {
-    "general": {
-      "title": "إليك بطاقة هديتك",
-      "copy": "نسخ",
-      "print": "طباعة"
-    },
+    "general": { "title": "إليك بطاقة هديتك", "copy": "نسخ", "print": "طباعة" },
     "issued": {
       "remaining_amount": "المبلغ المتبقي",
       "redeem_instructions": "استخدم هذا الرمز لاستبدال بطاقة هديتك عند إتمام الطلب:",

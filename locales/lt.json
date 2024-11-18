@@ -1,12 +1,3 @@
-/*
- * ------------------------------------------------------------
- * IMPORTANT: The contents of this file are auto-generated.
- *
- * This file may be updated by the Shopify admin language editor
- * or related systems. Please exercise caution as any changes
- * made to this file may be overwritten.
- * ------------------------------------------------------------
- */
 {
   "general": {
     "page": "{{ page }} psl.",
@@ -27,45 +18,29 @@
       "unmute_video": "Išjungti vaizdo įrašo nutildymą",
       "rss_feed": "RSS sklaidos kanalas"
     },
-    "label": {
-      "color": "Spalva",
-      "white": "Balta",
-      "size": "Dydis"
-    },
+    "label": { "color": "Spalva", "white": "Balta", "size": "Dydis" },
     "breadcrumb": {
       "label": "Naršymo kelias",
       "home": "Pagrindinis",
       "shop": "Parduotuvė"
     },
-    "reviews": {
-      "title": "Apžvalgos"
-    },
+    "reviews": { "title": "Apžvalgos" },
     "social": {
       "follow_on": "Sekti {{ social_media }}",
       "share": "Bendrinti",
       "share_on": "Bendrinti {{ social_media }}",
       "share_email": "Bendrinti el. paštu"
     },
-    "rating": {
-      "info": "{{ rating_value }} iš {{ rating_max }} žvaigždučių"
-    },
+    "rating": { "info": "{{ rating_value }} iš {{ rating_max }} žvaigždučių" },
     "newsletter": {
       "email": "El. paštas",
       "subscribe": "Prenumeruoti",
       "notify_me": "Pranešti man",
       "subscribed_successfully": "Užsiprenumeravote mūsų naujienlaiškį."
     },
-    "localization": {
-      "country": "Šalis",
-      "language": "Kalba"
-    },
-    "privacy_banner": {
-      "accept": "Priimti",
-      "decline": "Atmesti"
-    },
-    "form": {
-      "max_characters": "Daugiausia {{ max_chars }} simbolių"
-    },
+    "localization": { "country": "Šalis", "language": "Kalba" },
+    "privacy_banner": { "accept": "Priimti", "decline": "Atmesti" },
+    "form": { "max_characters": "Daugiausia {{ max_chars }} simbolių" },
     "on_boarding": {
       "blog_post_category": "Kategorija",
       "blog_post_title": "Straipsnis",

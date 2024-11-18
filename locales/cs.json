@@ -1,12 +1,3 @@
-/*
- * ------------------------------------------------------------
- * IMPORTANT: The contents of this file are auto-generated.
- *
- * This file may be updated by the Shopify admin language editor
- * or related systems. Please exercise caution as any changes
- * made to this file may be overwritten.
- * ------------------------------------------------------------
- */
 {
   "general": {
     "page": "Strana {{ page }}",
@@ -27,45 +18,25 @@
       "unmute_video": "Zapnout zvuk videa",
       "rss_feed": "Feed RSS"
     },
-    "label": {
-      "color": "Barva",
-      "white": "Bílá",
-      "size": "Velikost"
-    },
-    "breadcrumb": {
-      "label": "Popis cesty",
-      "home": "Domů",
-      "shop": "Obchod"
-    },
-    "reviews": {
-      "title": "Hodnocení"
-    },
+    "label": { "color": "Barva", "white": "Bílá", "size": "Velikost" },
+    "breadcrumb": { "label": "Popis cesty", "home": "Domů", "shop": "Obchod" },
+    "reviews": { "title": "Hodnocení" },
     "social": {
       "follow_on": "Sledovat na {{ social_media }}",
       "share": "Sdílet",
       "share_on": "Sdílet na {{ social_media }}",
       "share_email": "Sdílet e-mailem"
     },
-    "rating": {
-      "info": "{{ rating_value }} z {{ rating_max }} hvězdiček"
-    },
+    "rating": { "info": "{{ rating_value }} z {{ rating_max }} hvězdiček" },
     "newsletter": {
       "email": "E-mail",
       "subscribe": "Přihlásit se k odběru",
       "notify_me": "Informujte mě",
       "subscribed_successfully": "Byli jste přihlášeni k odběru našeho zpravodaje."
     },
-    "localization": {
-      "country": "Země",
-      "language": "Jazyk"
-    },
-    "privacy_banner": {
-      "accept": "Přijmout",
-      "decline": "Odmítnout"
-    },
-    "form": {
-      "max_characters": "Maximální počet znaků: {{ max_chars }}"
-    },
+    "localization": { "country": "Země", "language": "Jazyk" },
+    "privacy_banner": { "accept": "Přijmout", "decline": "Odmítnout" },
+    "form": { "max_characters": "Maximální počet znaků: {{ max_chars }}" },
     "on_boarding": {
       "blog_post_category": "Kategorie",
       "blog_post_title": "Článek",
