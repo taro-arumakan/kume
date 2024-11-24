@@ -1,3 +1,12 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "sections": {
     "main": {
@@ -15,15 +24,23 @@
         "play_6rHbh7": {
           "type": "play",
           "disabled": true,
-          "settings": { "icon_color": "#ffffff" }
+          "settings": {
+            "icon_color": "#ffffff"
+          }
         },
         "heading_RkBRGm": {
           "type": "heading",
           "disabled": true,
-          "settings": { "text": "Video", "heading_tag": "h2" }
+          "settings": {
+            "text": "Video",
+            "heading_tag": "h2"
+          }
         }
       },
-      "block_order": ["play_6rHbh7", "heading_RkBRGm"],
+      "block_order": [
+        "play_6rHbh7",
+        "heading_RkBRGm"
+      ],
       "settings": {
         "autoplay": true,
         "show_controls": false,
@@ -46,7 +63,9 @@
           }
         }
       },
-      "block_order": ["logo_LHaNYC"],
+      "block_order": [
+        "logo_LHaNYC"
+      ],
       "settings": {
         "color_scheme": "scheme-1",
         "separate_section_with_border": false,
@@ -63,12 +82,17 @@
         "subheading_8AhW6M": {
           "type": "subheading",
           "disabled": true,
-          "settings": { "text": "Subheading" }
+          "settings": {
+            "text": "Subheading"
+          }
         },
         "heading_qww3gd": {
           "type": "heading",
           "disabled": true,
-          "settings": { "text": "Heading", "heading_tag": "h1" }
+          "settings": {
+            "text": "Heading",
+            "heading_tag": "h1"
+          }
         },
         "richtext_4mqMVb": {
           "type": "richtext",
@@ -77,7 +101,11 @@
           }
         }
       },
-      "block_order": ["subheading_8AhW6M", "heading_qww3gd", "richtext_4mqMVb"],
+      "block_order": [
+        "subheading_8AhW6M",
+        "heading_qww3gd",
+        "richtext_4mqMVb"
+      ],
       "disabled": true,
       "custom_css": [
         "@media screen and (min-width: 700px) {.prose {line-height: 2.1rem; }}",

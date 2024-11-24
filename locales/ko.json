@@ -1,3 +1,12 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin language editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "general": {
     "page": "페이지 {{ page }}",
@@ -23,24 +32,40 @@
       "white": "흰색",
       "size": "사이즈"
     },
-    "breadcrumb": { "label": "이동 경로", "home": "홈", "shop": "상점" },
-    "reviews": { "title": "리뷰" },
+    "breadcrumb": {
+      "label": "이동 경로",
+      "home": "홈",
+      "shop": "상점"
+    },
+    "reviews": {
+      "title": "리뷰"
+    },
     "social": {
       "follow_on": "{{ social_media }}에서 팔로우",
       "share": "공유",
       "share_on": "{{ social_media }}에서 공유",
       "share_email": "이메일로 공유"
     },
-    "rating": { "info": "별점 {{ rating_value }}/{{ rating_max }}" },
+    "rating": {
+      "info": "별점 {{ rating_value }}/{{ rating_max }}"
+    },
     "newsletter": {
       "email": "이메일",
       "subscribe": "구독",
       "notify_me": "알림 받기",
       "subscribed_successfully": "뉴스레터 구독을 완료했습니다."
     },
-    "localization": { "country": "국가", "language": "언어" },
-    "privacy_banner": { "accept": "수락", "decline": "거절" },
-    "form": { "max_characters": "최대 {{ max_chars }}자" },
+    "localization": {
+      "country": "국가",
+      "language": "언어"
+    },
+    "privacy_banner": {
+      "accept": "수락",
+      "decline": "거절"
+    },
+    "form": {
+      "max_characters": "최대 {{ max_chars }}자"
+    },
     "on_boarding": {
       "blog_post_category": "카테고리",
       "blog_post_title": "게시글",
@@ -85,7 +110,9 @@
       "taxes_excluded": "세금 별도.",
       "shipping_policy_html": "체크아웃 시 <a href=\"{{ link }}\" class=\"link\">배송료 계산</a>",
       "size_chart": "사이즈 차트",
-      "available_colors_count": { "other": "{{ count }}개 색상 가능" }
+      "available_colors_count": {
+        "other": "{{ count }}개 색상 가능"
+      }
     },
     "gallery": {
       "close": "갤러리 닫기",
@@ -104,7 +131,10 @@
       "decrease_quantity": "수량 줄이기",
       "cannot_add_more": "더 이상 추가할 수 없습니다"
     },
-    "rating_count": { "zero": "리뷰 없음", "other": "{{ count }}개의 리뷰" },
+    "rating_count": {
+      "zero": "리뷰 없음",
+      "other": "{{ count }}개의 리뷰"
+    },
     "inventory": {
       "in_stock": "재고 있음",
       "in_stock_with_quantity_count": {
@@ -135,7 +165,9 @@
       "no_collections": "이 스토어에는 컬렉션이 없습니다.",
       "continue_shopping": "쇼핑 계속하기"
     },
-    "products_count": { "other": "상품 {{ count }}개" },
+    "products_count": {
+      "other": "상품 {{ count }}개"
+    },
     "faceting": {
       "filters": "필터",
       "filter_button": "필터",
@@ -179,7 +211,9 @@
       "submit": "제출",
       "comment_sent": "댓글이 전송되었습니다. 현재 블로그를 검토 중이므로, 잠시 후 게시하겠습니다.",
       "comment_published": "댓글이 게시되었습니다.",
-      "count": { "other": "댓글 {{ count }}개" }
+      "count": {
+        "other": "댓글 {{ count }}개"
+      }
     }
   },
   "contact": {
@@ -364,7 +398,9 @@
       "view_all_results": "모든 결과 보기",
       "no_results": "결과를 찾을 수 없습니다."
     },
-    "results_count": { "other": "{{ count }}개의 결과" },
+    "results_count": {
+      "other": "{{ count }}개의 결과"
+    },
     "results_count_for_terms": {
       "other": "\"{{ terms }}\" 검색 결과 {{ count }}개"
     }

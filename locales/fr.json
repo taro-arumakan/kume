@@ -1,3 +1,12 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin language editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "general": {
     "page": "Page {{ page }}",
@@ -23,24 +32,40 @@
       "home": "Accueil",
       "shop": "Shop"
     },
-    "reviews": { "title": "Avis clients" },
-    "label": { "color": "Couleur", "white": "Blanc", "size": "Taille" },
+    "reviews": {
+      "title": "Avis clients"
+    },
+    "label": {
+      "color": "Couleur",
+      "white": "Blanc",
+      "size": "Taille"
+    },
     "social": {
       "follow_on": "Nous suivre sur {{ social_media }}",
       "share": "Partager",
       "share_on": "Partager sur {{ social_media }}",
       "share_email": "Partager par email"
     },
-    "rating": { "info": "{{ rating_value }} sur {{ rating_max }} étoiles" },
+    "rating": {
+      "info": "{{ rating_value }} sur {{ rating_max }} étoiles"
+    },
     "newsletter": {
       "email": "E-mail",
       "subscribe": "S'inscrire",
       "notify_me": "Me notifier",
       "subscribed_successfully": "Vous êtes maintenant inscrit à notre newsletter."
     },
-    "localization": { "country": "Pays", "language": "Langue" },
-    "privacy_banner": { "accept": "Accepter", "decline": "Refuser" },
-    "form": { "max_characters": "{{ max_chars }} caractères au maximum" },
+    "localization": {
+      "country": "Pays",
+      "language": "Langue"
+    },
+    "privacy_banner": {
+      "accept": "Accepter",
+      "decline": "Refuser"
+    },
+    "form": {
+      "max_characters": "{{ max_chars }} caractères au maximum"
+    },
     "on_boarding": {
       "blog_post_category": "Catégorie",
       "blog_post_title": "Article",

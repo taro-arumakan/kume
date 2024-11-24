@@ -1,3 +1,12 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin language editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "general": {
     "page": "Σελίδα {{ page }}",
@@ -18,29 +27,45 @@
       "unmute_video": "Κατάργηση σίγασης βίντεο",
       "rss_feed": "Ροή RSS"
     },
-    "label": { "color": "Χρώμα", "white": "Λευκό", "size": "Μέγεθος" },
+    "label": {
+      "color": "Χρώμα",
+      "white": "Λευκό",
+      "size": "Μέγεθος"
+    },
     "breadcrumb": {
       "label": "Διαδρομή",
       "home": "Αρχική",
       "shop": "Κατάστημα"
     },
-    "reviews": { "title": "Κριτικές" },
+    "reviews": {
+      "title": "Κριτικές"
+    },
     "social": {
       "follow_on": "Ακολουθήστε στο {{ social_media }}",
       "share": "Κοινοποίηση",
       "share_on": "Κοινοποίηση στο {{ social_media }}",
       "share_email": "Κοινοποίηση μέσω email"
     },
-    "rating": { "info": "{{ rating_value }} από {{ rating_max }} αστέρια" },
+    "rating": {
+      "info": "{{ rating_value }} από {{ rating_max }} αστέρια"
+    },
     "newsletter": {
       "email": "E-mail",
       "subscribe": "Εγγραφή",
       "notify_me": "Ειδοποιήστε με",
       "subscribed_successfully": "Έχετε εγγραφεί στο ενημερωτικό δελτίο μας."
     },
-    "localization": { "country": "Χώρα", "language": "Γλώσσα" },
-    "privacy_banner": { "accept": "Αποδοχή", "decline": "Απόρριψη" },
-    "form": { "max_characters": "Έως {{ max_chars }} χαρακτήρες" },
+    "localization": {
+      "country": "Χώρα",
+      "language": "Γλώσσα"
+    },
+    "privacy_banner": {
+      "accept": "Αποδοχή",
+      "decline": "Απόρριψη"
+    },
+    "form": {
+      "max_characters": "Έως {{ max_chars }} χαρακτήρες"
+    },
     "on_boarding": {
       "blog_post_category": "Κατηγορία",
       "blog_post_title": "Άρθρο",

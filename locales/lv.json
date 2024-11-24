@@ -1,3 +1,12 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin language editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "general": {
     "page": "{{ page }}. lappuse",
@@ -18,29 +27,45 @@
       "unmute_video": "Ieslēgt video skaņu",
       "rss_feed": "RSS plūsma"
     },
-    "label": { "color": "Krāsa", "white": "Balts", "size": "Izmērs" },
+    "label": {
+      "color": "Krāsa",
+      "white": "Balts",
+      "size": "Izmērs"
+    },
     "breadcrumb": {
       "label": "Atpakaļceļš",
       "home": "Sākums",
       "shop": "Veikals"
     },
-    "reviews": { "title": "Atsauksmes" },
+    "reviews": {
+      "title": "Atsauksmes"
+    },
     "social": {
       "follow_on": "Sekot {{ social_media }}",
       "share": "Dalīties",
       "share_on": "Dalīties vietnē {{ social_media }}",
       "share_email": "Dalīties e-pastā"
     },
-    "rating": { "info": "{{ rating_value }} no {{ rating_max }} zvaigznēm" },
+    "rating": {
+      "info": "{{ rating_value }} no {{ rating_max }} zvaigznēm"
+    },
     "newsletter": {
       "email": "E-pasts",
       "subscribe": "Abonēt",
       "notify_me": "Ziņot man",
       "subscribed_successfully": "Jūs abonējāt mūsu biļetenu."
     },
-    "localization": { "country": "Valsts", "language": "Valoda" },
-    "privacy_banner": { "accept": "Pieņemt", "decline": "Noraidīt" },
-    "form": { "max_characters": "{{ max_chars }} rakstzīmes maks" },
+    "localization": {
+      "country": "Valsts",
+      "language": "Valoda"
+    },
+    "privacy_banner": {
+      "accept": "Pieņemt",
+      "decline": "Noraidīt"
+    },
+    "form": {
+      "max_characters": "{{ max_chars }} rakstzīmes maks"
+    },
     "on_boarding": {
       "blog_post_category": "Kategorija",
       "blog_post_title": "Raksts",

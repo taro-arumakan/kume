@@ -1,3 +1,12 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin language editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "general": {
     "page": "Pagina {{ page }}",
@@ -18,29 +27,45 @@
       "unmute_video": "Dempen video opheffen",
       "rss_feed": "RSS-feed"
     },
-    "label": { "color": "Kleur", "white": "Wit", "size": "Maat" },
+    "label": {
+      "color": "Kleur",
+      "white": "Wit",
+      "size": "Maat"
+    },
     "breadcrumb": {
       "label": "Broodkruimel",
       "home": "Start",
       "shop": "Winkel"
     },
-    "reviews": { "title": "Beoordelingen" },
+    "reviews": {
+      "title": "Beoordelingen"
+    },
     "social": {
       "follow_on": "Volgen op {{ social_media }}",
       "share": "Delen",
       "share_on": "Delen op {{ social_media }}",
       "share_email": "Delen via e-mail"
     },
-    "rating": { "info": "{{ rating_value }} van de {{ rating_max }} sterren" },
+    "rating": {
+      "info": "{{ rating_value }} van de {{ rating_max }} sterren"
+    },
     "newsletter": {
       "email": "E-mailadres",
       "subscribe": "Abonneren",
       "notify_me": "Mij melden",
       "subscribed_successfully": "Je bent geabonneerd op onze nieuwsbrief."
     },
-    "localization": { "country": "Land", "language": "Taal" },
-    "privacy_banner": { "accept": "Accepteren", "decline": "Weigeren" },
-    "form": { "max_characters": "Maximaal {{ max_chars }} tekens" },
+    "localization": {
+      "country": "Land",
+      "language": "Taal"
+    },
+    "privacy_banner": {
+      "accept": "Accepteren",
+      "decline": "Weigeren"
+    },
+    "form": {
+      "max_characters": "Maximaal {{ max_chars }} tekens"
+    },
     "on_boarding": {
       "blog_post_category": "Categorie",
       "blog_post_title": "Artikel",

@@ -1,3 +1,12 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin language editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "general": {
     "page": "Стр. {{ page }}",
@@ -18,29 +27,45 @@
       "unmute_video": "Включить звук видео",
       "rss_feed": "RSS-канал"
     },
-    "label": { "color": "Цвет", "white": "Белый", "size": "Размер" },
+    "label": {
+      "color": "Цвет",
+      "white": "Белый",
+      "size": "Размер"
+    },
     "breadcrumb": {
       "label": "Навигация по сайту",
       "home": "Главная",
       "shop": "Магазин"
     },
-    "reviews": { "title": "Отзывы" },
+    "reviews": {
+      "title": "Отзывы"
+    },
     "social": {
       "follow_on": "Подписаться на {{ social_media }}",
       "share": "Поделиться",
       "share_on": "Поделиться в {{ social_media }}",
       "share_email": "Отправить по эл. почте"
     },
-    "rating": { "info": "{{ rating_value }} из {{ rating_max }} звезд" },
+    "rating": {
+      "info": "{{ rating_value }} из {{ rating_max }} звезд"
+    },
     "newsletter": {
       "email": "Эл. почта",
       "subscribe": "Подписаться",
       "notify_me": "Уведомить меня",
       "subscribed_successfully": "Вы подписались на нашу новостную рассылку."
     },
-    "localization": { "country": "Страна", "language": "Язык" },
-    "privacy_banner": { "accept": "Принять", "decline": "Отклонить" },
-    "form": { "max_characters": "Не больше {{ max_chars }} симв." },
+    "localization": {
+      "country": "Страна",
+      "language": "Язык"
+    },
+    "privacy_banner": {
+      "accept": "Принять",
+      "decline": "Отклонить"
+    },
+    "form": {
+      "max_characters": "Не больше {{ max_chars }} симв."
+    },
     "on_boarding": {
       "blog_post_category": "Категория",
       "blog_post_title": "Статья",

@@ -1,3 +1,12 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin language editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "general": {
     "page": "Side {{ page }}",
@@ -18,25 +27,45 @@
       "unmute_video": "Slå på lyden",
       "rss_feed": "RSS-feed"
     },
-    "label": { "color": "Farge", "white": "Hvit", "size": "Størrelse" },
-    "breadcrumb": { "label": "Brødsmule", "home": "Hjem", "shop": "Butikk" },
-    "reviews": { "title": "Omtaler" },
+    "label": {
+      "color": "Farge",
+      "white": "Hvit",
+      "size": "Størrelse"
+    },
+    "breadcrumb": {
+      "label": "Brødsmule",
+      "home": "Hjem",
+      "shop": "Butikk"
+    },
+    "reviews": {
+      "title": "Omtaler"
+    },
     "social": {
       "follow_on": "Følg på {{ social_media }}",
       "share": "Del",
       "share_on": "Del på {{ social_media }}",
       "share_email": "Del via e-post"
     },
-    "rating": { "info": "{{ rating_value }} av {{ rating_max }} stjerner" },
+    "rating": {
+      "info": "{{ rating_value }} av {{ rating_max }} stjerner"
+    },
     "newsletter": {
       "email": "E-post",
       "subscribe": "Abonner",
       "notify_me": "Varsle meg",
       "subscribed_successfully": "Du abonnerer nå på vårt nyhetsbrev."
     },
-    "localization": { "country": "Land", "language": "Språk" },
-    "privacy_banner": { "accept": "Godta", "decline": "Avslå" },
-    "form": { "max_characters": "Maks. {{ max_chars }} tegn" },
+    "localization": {
+      "country": "Land",
+      "language": "Språk"
+    },
+    "privacy_banner": {
+      "accept": "Godta",
+      "decline": "Avslå"
+    },
+    "form": {
+      "max_characters": "Maks. {{ max_chars }} tegn"
+    },
     "on_boarding": {
       "blog_post_category": "Kategori",
       "blog_post_title": "Artikkel",

@@ -1,3 +1,12 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin language editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "general": {
     "page": "Página {{ page }}",
@@ -18,29 +27,45 @@
       "unmute_video": "Activar sonido del vídeo",
       "rss_feed": "Fuente RSS"
     },
-    "label": { "color": "Color", "white": "Blanco", "size": "Talla,Tamaño" },
+    "label": {
+      "color": "Color",
+      "white": "Blanco",
+      "size": "Talla,Tamaño"
+    },
     "breadcrumb": {
       "label": "Ruta de navegación",
       "home": "Inicio",
       "shop": "Tienda"
     },
-    "reviews": { "title": "Opiniones" },
+    "reviews": {
+      "title": "Opiniones"
+    },
     "social": {
       "follow_on": "Síguenos en {{ social_media }}",
       "share": "Compartir",
       "share_on": "Compartir en {{ social_media }}",
       "share_email": "Compartir por correo electrónico"
     },
-    "rating": { "info": "{{ rating_value }} de {{ rating_max }} estrellas" },
+    "rating": {
+      "info": "{{ rating_value }} de {{ rating_max }} estrellas"
+    },
     "newsletter": {
       "email": "Correo electrónico",
       "subscribe": "Suscribirse",
       "notify_me": "Notificarme",
       "subscribed_successfully": "Te has suscrito a nuestro boletín."
     },
-    "localization": { "country": "País", "language": "Idioma" },
-    "privacy_banner": { "accept": "Aceptar", "decline": "Rechazar" },
-    "form": { "max_characters": "{{ max_chars }} caracteres máx." },
+    "localization": {
+      "country": "País",
+      "language": "Idioma"
+    },
+    "privacy_banner": {
+      "accept": "Aceptar",
+      "decline": "Rechazar"
+    },
+    "form": {
+      "max_characters": "{{ max_chars }} caracteres máx."
+    },
     "on_boarding": {
       "blog_post_category": "Categoría",
       "blog_post_title": "Artículo",

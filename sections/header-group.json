@@ -1,3 +1,12 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "type": "header",
   "name": "Header group",
@@ -7,7 +16,9 @@
       "blocks": {
         "message_JtBBEg": {
           "type": "message",
-          "settings": { "text": "最大30%OFF！24AW Outerwear Fair開催！" }
+          "settings": {
+            "text": "最大30%OFF！24AW Outerwear Fair開催！"
+          }
         },
         "message-1": {
           "type": "message",
@@ -23,7 +34,11 @@
           }
         }
       },
-      "block_order": ["message_JtBBEg", "message-1", "message_4Ubh6N"],
+      "block_order": [
+        "message_JtBBEg",
+        "message-1",
+        "message_4Ubh6N"
+      ],
       "settings": {
         "color_scheme": "",
         "enable_sticky": false,
@@ -63,5 +78,8 @@
       }
     }
   },
-  "order": ["announcement-bar", "header"]
+  "order": [
+    "announcement-bar",
+    "header"
+  ]
 }

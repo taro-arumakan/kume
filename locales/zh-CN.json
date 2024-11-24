@@ -1,3 +1,12 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin language editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "general": {
     "page": "第 {{ page }} 页",
@@ -18,25 +27,45 @@
       "unmute_video": "取消视频静音",
       "rss_feed": "RSS 订阅"
     },
-    "label": { "color": "颜色", "white": "白色", "size": "尺码" },
-    "breadcrumb": { "label": "痕迹导航", "home": "主页", "shop": "商店" },
-    "reviews": { "title": "评论" },
+    "label": {
+      "color": "颜色",
+      "white": "白色",
+      "size": "尺码"
+    },
+    "breadcrumb": {
+      "label": "痕迹导航",
+      "home": "主页",
+      "shop": "商店"
+    },
+    "reviews": {
+      "title": "评论"
+    },
     "social": {
       "follow_on": "在 {{ social_media }} 上关注",
       "share": "分享",
       "share_on": "在 {{ social_media }} 上分享",
       "share_email": "通过电子邮件分享"
     },
-    "rating": { "info": "{{ rating_value }} / {{ rating_max }} 颗星" },
+    "rating": {
+      "info": "{{ rating_value }} / {{ rating_max }} 颗星"
+    },
     "newsletter": {
       "email": "电子邮件",
       "subscribe": "订阅",
       "notify_me": "通知我",
       "subscribed_successfully": "您已订阅我们的新闻通讯。"
     },
-    "localization": { "country": "国家/地区", "language": "语言" },
-    "privacy_banner": { "accept": "接受", "decline": "拒绝" },
-    "form": { "max_characters": "不超过 {{ max_chars }} 个字符" },
+    "localization": {
+      "country": "国家/地区",
+      "language": "语言"
+    },
+    "privacy_banner": {
+      "accept": "接受",
+      "decline": "拒绝"
+    },
+    "form": {
+      "max_characters": "不超过 {{ max_chars }} 个字符"
+    },
     "on_boarding": {
       "blog_post_category": "类别",
       "blog_post_title": "文章",
@@ -81,9 +110,15 @@
       "taxes_excluded": "不含税。",
       "shipping_policy_html": "结账时<a href=\"{{ link }}\" class=\"link\">计算运费</a>",
       "size_chart": "尺码表",
-      "available_colors_count": { "other": "{{ count }} 种颜色可选" }
+      "available_colors_count": {
+        "other": "{{ count }} 种颜色可选"
+      }
     },
-    "gallery": { "close": "关闭图库", "zoom": "缩放", "error": "无法加载图像" },
+    "gallery": {
+      "close": "关闭图库",
+      "zoom": "缩放",
+      "error": "无法加载图像"
+    },
     "price": {
       "regular_price": "原价",
       "sale_price": "促销价格",
@@ -96,7 +131,10 @@
       "decrease_quantity": "减少数量",
       "cannot_add_more": "无法添加更多"
     },
-    "rating_count": { "zero": "无评价", "other": "{{ count }} 条评价" },
+    "rating_count": {
+      "zero": "无评价",
+      "other": "{{ count }} 条评价"
+    },
     "inventory": {
       "in_stock": "现货",
       "in_stock_with_quantity_count": {
@@ -127,7 +165,9 @@
       "no_collections": "此店铺不包含任何产品系列。",
       "continue_shopping": "继续购物"
     },
-    "products_count": { "other": "{{ count }} 件产品" },
+    "products_count": {
+      "other": "{{ count }} 件产品"
+    },
     "faceting": {
       "filters": "筛选条件",
       "filter_button": "筛选",
@@ -171,7 +211,9 @@
       "submit": "提交",
       "comment_sent": "您的评论已发送。因为博客需要审核，我们将在稍后发表。",
       "comment_published": "您的评论已发表。",
-      "count": { "other": "{{ count }} 条评论" }
+      "count": {
+        "other": "{{ count }} 条评论"
+      }
     }
   },
   "contact": {
@@ -356,13 +398,19 @@
       "view_all_results": "查看所有结果",
       "no_results": "没有找到任何结果。"
     },
-    "results_count": { "other": "{{ count }} 个结果" },
+    "results_count": {
+      "other": "{{ count }} 个结果"
+    },
     "results_count_for_terms": {
       "other": "为“{{ terms }}”找到了 {{ count }} 个结果"
     }
   },
   "gift_card": {
-    "general": { "title": "这是您的礼品卡", "copy": "复制", "print": "打印" },
+    "general": {
+      "title": "这是您的礼品卡",
+      "copy": "复制",
+      "print": "打印"
+    },
     "issued": {
       "remaining_amount": "剩余金额",
       "redeem_instructions": "在结账时使用此代码兑换礼品卡：",
@@ -414,6 +462,9 @@
       "minutes_long": "分",
       "seconds_long": "秒"
     },
-    "shop_the_look": { "view_products": "查看商品", "view_product": "查看商品" }
+    "shop_the_look": {
+      "view_products": "查看商品",
+      "view_product": "查看商品"
+    }
   }
 }

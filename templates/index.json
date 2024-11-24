@@ -1,3 +1,12 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "sections": {
     "slideshow": {
@@ -176,8 +185,12 @@
           }
         }
       },
-      "block_order": ["collection_M6X879"],
-      "custom_css": [".section-spacing {padding-block-start: 5rem;}"],
+      "block_order": [
+        "collection_M6X879"
+      ],
+      "custom_css": [
+        ".section-spacing {padding-block-start: 5rem;}"
+      ],
       "settings": {
         "color_scheme": "",
         "separate_section_with_border": true,
@@ -204,8 +217,12 @@
           }
         }
       },
-      "block_order": ["collection_rQAaCC"],
-      "custom_css": [".section-spacing {padding-block-start: 5rem;}"],
+      "block_order": [
+        "collection_rQAaCC"
+      ],
+      "custom_css": [
+        ".section-spacing {padding-block-start: 5rem;}"
+      ],
       "settings": {
         "color_scheme": "",
         "separate_section_with_border": false,
@@ -232,8 +249,12 @@
           }
         }
       },
-      "block_order": ["collection_zr6qGz"],
-      "custom_css": [".section-spacing {padding-block-start: 5rem;}"],
+      "block_order": [
+        "collection_zr6qGz"
+      ],
+      "custom_css": [
+        ".section-spacing {padding-block-start: 5rem;}"
+      ],
       "settings": {
         "color_scheme": "",
         "separate_section_with_border": false,
@@ -260,8 +281,12 @@
           }
         }
       },
-      "block_order": ["collection_rYrVKE"],
-      "custom_css": [".section-spacing {padding-block-start: 5rem;}"],
+      "block_order": [
+        "collection_rYrVKE"
+      ],
+      "custom_css": [
+        ".section-spacing {padding-block-start: 5rem;}"
+      ],
       "settings": {
         "color_scheme": "",
         "separate_section_with_border": false,
@@ -305,7 +330,9 @@
           }
         }
       },
-      "block_order": ["image_JkYFYT"],
+      "block_order": [
+        "image_JkYFYT"
+      ],
       "custom_css": [
         "slideshow-carousel {padding-block-start: 5rem;}",
         ".content-over-media > picture img {min-width: unset;}"

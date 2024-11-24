@@ -1,3 +1,12 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin language editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "global": {
     "colors": {
@@ -56,7 +65,10 @@
         "link": "Lien"
       },
       "button_style": "Style du bouton",
-      "button_style_options": { "outline": "Avec contour", "solid": "Plein" }
+      "button_style_options": {
+        "outline": "Avec contour",
+        "solid": "Plein"
+      }
     },
     "image": {
       "image": "Image",
@@ -370,7 +382,10 @@
       "show_secondary_image_on_hover": "Afficher l'image secondaire au survol",
       "product_info_category": "Information produit",
       "text_font": "Police du texte",
-      "text_font_options": { "heading": "Titre", "body": "Corps du texte" },
+      "text_font_options": {
+        "heading": "Titre",
+        "body": "Corps du texte"
+      },
       "show_vendor": "Afficher la marque",
       "product_title_max_lines": "Nombre maximum de lignes pour le titre du produit (0 pour jamais tronquer)",
       "when_price_varies": "Quand le prix varie...",
@@ -426,7 +441,10 @@
       "free_shipping_bar_minimum_amount_placeholder": "Ex: 50",
       "free_shipping_bar_minimum_amount_info": "Indiquez le montant dans la devise principale de votre boutique. Pour afficher un montant différent par marché, utilisez [l'app Translate & Adapt](https://apps.shopify.com/translate-and-adapt?locale=fr)."
     },
-    "social_media": { "name": "Réseaux sociaux", "accounts": "Comptes" },
+    "social_media": {
+      "name": "Réseaux sociaux",
+      "accounts": "Comptes"
+    },
     "favicon": {
       "name": "Favicon",
       "image": "Image",
@@ -441,11 +459,20 @@
       "cycle_speed": "Changer de message toutes les",
       "mobile_text_size": "Taille mobile de la police",
       "desktop_text_size": "Taille desktop de la police",
-      "blocks": { "message": { "name": "Message", "text": "Texte" } }
+      "blocks": {
+        "message": {
+          "name": "Message",
+          "text": "Texte"
+        }
+      }
     },
     "apps": {
       "name": "Applications",
-      "presets": { "apps": { "name": "Applications" } }
+      "presets": {
+        "apps": {
+          "name": "Applications"
+        }
+      }
     },
     "before_after": {
       "name": "Image avant/après",
@@ -468,7 +495,11 @@
           "image_info": "Les dimensions doivent être identiques à celle de l'image avant."
         }
       },
-      "presets": { "before_after": { "name": "Image avant/après" } }
+      "presets": {
+        "before_after": {
+          "name": "Image avant/après"
+        }
+      }
     },
     "blog_post_comments": {
       "name": "Commentaires de l'article",
@@ -490,8 +521,12 @@
         }
       },
       "presets": {
-        "blog_posts": { "name": "Articles de blog" },
-        "featured_blog_post": { "name": "Article en avant" }
+        "blog_posts": {
+          "name": "Articles de blog"
+        },
+        "featured_blog_post": {
+          "name": "Article en avant"
+        }
       }
     },
     "cart_drawer": {
@@ -539,7 +574,11 @@
           "button_link_info": "Utilise l'URL de la collection par défaut."
         }
       },
-      "presets": { "collection_list": { "name": "Liste de collections" } }
+      "presets": {
+        "collection_list": {
+          "name": "Liste de collections"
+        }
+      }
     },
     "contact": {
       "name": "Formulaire de contact",
@@ -557,7 +596,11 @@
           "values_info": "Séparez chaque valeur par une virgule."
         }
       },
-      "presets": { "contact_form": { "name": "Formulaire de contact" } }
+      "presets": {
+        "contact_form": {
+          "name": "Formulaire de contact"
+        }
+      }
     },
     "countdown_timer": {
       "name": "Compte à rebours",
@@ -584,24 +627,38 @@
         "space_between": "Réparti sur les bords",
         "space_evenly": "Réparti équitablement"
       },
-      "presets": { "countdown_timer": { "name": "Compte à rebours" } }
+      "presets": {
+        "countdown_timer": {
+          "name": "Compte à rebours"
+        }
+      }
     },
     "custom_liquid": {
       "name": "Code Liquid",
-      "presets": { "custom_liquid": { "name": "Code Liquid" } }
+      "presets": {
+        "custom_liquid": {
+          "name": "Code Liquid"
+        }
+      }
     },
     "faq": {
       "name": "FAQ",
       "show_categories": "Afficher les catégories",
       "blocks": {
-        "category": { "name": "Catégorie" },
+        "category": {
+          "name": "Catégorie"
+        },
         "question": {
           "name": "Question",
           "question": "Question",
           "answer": "Réponse"
         }
       },
-      "presets": { "faq": { "name": "FAQ" } }
+      "presets": {
+        "faq": {
+          "name": "FAQ"
+        }
+      }
     },
     "featured_collections": {
       "name": "Collection",
@@ -613,12 +670,20 @@
           "default_link_url": "Utilise l'URL de collection par défaut"
         }
       },
-      "presets": { "featured_collections": { "name": "Collection" } }
+      "presets": {
+        "featured_collections": {
+          "name": "Collection"
+        }
+      }
     },
     "featured_product": {
       "name": "Produit en avant",
       "product": "Produit",
-      "presets": { "featured_product": { "name": "Produit en avant" } }
+      "presets": {
+        "featured_product": {
+          "name": "Produit en avant"
+        }
+      }
     },
     "footer": {
       "name": "Footer",
@@ -662,7 +727,10 @@
       "mobile_menu": "Menu mobile",
       "menu_open_trigger": "Ouvrir les dropdowns au...",
       "menu_open_trigger_info": "Le mode clic est forcé sur les appareils tactiles.",
-      "menu_open_trigger_options": { "hover": "Survol", "click": "Clic" },
+      "menu_open_trigger_options": {
+        "hover": "Survol",
+        "click": "Clic"
+      },
       "enable_search": "Activer la recherche",
       "sidebar_navigation_category": "Navigation sidebar",
       "sidebar_text_font": "Police du texte",
@@ -704,15 +772,33 @@
       "mobile_image_size_recommendation": "1000 x 1000px .jpg recommandé. Utilise l'image desktop par défaut.",
       "image_position": "Position de l'image",
       "blocks": {
-        "subheading": { "name": "Sous-titre" },
-        "heading": { "name": "Titre" },
-        "paragraph": { "name": "Paragraphe" },
-        "page": { "name": "Page" },
-        "liquid": { "name": "Liquid" },
-        "link": { "name": "Lien" },
-        "button": { "name": "Bouton" }
+        "subheading": {
+          "name": "Sous-titre"
+        },
+        "heading": {
+          "name": "Titre"
+        },
+        "paragraph": {
+          "name": "Paragraphe"
+        },
+        "page": {
+          "name": "Page"
+        },
+        "liquid": {
+          "name": "Liquid"
+        },
+        "link": {
+          "name": "Lien"
+        },
+        "button": {
+          "name": "Bouton"
+        }
       },
-      "presets": { "image_with_text": { "name": "Image avec texte" } }
+      "presets": {
+        "image_with_text": {
+          "name": "Image avec texte"
+        }
+      }
     },
     "image_with_text_block": {
       "name": "Image avec bloc de texte",
@@ -723,13 +809,23 @@
       "block_text_color": "Texte du bloc",
       "block_background": "Fond du bloc",
       "blocks": {
-        "subheading": { "name": "Sous-titre" },
-        "paragraph": { "name": "Paragraphe" },
-        "liquid": { "name": "Liquid" },
-        "link": { "name": "Lien" }
+        "subheading": {
+          "name": "Sous-titre"
+        },
+        "paragraph": {
+          "name": "Paragraphe"
+        },
+        "liquid": {
+          "name": "Liquid"
+        },
+        "link": {
+          "name": "Lien"
+        }
       },
       "presets": {
-        "image_with_text_block": { "name": "Image avec bloc de texte" }
+        "image_with_text_block": {
+          "name": "Image avec bloc de texte"
+        }
       }
     },
     "image_with_text_overlay": {
@@ -737,15 +833,29 @@
       "image_size_recommendation": "2500 x 900px .jpg recommandé",
       "mobile_image_size_recommendation": "1100 x 1500px .jpg recommandé. Utilise l'image desktop par défaut.",
       "blocks": {
-        "subheading": { "name": "Sous-titre" },
-        "heading": { "name": "Titre" },
-        "paragraph": { "name": "Paragraphe" },
-        "liquid": { "name": "Liquid" },
-        "button": { "name": "Bouton" },
-        "link": { "name": "Lien" }
+        "subheading": {
+          "name": "Sous-titre"
+        },
+        "heading": {
+          "name": "Titre"
+        },
+        "paragraph": {
+          "name": "Paragraphe"
+        },
+        "liquid": {
+          "name": "Liquid"
+        },
+        "button": {
+          "name": "Bouton"
+        },
+        "link": {
+          "name": "Lien"
+        }
       },
       "presets": {
-        "image_with_text_overlay": { "name": "Image avec texte superposé" }
+        "image_with_text_overlay": {
+          "name": "Image avec texte superposé"
+        }
       }
     },
     "images_with_text_scroll": {
@@ -762,7 +872,9 @@
         }
       },
       "presets": {
-        "images_with_text_scroll": { "name": "Images avec texte qui scrolle" }
+        "images_with_text_scroll": {
+          "name": "Images avec texte qui scrolle"
+        }
       }
     },
     "logo_list": {
@@ -778,7 +890,11 @@
           "logo_width": "Largeur du logo"
         }
       },
-      "presets": { "logo_list": { "name": "Liste de logos" } }
+      "presets": {
+        "logo_list": {
+          "name": "Liste de logos"
+        }
+      }
     },
     "main_article": {
       "name": "Article de blog",
@@ -790,7 +906,9 @@
       "toolbar_category": "Barre fixe",
       "show_sticky_bar": "Afficher la barre fixe"
     },
-    "prev_next_blog_posts": { "name": "Articles précédent/suivant" },
+    "prev_next_blog_posts": {
+      "name": "Articles précédent/suivant"
+    },
     "main_blog": {
       "name": "Blog",
       "show_blog_title": "Afficher le titre du blog",
@@ -825,20 +943,28 @@
           "enlarge_card": "Élargir la card",
           "content_category": "Contenu"
         },
-        "video": { "name": "Vidéo" }
+        "video": {
+          "name": "Vidéo"
+        }
       }
     },
     "main_customers_account": {
       "name": "Compte client",
       "blocks": {
-        "liquid": { "name": "Liquid" },
-        "order_list": { "name": "Liste des commandes" }
+        "liquid": {
+          "name": "Liquid"
+        },
+        "order_list": {
+          "name": "Liste des commandes"
+        }
       }
     },
     "main_customers_activate_account": {
       "name": "Activation du compte client"
     },
-    "main_customers_addresses": { "name": "Adresses du compte client" },
+    "main_customers_addresses": {
+      "name": "Adresses du compte client"
+    },
     "main_customers_login": {
       "name": "Connexion client",
       "blocks": {
@@ -847,10 +973,14 @@
           "redirect_upon_login": "Redirection après la connexion",
           "redirect_upon_login_info": "Par défaut, les clients sont redirigés vers la page client."
         },
-        "liquid": { "name": "Liquid" }
+        "liquid": {
+          "name": "Liquid"
+        }
       }
     },
-    "main_customers_order": { "name": "Commande client" },
+    "main_customers_order": {
+      "name": "Commande client"
+    },
     "main_customers_register": {
       "name": "Création du compte client",
       "blocks": {
@@ -860,7 +990,9 @@
           "redirect_upon_registration": "Redirection après la création",
           "redirect_upon_registration_info": "Par défaut, les clients sont redirigés vers la page client."
         },
-        "liquid": { "name": "Liquid" }
+        "liquid": {
+          "name": "Liquid"
+        }
       }
     },
     "main_customers_reset_password": {
@@ -878,7 +1010,10 @@
       "selected_collections": "Collections sélectionnées",
       "show_collection_title": "Afficher le titre de la collection"
     },
-    "main_not_found": { "name": "404", "button_link": "Lien du bouton" },
+    "main_not_found": {
+      "name": "404",
+      "button_link": "Lien du bouton"
+    },
     "main_page": {
       "name": "Page",
       "show_title": "Afficher le titre de la page",
@@ -937,9 +1072,15 @@
       "image_zoom_enable": "Activer",
       "image_zoom_max_level": "Zoom maximum",
       "blocks": {
-        "vendor": { "name": "Marque" },
-        "title": { "name": "Titre" },
-        "sku": { "name": "SKU" },
+        "vendor": {
+          "name": "Marque"
+        },
+        "title": {
+          "name": "Titre"
+        },
+        "sku": {
+          "name": "SKU"
+        },
         "badges": {
           "name": "Badges",
           "instructions": "Utilisez les metafields pour créer des badges personnalisés. [En savoir plus](https://support.maestrooo.com/article/719-custom-badges)"
@@ -962,7 +1103,9 @@
             "count": "Nombre d'avis (ex: \"3 reviews\")"
           }
         },
-        "separator": { "name": "Séparateur" },
+        "separator": {
+          "name": "Séparateur"
+        },
         "description": {
           "name": "Description",
           "collapse_content": "Fermer le contenu",
@@ -1073,7 +1216,9 @@
           "name": "Feature avec icône",
           "show_border": "Afficher la bordure"
         },
-        "text": { "name": "Texte" },
+        "text": {
+          "name": "Texte"
+        },
         "collapsible_text": {
           "name": "Texte déroulant",
           "show_below_gallery": "Afficher sous les images",
@@ -1081,7 +1226,9 @@
           "page": "Page",
           "page_info": "Remplace le contenu en ligne."
         },
-        "liquid": { "name": "Liquid" },
+        "liquid": {
+          "name": "Liquid"
+        },
         "modal": {
           "name": "Modale",
           "instructions": "Affichez des informations secondaires dans une modale.",
@@ -1089,7 +1236,9 @@
           "modal_title": "Titre",
           "modal_content": "Contenu"
         },
-        "image": { "name": "Image" },
+        "image": {
+          "name": "Image"
+        },
         "button": {
           "name": "Bouton",
           "instructions": "Créez un lien vers votre page de contact, une place de marché externe...",
@@ -1127,9 +1276,15 @@
           "row_count": "Nombre de lignes",
           "row_count_info": "Contrôlez la hauteur d'une ligne dans les réglages généraux de la section."
         },
-        "video": { "name": "Vidéo" }
+        "video": {
+          "name": "Vidéo"
+        }
       },
-      "presets": { "media_grid": { "name": "Grille de média" } }
+      "presets": {
+        "media_grid": {
+          "name": "Grille de média"
+        }
+      }
     },
     "multi_column": {
       "name": "Multi-column",
@@ -1146,7 +1301,11 @@
           "play_button_background": "Couleur du bouton PLAY"
         }
       },
-      "presets": { "multi_column": { "name": "Multi-column" } }
+      "presets": {
+        "multi_column": {
+          "name": "Multi-column"
+        }
+      }
     },
     "multiple_media_with_text": {
       "name": "Medias avec texte",
@@ -1175,16 +1334,26 @@
           "image_size_recommendation": "1000 x 1500px ou 1500 x 1500px .jpg recommandé",
           "rotation": "Rotation"
         },
-        "video": { "name": "Vidéo" }
+        "video": {
+          "name": "Vidéo"
+        }
       },
-      "presets": { "multiple_media_with_text": { "name": "Medias avec texte" } }
+      "presets": {
+        "multiple_media_with_text": {
+          "name": "Medias avec texte"
+        }
+      }
     },
     "newsletter": {
       "name": "Newsletter",
       "instructions": "Les clients qui enregistrent leur adresse email sont ajoutés à la [liste de clients](/admin/customers?query=&accepts_marketing=1) \"accepts marketing\".",
       "image_size_recommendation": "2000 x 1000px .jpg recommandé",
       "mobile_image_size_recommendation": "1100 x 1500px .jpg recommandé. Utilise l'image desktop par défaut.",
-      "presets": { "newsletter": { "name": "Newsletter" } }
+      "presets": {
+        "newsletter": {
+          "name": "Newsletter"
+        }
+      }
     },
     "newsletter_popup": {
       "name": "Modale de newsletter",
@@ -1196,8 +1365,12 @@
       "show_only_once": "Afficher qu'une fois aux visiteurs",
       "show_newsletter_form": "Afficher le formulaire de newsletter"
     },
-    "pickup_availability": { "name": "Retrait en boutique" },
-    "predictive_search": { "name": "Recherche prédictive" },
+    "pickup_availability": {
+      "name": "Retrait en boutique"
+    },
+    "predictive_search": {
+      "name": "Recherche prédictive"
+    },
     "privacy_banner": {
       "name": "Bannière de confidentialité",
       "show_privacy_banner_info": "La bannière de confidentialité du thème est dépréciée. Afin d'assurer une conformité avec les lois existantes et futures, les marchands sont encouragés à désactiver la bannière du thème, et à migrer vers la [bannière officielle de Shopify](https://help.shopify.com/en/manual/privacy-and-security/privacy/customer-privacy-settings/privacy-settings#add-a-cookie-banner)."
@@ -1205,32 +1378,59 @@
     "recently_viewed_products": {
       "name": "Produits récemment consultés",
       "presets": {
-        "recently_viewed_products": { "name": "Produits récemment consultés" }
+        "recently_viewed_products": {
+          "name": "Produits récemment consultés"
+        }
       }
     },
     "related_products": {
       "name": "Produits similaires",
       "info": "Les recommandations dynamiques s'améliorent au fil du temps. Créez des recommandations personnalisées en utilisant l'application Shopify Search & Discovery. [En savoir plus](https://help.shopify.com/en/manual/online-store/search-and-discovery/product-recommendations).",
       "recommendations_count": "Recommandations à afficher",
-      "presets": { "related_products": { "name": "Produits similaires" } }
+      "presets": {
+        "related_products": {
+          "name": "Produits similaires"
+        }
+      }
     },
     "rich_text": {
       "name": "Texte enrichi",
       "blocks": {
-        "subheading": { "name": "Sous-titre" },
-        "heading": { "name": "Titre" },
-        "paragraph": { "name": "Paragraphe" },
-        "page": { "name": "Page", "page": "Page" },
+        "subheading": {
+          "name": "Sous-titre"
+        },
+        "heading": {
+          "name": "Titre"
+        },
+        "paragraph": {
+          "name": "Paragraphe"
+        },
+        "page": {
+          "name": "Page",
+          "page": "Page"
+        },
         "image": {
           "name": "Image",
           "image_size_recommendation": "1600 x 800px .jpg recommandé"
         },
-        "video": { "name": "Video" },
-        "link": { "name": "Link" },
-        "button": { "name": "Bouton" },
-        "liquid": { "name": "Liquid" }
+        "video": {
+          "name": "Video"
+        },
+        "link": {
+          "name": "Link"
+        },
+        "button": {
+          "name": "Bouton"
+        },
+        "liquid": {
+          "name": "Liquid"
+        }
       },
-      "presets": { "rich_text": { "name": "Texte enrichi" } }
+      "presets": {
+        "rich_text": {
+          "name": "Texte enrichi"
+        }
+      }
     },
     "scrolling_content": {
       "name": "Textes défilants",
@@ -1244,7 +1444,10 @@
       "typography_category": "Typographie",
       "typography_category_info": "Les tailles de police augmentent progressivement sur les tailles d'écran intermédiaires.",
       "text_font": "Police du texte",
-      "text_font_options": { "heading": "Titre", "body": "Corps du texte" },
+      "text_font_options": {
+        "heading": "Titre",
+        "body": "Corps du texte"
+      },
       "font_size_mobile": "Taille de la police (mobile)",
       "font_size_desktop": "Taille de la police (desktop)",
       "spacing_category": "Espacement",
@@ -1254,14 +1457,20 @@
       "item_horizontal_spacing_mobile": "Espacement entre le contenu (mobile)",
       "item_horizontal_spacing_desktop": "Espacement entre le contenu (desktop)",
       "blocks": {
-        "text": { "name": "Contenu" },
+        "text": {
+          "name": "Contenu"
+        },
         "image": {
           "name": "Image",
           "instructions": "La taille d'image s'adapte automatiquement à la taille de la police de la section.",
           "image_recommendation": "500 x 500px .jpg recommandé"
         }
       },
-      "presets": { "scrolling_content": { "name": "Textes défilants" } }
+      "presets": {
+        "scrolling_content": {
+          "name": "Textes défilants"
+        }
+      }
     },
     "shop_the_look": {
       "name": "Shop the look",
@@ -1280,7 +1489,11 @@
           "hot_spots_background": "Couleur de fond des points"
         }
       },
-      "presets": { "shop_the_look": { "name": "Acheter le style" } }
+      "presets": {
+        "shop_the_look": {
+          "name": "Acheter le style"
+        }
+      }
     },
     "slideshow": {
       "name": "Diaporama",
@@ -1309,7 +1522,11 @@
           "allow_sound": "Autoriser à activer le son"
         }
       },
-      "presets": { "slideshow": { "name": "Diaporama" } }
+      "presets": {
+        "slideshow": {
+          "name": "Diaporama"
+        }
+      }
     },
     "tabs": {
       "name": "Onglets",
@@ -1322,7 +1539,11 @@
           "open_on_mobile_info": "Sur mobile, chaque onglet est affiché dans un panneau déroulant pour une meilleure experience de navigation."
         }
       },
-      "presets": { "tab": { "name": "Onglets" } }
+      "presets": {
+        "tab": {
+          "name": "Onglets"
+        }
+      }
     },
     "testimonials": {
       "name": "Témoignages",
@@ -1336,14 +1557,26 @@
           "author": "Auteur"
         }
       },
-      "presets": { "testimonials": { "name": "Témoignages" } }
+      "presets": {
+        "testimonials": {
+          "name": "Témoignages"
+        }
+      }
     },
     "text_with_icons": {
       "name": "Texte avec icônes",
       "stack_on_mobile": "Empiler sur mobile",
       "icon_color": "Couleur de l'icône",
-      "blocks": { "item": { "name": "Texte avec icône" } },
-      "presets": { "text_with_icons": { "name": "Texte avec icônes" } }
+      "blocks": {
+        "item": {
+          "name": "Texte avec icône"
+        }
+      },
+      "presets": {
+        "text_with_icons": {
+          "name": "Texte avec icônes"
+        }
+      }
     },
     "timeline": {
       "name": "Frise chronologique",
@@ -1357,7 +1590,11 @@
           "mobile_text_color": "Couleur du texte sur mobile"
         }
       },
-      "presets": { "timeline": { "name": "Frise chronologique" } }
+      "presets": {
+        "timeline": {
+          "name": "Frise chronologique"
+        }
+      }
     },
     "video": {
       "name": "Vidéo",
@@ -1369,11 +1606,21 @@
           "name": "Bouton de lecture",
           "info": "Le bouton de lecture est caché lorsque la lecture automatique est activée."
         },
-        "subheading": { "name": "Sous-titre" },
-        "heading": { "name": "Titre" },
-        "paragraph": { "name": "Paragraphe" }
+        "subheading": {
+          "name": "Sous-titre"
+        },
+        "heading": {
+          "name": "Titre"
+        },
+        "paragraph": {
+          "name": "Paragraphe"
+        }
       },
-      "presets": { "video": { "name": "Vidéo" } }
+      "presets": {
+        "video": {
+          "name": "Vidéo"
+        }
+      }
     }
   }
 }

@@ -1,3 +1,12 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin language editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "general": {
     "page": "Side {{ page }}",
@@ -18,29 +27,45 @@
       "unmute_video": "Slå lyd til i video",
       "rss_feed": "RSS-feed"
     },
-    "label": { "color": "Farve", "white": "Hvid", "size": "Størrelse" },
+    "label": {
+      "color": "Farve",
+      "white": "Hvid",
+      "size": "Størrelse"
+    },
     "breadcrumb": {
       "label": "Brødkrumme",
       "home": "Startside",
       "shop": "Butik"
     },
-    "reviews": { "title": "Anmeldelser" },
+    "reviews": {
+      "title": "Anmeldelser"
+    },
     "social": {
       "follow_on": "Følg på {{ social_media }}",
       "share": "Del",
       "share_on": "Del på {{ social_media }}",
       "share_email": "Del via e-mail"
     },
-    "rating": { "info": "{{ rating_value }} af {{ rating_max }} stjerner" },
+    "rating": {
+      "info": "{{ rating_value }} af {{ rating_max }} stjerner"
+    },
     "newsletter": {
       "email": "E-mail",
       "subscribe": "Abonnér",
       "notify_me": "Underret mig",
       "subscribed_successfully": "Du er tilmeldt vores nyhedsbrev."
     },
-    "localization": { "country": "Land", "language": "Sprog" },
-    "privacy_banner": { "accept": "Accepter", "decline": "Afvis" },
-    "form": { "max_characters": "Højst {{ max_chars }} tegn" },
+    "localization": {
+      "country": "Land",
+      "language": "Sprog"
+    },
+    "privacy_banner": {
+      "accept": "Accepter",
+      "decline": "Afvis"
+    },
+    "form": {
+      "max_characters": "Højst {{ max_chars }} tegn"
+    },
     "on_boarding": {
       "blog_post_category": "Kategori",
       "blog_post_title": "Artikel",
@@ -176,7 +201,11 @@
       "all_posts": "Alle opslag",
       "read_more": "Læs mere"
     },
-    "post": { "written_by": "Af {{ author }}", "share": "Del", "tags": "Tags" },
+    "post": {
+      "written_by": "Af {{ author }}",
+      "share": "Del",
+      "tags": "Tags"
+    },
     "comments": {
       "leave_comment": "Efterlad en kommentar",
       "moderated": "Alle kommentarer er modereres, før de bliver offentliggjort.",

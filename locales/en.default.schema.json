@@ -1,3 +1,12 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin language editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "global": {
     "colors": {
@@ -56,7 +65,10 @@
         "link": "Link"
       },
       "button_style": "Button style",
-      "button_style_options": { "outline": "Outline", "solid": "Solid" }
+      "button_style_options": {
+        "outline": "Outline",
+        "solid": "Solid"
+      }
     },
     "image": {
       "image": "Image",
@@ -68,7 +80,10 @@
       "size": "Image size",
       "width": "Image width",
       "mobile_width": "Mobile image width",
-      "width_options": { "full_width": "Full width", "custom": "Custom" },
+      "width_options": {
+        "full_width": "Full width",
+        "custom": "Custom"
+      },
       "maximum_width": "Maximum width",
       "mobile_maximum_width": "Mobile maximum width",
       "ratio_avoid_cropping_info": "Choose \"Original image ratio\" to avoid image cropping. [Learn more](https://help.shopify.com/en/manual/online-store/images/theme-images#best-practices-for-slideshows-and-full-widtw-images)"
@@ -314,7 +329,10 @@
       "body_letter_spacing": "Body letter spacing",
       "button_category": "Button",
       "button_text_font": "Text font",
-      "button_text_font_options": { "heading": "Heading", "body": "Body text" },
+      "button_text_font_options": {
+        "heading": "Heading",
+        "body": "Body text"
+      },
       "button_letter_spacing": "Button letter spacing",
       "button_casing": "Button casing",
       "button_casing_options": {
@@ -364,7 +382,10 @@
       "show_secondary_image_on_hover": "Show secondary image on hover",
       "product_info_category": "Product info",
       "text_font": "Text font",
-      "text_font_options": { "heading": "Heading", "body": "Body text" },
+      "text_font_options": {
+        "heading": "Heading",
+        "body": "Body text"
+      },
       "show_vendor": "Show vendor",
       "product_title_max_lines": "Title maximum lines (0 to never truncate)",
       "when_price_varies": "When price varies...",
@@ -420,7 +441,10 @@
       "free_shipping_bar_minimum_amount_placeholder": "E.g.: 50",
       "free_shipping_bar_minimum_amount_info": "Indicate the value in your store main currency, without currency code. To have different amount per market, use the [Translate & Adapt app](https://apps.shopify.com/translate-and-adapt)."
     },
-    "social_media": { "name": "Social media", "accounts": "Accounts" },
+    "social_media": {
+      "name": "Social media",
+      "accounts": "Accounts"
+    },
     "favicon": {
       "name": "Favicon",
       "image": "Image",
@@ -435,9 +459,21 @@
       "cycle_speed": "Change messages every",
       "mobile_text_size": "Mobile text size",
       "desktop_text_size": "Desktop text size",
-      "blocks": { "message": { "name": "Message", "text": "Text" } }
+      "blocks": {
+        "message": {
+          "name": "Message",
+          "text": "Text"
+        }
+      }
     },
-    "apps": { "name": "Apps", "presets": { "apps": { "name": "Apps" } } },
+    "apps": {
+      "name": "Apps",
+      "presets": {
+        "apps": {
+          "name": "Apps"
+        }
+      }
+    },
     "before_after": {
       "name": "Before/after image",
       "cursor_category": "Cursor",
@@ -459,7 +495,11 @@
           "image_info": "Dimensions must match before image."
         }
       },
-      "presets": { "before_after": { "name": "Before/after image" } }
+      "presets": {
+        "before_after": {
+          "name": "Before/after image"
+        }
+      }
     },
     "blog_post_comments": {
       "name": "Blog post comments",
@@ -475,11 +515,18 @@
           "blog": "Blog",
           "posts_count": "Posts to show"
         },
-        "blog_post": { "name": "Blog post", "blog_post": "Blog post" }
+        "blog_post": {
+          "name": "Blog post",
+          "blog_post": "Blog post"
+        }
       },
       "presets": {
-        "blog_posts": { "name": "Blog posts" },
-        "featured_blog_post": { "name": "Featured blog post" }
+        "blog_posts": {
+          "name": "Blog posts"
+        },
+        "featured_blog_post": {
+          "name": "Featured blog post"
+        }
       }
     },
     "cart_drawer": {
@@ -527,7 +574,11 @@
           "button_link_info": "Default to collection URL"
         }
       },
-      "presets": { "collection_list": { "name": "Collection list" } }
+      "presets": {
+        "collection_list": {
+          "name": "Collection list"
+        }
+      }
     },
     "contact": {
       "name": "Contact",
@@ -545,7 +596,11 @@
           "values_info": "Separate each value by a comma."
         }
       },
-      "presets": { "contact_form": { "name": "Contact form" } }
+      "presets": {
+        "contact_form": {
+          "name": "Contact form"
+        }
+      }
     },
     "countdown_timer": {
       "name": "Countdown timer",
@@ -572,24 +627,38 @@
         "space_between": "Space between",
         "space_evenly": "Space evenly"
       },
-      "presets": { "countdown_timer": { "name": "Countdown timer" } }
+      "presets": {
+        "countdown_timer": {
+          "name": "Countdown timer"
+        }
+      }
     },
     "custom_liquid": {
       "name": "Custom Liquid",
-      "presets": { "custom_liquid": { "name": "Custom Liquid" } }
+      "presets": {
+        "custom_liquid": {
+          "name": "Custom Liquid"
+        }
+      }
     },
     "faq": {
       "name": "FAQ",
       "show_categories": "Show sidebar categories",
       "blocks": {
-        "category": { "name": "Category" },
+        "category": {
+          "name": "Category"
+        },
         "question": {
           "name": "Question",
           "question": "Question",
           "answer": "Answer"
         }
       },
-      "presets": { "faq": { "name": "FAQ" } }
+      "presets": {
+        "faq": {
+          "name": "FAQ"
+        }
+      }
     },
     "featured_collections": {
       "name": "Featured collections",
@@ -601,12 +670,20 @@
           "default_link_url": "Default to collection URL"
         }
       },
-      "presets": { "featured_collections": { "name": "Featured collections" } }
+      "presets": {
+        "featured_collections": {
+          "name": "Featured collections"
+        }
+      }
     },
     "featured_product": {
       "name": "Featured product",
       "product": "Product",
-      "presets": { "featured_product": { "name": "Featured product" } }
+      "presets": {
+        "featured_product": {
+          "name": "Featured product"
+        }
+      }
     },
     "footer": {
       "name": "Footer",
@@ -650,7 +727,10 @@
       "mobile_menu": "Mobile menu",
       "menu_open_trigger": "Open dropdown items on...",
       "menu_open_trigger_info": "Click mode is forced on touch devices.",
-      "menu_open_trigger_options": { "hover": "Hover", "click": "Click" },
+      "menu_open_trigger_options": {
+        "hover": "Hover",
+        "click": "Click"
+      },
       "enable_search": "Enable search",
       "sidebar_navigation_category": "Sidebar navigation",
       "sidebar_text_font": "Text font",
@@ -692,15 +772,33 @@
       "mobile_image_size_recommendation": "1000 x 1000px .jpg recommended. Default to desktop image.",
       "image_position": "Image position",
       "blocks": {
-        "subheading": { "name": "Subheading" },
-        "heading": { "name": "Heading" },
-        "paragraph": { "name": "Paragraph" },
-        "page": { "name": "Page" },
-        "liquid": { "name": "Liquid" },
-        "link": { "name": "Link" },
-        "button": { "name": "Button" }
+        "subheading": {
+          "name": "Subheading"
+        },
+        "heading": {
+          "name": "Heading"
+        },
+        "paragraph": {
+          "name": "Paragraph"
+        },
+        "page": {
+          "name": "Page"
+        },
+        "liquid": {
+          "name": "Liquid"
+        },
+        "link": {
+          "name": "Link"
+        },
+        "button": {
+          "name": "Button"
+        }
       },
-      "presets": { "image_with_text": { "name": "Image with text" } }
+      "presets": {
+        "image_with_text": {
+          "name": "Image with text"
+        }
+      }
     },
     "image_with_text_block": {
       "name": "Image with text block",
@@ -711,13 +809,23 @@
       "block_text_color": "Block text",
       "block_background": "Block background",
       "blocks": {
-        "subheading": { "name": "Subheading" },
-        "paragraph": { "name": "Paragraph" },
-        "liquid": { "name": "Liquid" },
-        "link": { "name": "Link" }
+        "subheading": {
+          "name": "Subheading"
+        },
+        "paragraph": {
+          "name": "Paragraph"
+        },
+        "liquid": {
+          "name": "Liquid"
+        },
+        "link": {
+          "name": "Link"
+        }
       },
       "presets": {
-        "image_with_text_block": { "name": "Image with text block" }
+        "image_with_text_block": {
+          "name": "Image with text block"
+        }
       }
     },
     "image_with_text_overlay": {
@@ -725,15 +833,29 @@
       "image_size_recommendation": "2500 x 900px .jpg recommended",
       "mobile_image_size_recommendation": "1100 x 1500px .jpg recommended. Default to desktop image.",
       "blocks": {
-        "subheading": { "name": "Subheading" },
-        "heading": { "name": "Heading" },
-        "paragraph": { "name": "Paragraph" },
-        "liquid": { "name": "Liquid" },
-        "button": { "name": "Button" },
-        "link": { "name": "Link" }
+        "subheading": {
+          "name": "Subheading"
+        },
+        "heading": {
+          "name": "Heading"
+        },
+        "paragraph": {
+          "name": "Paragraph"
+        },
+        "liquid": {
+          "name": "Liquid"
+        },
+        "button": {
+          "name": "Button"
+        },
+        "link": {
+          "name": "Link"
+        }
       },
       "presets": {
-        "image_with_text_overlay": { "name": "Image with text overlay" }
+        "image_with_text_overlay": {
+          "name": "Image with text overlay"
+        }
       }
     },
     "images_with_text_scroll": {
@@ -750,7 +872,9 @@
         }
       },
       "presets": {
-        "images_with_text_scroll": { "name": "Images with text scroll" }
+        "images_with_text_scroll": {
+          "name": "Images with text scroll"
+        }
       }
     },
     "logo_list": {
@@ -766,7 +890,11 @@
           "logo_width": "Logo width"
         }
       },
-      "presets": { "logo_list": { "name": "Logo list" } }
+      "presets": {
+        "logo_list": {
+          "name": "Logo list"
+        }
+      }
     },
     "main_article": {
       "name": "Blog post",
@@ -778,7 +906,9 @@
       "toolbar_category": "Toolbar",
       "show_sticky_bar": "Show sticky toolbar"
     },
-    "prev_next_blog_posts": { "name": "Prev/next blog posts" },
+    "prev_next_blog_posts": {
+      "name": "Prev/next blog posts"
+    },
     "main_blog": {
       "name": "Blog",
       "show_blog_title": "Show blog title",
@@ -813,18 +943,28 @@
           "enlarge_card": "Enlarge card",
           "content_category": "Content"
         },
-        "video": { "name": "Video" }
+        "video": {
+          "name": "Video"
+        }
       }
     },
     "main_customers_account": {
       "name": "Customer account",
       "blocks": {
-        "liquid": { "name": "Liquid" },
-        "order_list": { "name": "Order list" }
+        "liquid": {
+          "name": "Liquid"
+        },
+        "order_list": {
+          "name": "Order list"
+        }
       }
     },
-    "main_customers_activate_account": { "name": "Customer activate account" },
-    "main_customers_addresses": { "name": "Customer addresses" },
+    "main_customers_activate_account": {
+      "name": "Customer activate account"
+    },
+    "main_customers_addresses": {
+      "name": "Customer addresses"
+    },
     "main_customers_login": {
       "name": "Customer login",
       "blocks": {
@@ -833,10 +973,14 @@
           "redirect_upon_login": "Redirect upon login",
           "redirect_upon_login_info": "Default to customer account page."
         },
-        "liquid": { "name": "Liquid" }
+        "liquid": {
+          "name": "Liquid"
+        }
       }
     },
-    "main_customers_order": { "name": "Customer order" },
+    "main_customers_order": {
+      "name": "Customer order"
+    },
     "main_customers_register": {
       "name": "Customer register",
       "blocks": {
@@ -846,10 +990,14 @@
           "redirect_upon_registration": "Redirect upon registration",
           "redirect_upon_registration_info": "Default to customer account page."
         },
-        "liquid": { "name": "Liquid" }
+        "liquid": {
+          "name": "Liquid"
+        }
       }
     },
-    "main_customers_reset_password": { "name": "Customer reset password" },
+    "main_customers_reset_password": {
+      "name": "Customer reset password"
+    },
     "main_gift_card": {
       "name": "Gift card",
       "gift_card_image": "Gift card image",
@@ -862,7 +1010,10 @@
       "selected_collections": "Selected collections",
       "show_collection_title": "Show collection title"
     },
-    "main_not_found": { "name": "404", "button_link": "Button link" },
+    "main_not_found": {
+      "name": "404",
+      "button_link": "Button link"
+    },
     "main_page": {
       "name": "Page",
       "show_title": "Show page title",
@@ -921,14 +1072,23 @@
       "image_zoom_enable": "Enable",
       "image_zoom_max_level": "Max zoom level",
       "blocks": {
-        "vendor": { "name": "Vendor" },
-        "title": { "name": "Title" },
-        "sku": { "name": "SKU" },
+        "vendor": {
+          "name": "Vendor"
+        },
+        "title": {
+          "name": "Title"
+        },
+        "sku": {
+          "name": "SKU"
+        },
         "badges": {
           "name": "Badges",
           "instructions": "Use metafields to add custom badges. [Learn more](https://support.maestrooo.com/article/719-custom-badges)"
         },
-        "price": { "name": "Price", "show_taxes_notice": "Show taxes notice" },
+        "price": {
+          "name": "Price",
+          "show_taxes_notice": "Show taxes notice"
+        },
         "payment_terms": {
           "name": "Payment installments",
           "instructions": "To display payment installments, your store needs to support Shop Pay Installments. [Learn more](https://help.shopify.com/en/manual/payments/shop-pay-installments)"
@@ -943,7 +1103,9 @@
             "count": "Count (e.g. \"3 reviews\")"
           }
         },
-        "separator": { "name": "Separator" },
+        "separator": {
+          "name": "Separator"
+        },
         "description": {
           "name": "Description",
           "collapse_content": "Collapse content",
@@ -1054,7 +1216,9 @@
           "name": "Feature with icon",
           "show_border": "Show border"
         },
-        "text": { "name": "Text" },
+        "text": {
+          "name": "Text"
+        },
         "collapsible_text": {
           "name": "Collapsible text",
           "show_below_gallery": "Show below gallery on desktop",
@@ -1062,7 +1226,9 @@
           "page": "Page",
           "page_info": "Replaces inline content if specified."
         },
-        "liquid": { "name": "Liquid" },
+        "liquid": {
+          "name": "Liquid"
+        },
         "modal": {
           "name": "Modal",
           "instructions": "Show secondary information in a modal.",
@@ -1070,7 +1236,9 @@
           "modal_title": "Title",
           "modal_content": "Content"
         },
-        "image": { "name": "Image" },
+        "image": {
+          "name": "Image"
+        },
         "button": {
           "name": "Button",
           "instructions": "Create link to your contact page, external marketplace...",
@@ -1108,9 +1276,15 @@
           "row_count": "Row count",
           "row_count_info": "Control the row size in the section general settings."
         },
-        "video": { "name": "Video" }
+        "video": {
+          "name": "Video"
+        }
       },
-      "presets": { "media_grid": { "name": "Media grid" } }
+      "presets": {
+        "media_grid": {
+          "name": "Media grid"
+        }
+      }
     },
     "multi_column": {
       "name": "Multi-column",
@@ -1127,7 +1301,11 @@
           "play_button_background": "Play button background"
         }
       },
-      "presets": { "multi_column": { "name": "Multi-column" } }
+      "presets": {
+        "multi_column": {
+          "name": "Multi-column"
+        }
+      }
     },
     "multiple_media_with_text": {
       "name": "Multiple media with text",
@@ -1156,10 +1334,14 @@
           "image_size_recommendation": "1000 x 1500px or 1500 x 1500px .jpg recommended",
           "rotation": "Rotation"
         },
-        "video": { "name": "Video" }
+        "video": {
+          "name": "Video"
+        }
       },
       "presets": {
-        "multiple_media_with_text": { "name": "Multiple media with text" }
+        "multiple_media_with_text": {
+          "name": "Multiple media with text"
+        }
       }
     },
     "newsletter": {
@@ -1167,7 +1349,11 @@
       "instructions": "Customers who subscribe will have their email address added to the \"accepts marketing\" [customer list](/admin/customers?query=&accepts_marketing=1).",
       "image_size_recommendation": "2000 x 1000px .jpg recommended",
       "mobile_image_size_recommendation": "1100 x 1500px .jpg recommended. Default to desktop image.",
-      "presets": { "newsletter": { "name": "Newsletter" } }
+      "presets": {
+        "newsletter": {
+          "name": "Newsletter"
+        }
+      }
     },
     "newsletter_popup": {
       "name": "Newsletter popup",
@@ -1179,8 +1365,12 @@
       "show_only_once": "Show once to visitors",
       "show_newsletter_form": "Show newsletter form"
     },
-    "pickup_availability": { "name": "Store pickup availability" },
-    "predictive_search": { "name": "Predictive search" },
+    "pickup_availability": {
+      "name": "Store pickup availability"
+    },
+    "predictive_search": {
+      "name": "Predictive search"
+    },
     "privacy_banner": {
       "name": "Privacy banner",
       "show_privacy_banner_info": "Using the theme privacy banner is deprecated. To ensure compliancy with existing and upcoming local regulations, merchants are encouraged to disable the theme banner and migrate to the [Shopify privacy banner](https://help.shopify.com/en/manual/privacy-and-security/privacy/customer-privacy-settings/privacy-settings#add-a-cookie-banner)."
@@ -1188,32 +1378,59 @@
     "recently_viewed_products": {
       "name": "Recently viewed products",
       "presets": {
-        "recently_viewed_products": { "name": "Recently viewed products" }
+        "recently_viewed_products": {
+          "name": "Recently viewed products"
+        }
       }
     },
     "related_products": {
       "name": "Related products",
       "info": "Dynamic recommendations change and improve with time. Create manual product recommendations using the Shopify Search & Discovery app. [Learn more](https://help.shopify.com/en/manual/online-store/search-and-discovery/product-recommendations).",
       "recommendations_count": "Dynamic recommendations count",
-      "presets": { "related_products": { "name": "Related products" } }
+      "presets": {
+        "related_products": {
+          "name": "Related products"
+        }
+      }
     },
     "rich_text": {
       "name": "Rich text",
       "blocks": {
-        "subheading": { "name": "Subheading" },
-        "heading": { "name": "Heading" },
-        "paragraph": { "name": "Paragraph" },
-        "page": { "name": "Page", "page": "Page" },
+        "subheading": {
+          "name": "Subheading"
+        },
+        "heading": {
+          "name": "Heading"
+        },
+        "paragraph": {
+          "name": "Paragraph"
+        },
+        "page": {
+          "name": "Page",
+          "page": "Page"
+        },
         "image": {
           "name": "Image",
           "image_size_recommendation": "1600 x 800px .jpg recommended"
         },
-        "video": { "name": "Video" },
-        "link": { "name": "Link" },
-        "button": { "name": "Button" },
-        "liquid": { "name": "Liquid" }
+        "video": {
+          "name": "Video"
+        },
+        "link": {
+          "name": "Link"
+        },
+        "button": {
+          "name": "Button"
+        },
+        "liquid": {
+          "name": "Liquid"
+        }
       },
-      "presets": { "rich_text": { "name": "Rich text" } }
+      "presets": {
+        "rich_text": {
+          "name": "Rich text"
+        }
+      }
     },
     "scrolling_content": {
       "name": "Scrolling content",
@@ -1227,7 +1444,10 @@
       "typography_category": "Typography",
       "typography_category_info": "Font size gradually increases on intermediate screen sizes.",
       "text_font": "Text font",
-      "text_font_options": { "heading": "Heading", "body": "Body text" },
+      "text_font_options": {
+        "heading": "Heading",
+        "body": "Body text"
+      },
       "font_size_mobile": "Font size (mobile)",
       "font_size_desktop": "Font size (desktop)",
       "spacing_category": "Spacing",
@@ -1237,14 +1457,20 @@
       "item_horizontal_spacing_mobile": "Gap between content (mobile)",
       "item_horizontal_spacing_desktop": "Gap between content (desktop)",
       "blocks": {
-        "text": { "name": "Content" },
+        "text": {
+          "name": "Content"
+        },
         "image": {
           "name": "Image",
           "instructions": "Image size automatically adapts to the section font size.",
           "image_recommendation": "500 x 500px .jpg recommended"
         }
       },
-      "presets": { "scrolling_content": { "name": "Scrolling content" } }
+      "presets": {
+        "scrolling_content": {
+          "name": "Scrolling content"
+        }
+      }
     },
     "shop_the_look": {
       "name": "Shop the look",
@@ -1263,7 +1489,11 @@
           "hot_spots_background": "Hot spots background"
         }
       },
-      "presets": { "shop_the_look": { "name": "Shop the look" } }
+      "presets": {
+        "shop_the_look": {
+          "name": "Shop the look"
+        }
+      }
     },
     "slideshow": {
       "name": "Slideshow",
@@ -1287,9 +1517,16 @@
           "button_1_link_info": "To make the slide fully clickable, leave the \"Button 1 text\" and \"Button 2\" settings empty.",
           "gradient_overlay_info": "Applied over the image."
         },
-        "video": { "name": "Video", "allow_sound": "Allow to unmute sound" }
+        "video": {
+          "name": "Video",
+          "allow_sound": "Allow to unmute sound"
+        }
       },
-      "presets": { "slideshow": { "name": "Slideshow" } }
+      "presets": {
+        "slideshow": {
+          "name": "Slideshow"
+        }
+      }
     },
     "tabs": {
       "name": "Tabs",
@@ -1302,7 +1539,11 @@
           "open_on_mobile_info": "On mobile, each tab is displayed in an accordion for easier content discovery."
         }
       },
-      "presets": { "tab": { "name": "Tabs" } }
+      "presets": {
+        "tab": {
+          "name": "Tabs"
+        }
+      }
     },
     "testimonials": {
       "name": "Testimonials",
@@ -1316,14 +1557,26 @@
           "author": "Author"
         }
       },
-      "presets": { "testimonials": { "name": "Testimonials" } }
+      "presets": {
+        "testimonials": {
+          "name": "Testimonials"
+        }
+      }
     },
     "text_with_icons": {
       "name": "Text with icons",
       "stack_on_mobile": "Stack on mobile",
       "icon_color": "Icon color",
-      "blocks": { "item": { "name": "Text with icon" } },
-      "presets": { "text_with_icons": { "name": "Text with icons" } }
+      "blocks": {
+        "item": {
+          "name": "Text with icon"
+        }
+      },
+      "presets": {
+        "text_with_icons": {
+          "name": "Text with icons"
+        }
+      }
     },
     "timeline": {
       "name": "Timeline",
@@ -1337,7 +1590,11 @@
           "mobile_text_color": "Mobile text color"
         }
       },
-      "presets": { "timeline": { "name": "Timeline" } }
+      "presets": {
+        "timeline": {
+          "name": "Timeline"
+        }
+      }
     },
     "video": {
       "name": "Video",
@@ -1349,11 +1606,21 @@
           "name": "Play button",
           "info": "Play button is hidden when autoplay is enabled."
         },
-        "subheading": { "name": "Subheading" },
-        "heading": { "name": "Heading" },
-        "paragraph": { "name": "Paragraph" }
+        "subheading": {
+          "name": "Subheading"
+        },
+        "heading": {
+          "name": "Heading"
+        },
+        "paragraph": {
+          "name": "Paragraph"
+        }
       },
-      "presets": { "video": { "name": "Video" } }
+      "presets": {
+        "video": {
+          "name": "Video"
+        }
+      }
     }
   }
 }

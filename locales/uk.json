@@ -1,3 +1,12 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin language editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "general": {
     "page": "Сторінка {{ page }}",
@@ -18,29 +27,45 @@
       "unmute_video": "Увімкнути звук відео",
       "rss_feed": "Канал RSS"
     },
-    "label": { "color": "Колір", "white": "Білий", "size": "Розмір" },
+    "label": {
+      "color": "Колір",
+      "white": "Білий",
+      "size": "Розмір"
+    },
     "breadcrumb": {
       "label": "Ланцюжок навігації",
       "home": "Головна",
       "shop": "Магазин"
     },
-    "reviews": { "title": "Відгуки" },
+    "reviews": {
+      "title": "Відгуки"
+    },
     "social": {
       "follow_on": "Підписатися в {{ social_media }}",
       "share": "Поділитися",
       "share_on": "Поділитися через {{ social_media }}",
       "share_email": "Поділитись електронною поштою"
     },
-    "rating": { "info": "Зірочок: {{ rating_value }} із {{ rating_max }}" },
+    "rating": {
+      "info": "Зірочок: {{ rating_value }} із {{ rating_max }}"
+    },
     "newsletter": {
       "email": "Електронна адреса",
       "subscribe": "Підписатися",
       "notify_me": "Сповіщати мене",
       "subscribed_successfully": "Ви підписалися на нашу розсилку."
     },
-    "localization": { "country": "Країна", "language": "Мова" },
-    "privacy_banner": { "accept": "Прийняти", "decline": "Відхилити" },
-    "form": { "max_characters": "Не больше {{ max_chars }} симв." },
+    "localization": {
+      "country": "Країна",
+      "language": "Мова"
+    },
+    "privacy_banner": {
+      "accept": "Прийняти",
+      "decline": "Відхилити"
+    },
+    "form": {
+      "max_characters": "Не больше {{ max_chars }} симв."
+    },
     "on_boarding": {
       "blog_post_category": "Категорія",
       "blog_post_title": "Стаття",

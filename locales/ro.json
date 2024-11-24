@@ -1,3 +1,12 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin language editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "general": {
     "page": "Pagina {{ page }}",
@@ -18,29 +27,45 @@
       "unmute_video": "Reactivează sunetul videoclipului",
       "rss_feed": "Flux RSS"
     },
-    "label": { "color": "Culoare", "white": "Alb", "size": "Mărime" },
+    "label": {
+      "color": "Culoare",
+      "white": "Alb",
+      "size": "Mărime"
+    },
     "breadcrumb": {
       "label": "Urme",
       "home": "Pagina principală",
       "shop": "Magazin"
     },
-    "reviews": { "title": "Recenzii" },
+    "reviews": {
+      "title": "Recenzii"
+    },
     "social": {
       "follow_on": "Urmărește pe {{ social_media }}",
       "share": "Distribuie",
       "share_on": "Distribuie pe {{ social_media }}",
       "share_email": "Distribuie prin e-mail"
     },
-    "rating": { "info": "{{ rating_value }} din {{ rating_max }} stele" },
+    "rating": {
+      "info": "{{ rating_value }} din {{ rating_max }} stele"
+    },
     "newsletter": {
       "email": "E-mail",
       "subscribe": "Abonează-te",
       "notify_me": "Anunță-mă",
       "subscribed_successfully": "Te-ai abonat la newsletterul nostru."
     },
-    "localization": { "country": "Țară", "language": "Limbă" },
-    "privacy_banner": { "accept": "Acceptă", "decline": "Refuză" },
-    "form": { "max_characters": "Maximum {{ max_chars }} (de) caractere" },
+    "localization": {
+      "country": "Țară",
+      "language": "Limbă"
+    },
+    "privacy_banner": {
+      "accept": "Acceptă",
+      "decline": "Refuză"
+    },
+    "form": {
+      "max_characters": "Maximum {{ max_chars }} (de) caractere"
+    },
     "on_boarding": {
       "blog_post_category": "Categorie",
       "blog_post_title": "Articol",
