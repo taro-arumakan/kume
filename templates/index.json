@@ -177,10 +177,10 @@
         "collection_M6X879": {
           "type": "collection",
           "settings": {
-            "collection": "202411-outerwear-fair",
+            "collection": "black-friday",
             "products_count": 4,
-            "title": "Outerwear Fair",
-            "link_url": "shopify://collections/202411-outerwear-fair",
+            "title": "",
+            "link_url": "shopify://collections/black-friday",
             "link_text": "View all"
           }
         }
@@ -188,7 +188,6 @@
       "block_order": [
         "collection_M6X879"
       ],
-      "disabled": true,
       "custom_css": [
         ".section-spacing {padding-block-start: 5rem;}"
       ],
