@@ -23,6 +23,10 @@
             "heading_tag": "h3"
           }
         },
+        "badges_CqBxfj": {
+          "type": "badges",
+          "settings": {}
+        },
         "variant_picker": {
           "type": "variant_picker",
           "settings": {
@@ -83,6 +87,7 @@
       "block_order": [
         "vendor",
         "title",
+        "badges_CqBxfj",
         "variant_picker",
         "quantity_selector",
         "price",

@@ -15,15 +15,15 @@
         "image_NUC4Uf": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/kume_winter_24_outerwear_fair_pc_2_0.png",
-            "mobile_image": "shopify://shop_images/kume_winter_24_outerwear_fair_sp_2_0.png",
+            "image": "shopify://shop_images/bf_pc.png",
+            "mobile_image": "shopify://shop_images/bf_sp.png",
             "subheading": "",
             "title": "",
             "mobile_text_position": "place-self-center text-center",
             "desktop_text_position": "sm:place-self-center sm:text-center",
             "content_max_width": 780,
             "button_1_text": "",
-            "button_1_link": "shopify://collections/202411-outerwear-fair",
+            "button_1_link": "shopify://collections/black-friday",
             "button_1_style": "solid",
             "button_1_background": "#ffffff",
             "button_1_text_color": "#000000",
@@ -188,6 +188,7 @@
       "block_order": [
         "collection_M6X879"
       ],
+      "disabled": true,
       "custom_css": [
         ".section-spacing {padding-block-start: 5rem;}"
       ],
