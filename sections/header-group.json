@@ -16,6 +16,7 @@
       "blocks": {
         "message_JtBBEg": {
           "type": "message",
+          "disabled": true,
           "settings": {
             "text": "Black Friday開催中。Up to 30% Off。"
           }
