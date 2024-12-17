@@ -5583,14 +5583,12 @@ product-rerender {
   height: 100%;
 }
 
-@media screen and (min-width: 700px) {
-  .media-grid {
-    --media-grid-column-count: 12;
-  }
+.media-grid {
+  --media-grid-column-count: 12;
+}
 
-  .media-grid__item {
-    grid-area: span var(--media-grid-item-row-span) / span var(--media-grid-item-column-span);
-  }
+.media-grid__item {
+  grid-area: span var(--media-grid-item-row-span) / span var(--media-grid-item-column-span);
 }
 
 .multi-column {
