@@ -189,6 +189,7 @@
       "block_order": [
         "collection_M6X879"
       ],
+      "disabled": true,
       "custom_css": [
         ".section-spacing {padding-block-start: 5rem;}"
       ],
