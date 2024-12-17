@@ -1,0 +1,795 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "main": {
+      "type": "main-article",
+      "disabled": true,
+      "settings": {
+        "color_scheme": "",
+        "show_image": true,
+        "enable_parallax": true,
+        "image_size": "medium",
+        "content_width": "xs",
+        "show_date": true,
+        "show_category": true,
+        "show_author": true,
+        "show_share_buttons": true,
+        "show_sticky_bar": true,
+        "toolbar_color_scheme": ""
+      }
+    },
+    "prev-next-blog-posts": {
+      "type": "prev-next-blog-posts",
+      "disabled": true,
+      "settings": {
+        "color_scheme": "",
+        "separate_section_with_border": false,
+        "subheading": "",
+        "title": "Read more",
+        "show_category": true,
+        "show_excerpt": true,
+        "show_read_more": true
+      }
+    },
+    "image_with_text_overlay_LBdcwJ": {
+      "type": "image-with-text-overlay",
+      "settings": {
+        "color_scheme": "",
+        "image_size": "auto",
+        "image": "shopify://shop_images/essential-collection-tb-pc.png",
+        "mobile_image": "shopify://shop_images/essential-collection-tb-sp.png",
+        "image_link": "shopify://collections",
+        "allow_transparent_header": true,
+        "reveal_on_scroll": true,
+        "remove_vertical_spacing": true,
+        "content_width": "md",
+        "mobile_text_position": "place-self-center text-center",
+        "desktop_text_position": "sm:place-self-center sm:text-center",
+        "overlay_color": "#000000",
+        "overlay_opacity": 0
+      }
+    },
+    "media_grid_FaNXkz": {
+      "type": "media-grid",
+      "blocks": {
+        "image_zcJRax": {
+          "type": "image",
+          "settings": {
+            "color_scheme": "",
+            "image": "shopify://shop_images/essential_collection_01.jpg",
+            "column_count": "12",
+            "row_count": 3,
+            "title": "",
+            "heading_tag": "h4",
+            "content": "",
+            "link_text": "",
+            "link_url": "",
+            "link_style": "link",
+            "text_position": "place-self-center text-center",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        },
+        "image_jmRzPp": {
+          "type": "image",
+          "settings": {
+            "color_scheme": "",
+            "image": "shopify://shop_images/essential_collection_02.jpg",
+            "column_count": "6",
+            "row_count": 1,
+            "title": "",
+            "heading_tag": "h4",
+            "content": "",
+            "link_text": "",
+            "link_url": "",
+            "link_style": "link",
+            "text_position": "place-self-center text-center",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        },
+        "image_rbWjPh": {
+          "type": "image",
+          "settings": {
+            "color_scheme": "",
+            "image": "shopify://shop_images/essential_collection_03.jpg",
+            "column_count": "6",
+            "row_count": 1,
+            "title": "",
+            "heading_tag": "h4",
+            "content": "",
+            "link_text": "",
+            "link_url": "",
+            "link_style": "link",
+            "text_position": "place-self-center text-center",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        }
+      },
+      "block_order": [
+        "image_zcJRax",
+        "image_jmRzPp",
+        "image_rbWjPh"
+      ],
+      "custom_css": [
+        ".container {margin-top: 7rem; max-width: 600px; margin: auto;}",
+        ".media-grid {--media-grid-column-count: 12; grid: unset;}",
+        ".media-grid__item {grid-area: span var(--media-grid-item-row-span) / span var(--media-grid-item-column-span);}",
+        "p {font-size: 1.6rem; line-height: 2.5rem;}"
+      ],
+      "settings": {
+        "color_scheme": "",
+        "separate_section_with_border": false,
+        "desktop_row_height": 290,
+        "mobile_row_height": 180,
+        "section_width": "lg",
+        "spacing": "md",
+        "subheading": "",
+        "title": "",
+        "content": "<p>Turtleneck Superfine<br/>Merino Wool Sweater</p>"
+      }
+    },
+    "rich_text_8PmMn7": {
+      "type": "rich-text",
+      "blocks": {
+        "richtext_aDHxaQ": {
+          "type": "richtext",
+          "settings": {
+            "content": "<p>KUMEが定番的に展開する『エッセンシャルライン』のベーシックなタートルネックセーターです。素材は肌触りの柔らかいメリノウールを使用。一枚でサマになり、レイヤードも楽しめる適度な厚みのある生地がこだわりです。ちくちくしないしなやかな肌ざわりで、秋冬を通して快適に着用できるアイテムです。</p>"
+          }
+        }
+      },
+      "block_order": [
+        "richtext_aDHxaQ"
+      ],
+      "custom_css": [
+        ".container {max-width: 600px; margin: auto;}",
+        ".prose {text-align: left;}"
+      ],
+      "settings": {
+        "color_scheme": "",
+        "separate_section_with_border": false,
+        "content_width": "sm",
+        "text_position": "center",
+        "remove_vertical_spacing": false
+      }
+    },
+    "media_grid_gpykhC": {
+      "type": "media-grid",
+      "blocks": {
+        "image_73z9mM": {
+          "type": "image",
+          "settings": {
+            "color_scheme": "",
+            "image": "shopify://shop_images/essential_collection_04.jpg",
+            "column_count": "12",
+            "row_count": 2,
+            "title": "",
+            "heading_tag": "h4",
+            "content": "",
+            "link_text": "",
+            "link_url": "",
+            "link_style": "link",
+            "text_position": "place-self-center text-center",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        },
+        "image_R7Gp4f": {
+          "type": "image",
+          "settings": {
+            "color_scheme": "",
+            "image": "shopify://shop_images/essential_collection_05.jpg",
+            "column_count": "3",
+            "row_count": 1,
+            "title": "",
+            "heading_tag": "h4",
+            "content": "",
+            "link_text": "",
+            "link_url": "",
+            "link_style": "link",
+            "text_position": "place-self-center text-center",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        },
+        "image_tfAeNg": {
+          "type": "image",
+          "settings": {
+            "color_scheme": "",
+            "image": "shopify://shop_images/essential_collection_06.jpg",
+            "column_count": "3",
+            "row_count": 1,
+            "title": "",
+            "heading_tag": "h4",
+            "content": "",
+            "link_text": "",
+            "link_url": "",
+            "link_style": "link",
+            "text_position": "place-self-center text-center",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        },
+        "image_P8JHU4": {
+          "type": "image",
+          "settings": {
+            "color_scheme": "scheme-4",
+            "image": "shopify://shop_images/essential_collection_07.jpg",
+            "column_count": "3",
+            "row_count": 1,
+            "title": "",
+            "heading_tag": "h4",
+            "content": "",
+            "link_text": "",
+            "link_url": "",
+            "link_style": "link",
+            "text_position": "place-self-center text-center",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        },
+        "image_Y9Fp6Q": {
+          "type": "image",
+          "settings": {
+            "color_scheme": "scheme-4",
+            "image": "shopify://shop_images/essential_collection_08.jpg",
+            "column_count": "3",
+            "row_count": 1,
+            "title": "",
+            "heading_tag": "h4",
+            "content": "",
+            "link_text": "",
+            "link_url": "",
+            "link_style": "link",
+            "text_position": "place-self-center text-center",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        }
+      },
+      "block_order": [
+        "image_73z9mM",
+        "image_R7Gp4f",
+        "image_tfAeNg",
+        "image_P8JHU4",
+        "image_Y9Fp6Q"
+      ],
+      "custom_css": [
+        ".container {max-width: 600px; margin: auto;}",
+        ".media-grid {--media-grid-column-count: 12; grid: unset; column-gap: 0;}",
+        ".media-grid__item {grid-area: span var(--media-grid-item-row-span) / span var(--media-grid-item-column-span);}"
+      ],
+      "settings": {
+        "color_scheme": "",
+        "separate_section_with_border": false,
+        "desktop_row_height": 290,
+        "mobile_row_height": 180,
+        "section_width": "lg",
+        "spacing": "md",
+        "subheading": "",
+        "title": "",
+        "content": ""
+      }
+    },
+    "custom_liquid_MtGACk": {
+      "type": "custom-liquid",
+      "settings": {
+        "color_scheme": "",
+        "separate_section_with_border": false,
+        "remove_vertical_spacing": false,
+        "remove_horizontal_spacing": false,
+        "liquid": "<div class=\"hr-wrapper\">\n<hr>\n</div>\n<style>\n  .hr-wrapper {\n    margin-top: 7rem;\n  }\n  hr {\n    position: relative;\n    width: 80%;\n    left: 10%;\n    height: 2px;\n    background: black;\n  }\n</style>",
+        "text_alignment": "center"
+      }
+    },
+    "media_grid_3dHTxB": {
+      "type": "media-grid",
+      "blocks": {
+        "image_hDkpHQ": {
+          "type": "image",
+          "settings": {
+            "color_scheme": "",
+            "image": "shopify://shop_images/V-neck_Superfine_Merino_Wool_Sweater_01.jpg",
+            "column_count": "12",
+            "row_count": 2,
+            "title": "",
+            "heading_tag": "h4",
+            "content": "",
+            "link_text": "",
+            "link_url": "",
+            "link_style": "link",
+            "text_position": "place-self-center text-center",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        },
+        "image_g4NatN": {
+          "type": "image",
+          "settings": {
+            "color_scheme": "",
+            "image": "shopify://shop_images/V-neck_Superfine_Merino_Wool_Sweater_02.jpg",
+            "column_count": "6",
+            "row_count": 1,
+            "title": "",
+            "heading_tag": "h4",
+            "content": "",
+            "link_text": "",
+            "link_url": "",
+            "link_style": "link",
+            "text_position": "place-self-center text-center",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        },
+        "image_iiHKX3": {
+          "type": "image",
+          "settings": {
+            "color_scheme": "scheme-4",
+            "image": "shopify://shop_images/V-neck_Superfine_Merino_Wool_Sweater_03.jpg",
+            "column_count": "6",
+            "row_count": 1,
+            "title": "",
+            "heading_tag": "h4",
+            "content": "",
+            "link_text": "",
+            "link_url": "",
+            "link_style": "link",
+            "text_position": "place-self-center text-center",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        }
+      },
+      "block_order": [
+        "image_hDkpHQ",
+        "image_g4NatN",
+        "image_iiHKX3"
+      ],
+      "custom_css": [
+        ".container {margin-top: 1rem;}",
+        ".container {max-width: 600px; margin: auto;}",
+        ".media-grid {--media-grid-column-count: 12; grid: unset;}",
+        ".media-grid__item {grid-area: span var(--media-grid-item-row-span) / span var(--media-grid-item-column-span);}",
+        "p {font-size: 1.6rem; line-height: 2.5rem;}"
+      ],
+      "settings": {
+        "color_scheme": "",
+        "separate_section_with_border": false,
+        "desktop_row_height": 290,
+        "mobile_row_height": 180,
+        "section_width": "lg",
+        "spacing": "md",
+        "subheading": "",
+        "title": "",
+        "content": "<p>V-neck Superfine<br/>Merino Wool Sweater</p>"
+      }
+    },
+    "rich_text_EeGm6c": {
+      "type": "rich-text",
+      "blocks": {
+        "richtext_BzjApj": {
+          "type": "richtext",
+          "settings": {
+            "content": "<p>同じくエッセンシャルラインのベーシックなVネックセーター。こちらも肌触りの柔らかなメリノウールを使用。ゆったりとしたシルエットで仕上げました。程よく厚みのある素材なので、単品でも着るのはもちろん、レイヤードにも適しています。</p>"
+          }
+        }
+      },
+      "block_order": [
+        "richtext_BzjApj"
+      ],
+      "custom_css": [
+        ".container {max-width: 600px; margin: auto;}",
+        ".prose {text-align: left;}"
+      ],
+      "settings": {
+        "color_scheme": "",
+        "separate_section_with_border": false,
+        "content_width": "sm",
+        "text_position": "center",
+        "remove_vertical_spacing": false
+      }
+    },
+    "media_grid_BhwU3f": {
+      "type": "media-grid",
+      "blocks": {
+        "image_LEwgyF": {
+          "type": "image",
+          "settings": {
+            "color_scheme": "",
+            "image": "shopify://shop_images/V-neck_Superfine_Merino_Wool_Sweater_04.jpg",
+            "column_count": "12",
+            "row_count": 3,
+            "title": "",
+            "heading_tag": "h4",
+            "content": "",
+            "link_text": "",
+            "link_url": "",
+            "link_style": "link",
+            "text_position": "place-self-center text-center",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        },
+        "image_FHLtCe": {
+          "type": "image",
+          "settings": {
+            "color_scheme": "",
+            "image": "shopify://shop_images/V-neck_Superfine_Merino_Wool_Sweater_05.jpg",
+            "column_count": "3",
+            "row_count": 1,
+            "title": "",
+            "heading_tag": "h4",
+            "content": "",
+            "link_text": "",
+            "link_url": "",
+            "link_style": "link",
+            "text_position": "place-self-center text-center",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        },
+        "image_8Q3Xwt": {
+          "type": "image",
+          "settings": {
+            "color_scheme": "",
+            "image": "shopify://shop_images/V-neck_Superfine_Merino_Wool_Sweater_06.jpg",
+            "column_count": "3",
+            "row_count": 1,
+            "title": "",
+            "heading_tag": "h4",
+            "content": "",
+            "link_text": "",
+            "link_url": "",
+            "link_style": "link",
+            "text_position": "place-self-center text-center",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        },
+        "image_h9iBJG": {
+          "type": "image",
+          "settings": {
+            "color_scheme": "scheme-4",
+            "image": "shopify://shop_images/V-neck_Superfine_Merino_Wool_Sweater_07.jpg",
+            "column_count": "3",
+            "row_count": 1,
+            "title": "",
+            "heading_tag": "h4",
+            "content": "",
+            "link_text": "",
+            "link_url": "",
+            "link_style": "link",
+            "text_position": "place-self-center text-center",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        },
+        "image_ciicGJ": {
+          "type": "image",
+          "settings": {
+            "color_scheme": "scheme-4",
+            "image": "shopify://shop_images/V-neck_Superfine_Merino_Wool_Sweater_08.jpg",
+            "column_count": "3",
+            "row_count": 1,
+            "title": "",
+            "heading_tag": "h4",
+            "content": "",
+            "link_text": "",
+            "link_url": "",
+            "link_style": "link",
+            "text_position": "place-self-center text-center",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        }
+      },
+      "block_order": [
+        "image_LEwgyF",
+        "image_FHLtCe",
+        "image_8Q3Xwt",
+        "image_h9iBJG",
+        "image_ciicGJ"
+      ],
+      "custom_css": [
+        ".container {max-width: 600px; margin: auto;}",
+        ".media-grid {--media-grid-column-count: 12; grid: unset; column-gap: 0;}",
+        ".media-grid__item {grid-area: span var(--media-grid-item-row-span) / span var(--media-grid-item-column-span);}"
+      ],
+      "settings": {
+        "color_scheme": "",
+        "separate_section_with_border": false,
+        "desktop_row_height": 290,
+        "mobile_row_height": 180,
+        "section_width": "lg",
+        "spacing": "md",
+        "subheading": "",
+        "title": "",
+        "content": ""
+      }
+    },
+    "custom_liquid_e6dy3D": {
+      "type": "custom-liquid",
+      "settings": {
+        "color_scheme": "",
+        "separate_section_with_border": false,
+        "remove_vertical_spacing": false,
+        "remove_horizontal_spacing": false,
+        "liquid": "<div class=\"hr-wrapper\">\n<hr>\n</div>\n<style>\n  .hr-wrapper {\n    margin-top: 7rem;\n  }\n  hr {\n    position: relative;\n    width: 80%;\n    left: 10%;\n    height: 2px;\n    background: black;\n  }\n</style>",
+        "text_alignment": "center"
+      }
+    },
+    "media_grid_ctiYNq": {
+      "type": "media-grid",
+      "blocks": {
+        "image_mJwxDb": {
+          "type": "image",
+          "settings": {
+            "color_scheme": "",
+            "image": "shopify://shop_images/Basic_Tencel_Layering_T-shirt_01.jpg",
+            "column_count": "12",
+            "row_count": 2,
+            "title": "",
+            "heading_tag": "h4",
+            "content": "",
+            "link_text": "",
+            "link_url": "",
+            "link_style": "link",
+            "text_position": "place-self-center text-center",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        },
+        "image_tHn9W7": {
+          "type": "image",
+          "settings": {
+            "color_scheme": "",
+            "image": "shopify://shop_images/Basic_Tencel_Layering_T-shirt_02.jpg",
+            "column_count": "6",
+            "row_count": 1,
+            "title": "",
+            "heading_tag": "h4",
+            "content": "",
+            "link_text": "",
+            "link_url": "",
+            "link_style": "link",
+            "text_position": "place-self-center text-center",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        },
+        "image_UcLrCr": {
+          "type": "image",
+          "settings": {
+            "color_scheme": "scheme-4",
+            "image": "shopify://shop_images/Basic_Tencel_Layering_T-shirt_03.jpg",
+            "column_count": "6",
+            "row_count": 1,
+            "title": "",
+            "heading_tag": "h4",
+            "content": "",
+            "link_text": "",
+            "link_url": "",
+            "link_style": "link",
+            "text_position": "place-self-center text-center",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        }
+      },
+      "block_order": [
+        "image_mJwxDb",
+        "image_tHn9W7",
+        "image_UcLrCr"
+      ],
+      "custom_css": [
+        ".container {max-width: 600px; margin: auto;}",
+        ".container {margin-top: 1rem;}",
+        ".media-grid {--media-grid-column-count: 12; grid: unset;}",
+        ".media-grid__item {grid-area: span var(--media-grid-item-row-span) / span var(--media-grid-item-column-span);}",
+        "p {font-size: 1.6rem; line-height: 2.5rem;}"
+      ],
+      "settings": {
+        "color_scheme": "",
+        "separate_section_with_border": false,
+        "desktop_row_height": 290,
+        "mobile_row_height": 180,
+        "section_width": "lg",
+        "spacing": "md",
+        "subheading": "",
+        "title": "",
+        "content": "<p>Basic Tencel<br/>Layering T-shirt</p>"
+      }
+    },
+    "rich_text_ArLWNK": {
+      "type": "rich-text",
+      "blocks": {
+        "richtext_hnaQTa": {
+          "type": "richtext",
+          "settings": {
+            "content": "<p>エッセンシャルラインのベーシックなラウンドネックレイヤードTシャツ。肌触りの柔らかいシースルー素材で、インナーとして着るのはもちろん、同じアイテムを異なるカラーで重ね着するのもおすすめ。長めの袖とゆったりとした丈感で、しなやかでリラックス感のある印象を与えてくれます。</p>"
+          }
+        }
+      },
+      "block_order": [
+        "richtext_hnaQTa"
+      ],
+      "custom_css": [
+        ".container {max-width: 600px; margin: auto;}",
+        ".prose {text-align: left;}"
+      ],
+      "settings": {
+        "color_scheme": "",
+        "separate_section_with_border": false,
+        "content_width": "sm",
+        "text_position": "center",
+        "remove_vertical_spacing": false
+      }
+    },
+    "media_grid_KXbdap": {
+      "type": "media-grid",
+      "blocks": {
+        "image_kMVdkR": {
+          "type": "image",
+          "settings": {
+            "color_scheme": "",
+            "image": "shopify://shop_images/Basic_Tencel_Layering_T-shirt_04.jpg",
+            "column_count": "12",
+            "row_count": 3,
+            "title": "",
+            "heading_tag": "h4",
+            "content": "",
+            "link_text": "",
+            "link_url": "",
+            "link_style": "link",
+            "text_position": "place-self-center text-center",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        },
+        "image_yzyJPc": {
+          "type": "image",
+          "settings": {
+            "color_scheme": "",
+            "image": "shopify://shop_images/Basic_Tencel_Layering_T-shirt_05.jpg",
+            "column_count": "4",
+            "row_count": 1,
+            "title": "",
+            "heading_tag": "h4",
+            "content": "",
+            "link_text": "",
+            "link_url": "",
+            "link_style": "link",
+            "text_position": "place-self-center text-center",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        },
+        "image_TnBtxF": {
+          "type": "image",
+          "settings": {
+            "color_scheme": "",
+            "image": "shopify://shop_images/Basic_Tencel_Layering_T-shirt_06.jpg",
+            "column_count": "4",
+            "row_count": 1,
+            "title": "",
+            "heading_tag": "h4",
+            "content": "",
+            "link_text": "",
+            "link_url": "",
+            "link_style": "link",
+            "text_position": "place-self-center text-center",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        },
+        "image_XMginE": {
+          "type": "image",
+          "settings": {
+            "color_scheme": "scheme-4",
+            "image": "shopify://shop_images/Basic_Tencel_Layering_T-shirt_07.jpg",
+            "column_count": "4",
+            "row_count": 1,
+            "title": "",
+            "heading_tag": "h4",
+            "content": "",
+            "link_text": "",
+            "link_url": "",
+            "link_style": "link",
+            "text_position": "place-self-center text-center",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        },
+        "image_YeaUNd": {
+          "type": "image",
+          "settings": {
+            "color_scheme": "scheme-4",
+            "image": "shopify://shop_images/Basic_Tencel_Layering_T-shirt_08.jpg",
+            "column_count": "4",
+            "row_count": 1,
+            "title": "",
+            "heading_tag": "h4",
+            "content": "",
+            "link_text": "",
+            "link_url": "",
+            "link_style": "link",
+            "text_position": "place-self-center text-center",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        },
+        "image_PNgBR8": {
+          "type": "image",
+          "settings": {
+            "color_scheme": "scheme-4",
+            "image": "shopify://shop_images/Basic_Tencel_Layering_T-shirt_09.jpg",
+            "column_count": "4",
+            "row_count": 1,
+            "title": "",
+            "heading_tag": "h4",
+            "content": "",
+            "link_text": "",
+            "link_url": "",
+            "link_style": "link",
+            "text_position": "place-self-center text-center",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        }
+      },
+      "block_order": [
+        "image_kMVdkR",
+        "image_yzyJPc",
+        "image_TnBtxF",
+        "image_XMginE",
+        "image_YeaUNd",
+        "image_PNgBR8"
+      ],
+      "custom_css": [
+        ".container {max-width: 600px; margin: auto;}",
+        ".media-grid {--media-grid-column-count: 12; grid: unset; column-gap: 0; row-gap: 0;}",
+        ".media-grid__item {grid-area: span var(--media-grid-item-row-span) / span var(--media-grid-item-column-span);}",
+        ".media-grid > .media-grid__item:nth-of-type(1) {padding-bottom: 2rem;}",
+        ".media-grid > .media-grid__item:nth-last-child(2) {grid-column-end: 7;}",
+        ".media-grid > .media-grid__item:last-child {grid-column-end: 11;}"
+      ],
+      "settings": {
+        "color_scheme": "",
+        "separate_section_with_border": false,
+        "desktop_row_height": 290,
+        "mobile_row_height": 180,
+        "section_width": "lg",
+        "spacing": "md",
+        "subheading": "",
+        "title": "",
+        "content": ""
+      }
+    }
+  },
+  "order": [
+    "main",
+    "prev-next-blog-posts",
+    "image_with_text_overlay_LBdcwJ",
+    "media_grid_FaNXkz",
+    "rich_text_8PmMn7",
+    "media_grid_gpykhC",
+    "custom_liquid_MtGACk",
+    "media_grid_3dHTxB",
+    "rich_text_EeGm6c",
+    "media_grid_BhwU3f",
+    "custom_liquid_e6dy3D",
+    "media_grid_ctiYNq",
+    "rich_text_ArLWNK",
+    "media_grid_KXbdap"
+  ]
+}
