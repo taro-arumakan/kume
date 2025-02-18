@@ -31,7 +31,7 @@
   <div class="section-spacing color-scheme color-scheme--{{ section.settings.color_scheme.id }} color-scheme--bg-{{ color_scheme_hash }} {% if section.settings.separate_section_with_border %}bordered-section{% endif %}">
     <div class="container {% unless section.settings.section_width == 'full' %}container--{{ section.settings.section_width }}{% endunless %}">
       <div class="section-stack">
-        {%- render 'section-header', subheading: section.settings.subheading, heading: section.settings.title, content: section.settings.content -%}
+        {%- render 'section-header', subheading: section.settings.subheading, heading: section.settings.title, content: section.settings.content link: section.settings.link -%}
 
         <media-grid class="media-grid">
           {%- for block in section.blocks -%}
@@ -215,6 +215,11 @@
       "type": "richtext",
       "id": "content",
       "label": "t:global.text.content"
+    },
+    {
+      "type": "url",
+      "id": "link",
+      "label": "t:global.text.link"
     }
   ],
   "blocks": [
