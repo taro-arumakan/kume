@@ -46,7 +46,7 @@
         "image_size": "auto",
         "image": "shopify://shop_images/essential-collection-tb-pc.png",
         "mobile_image": "shopify://shop_images/essential-collection-tb-sp.png",
-        "image_link": "shopify://collections",
+        "image_link": "shopify://collections/essential-collection",
         "allow_transparent_header": true,
         "reveal_on_scroll": true,
         "remove_vertical_spacing": true,
@@ -71,7 +71,7 @@
             "heading_tag": "h4",
             "content": "",
             "link_text": "",
-            "link_url": "",
+            "link_url": "https://kume-studio.jp/products/turtleneck-superfine-merino-wool-sweater?variant=49342318018843",
             "link_style": "link",
             "text_position": "place-self-center text-center",
             "overlay_color": "#000000",
@@ -89,7 +89,7 @@
             "heading_tag": "h4",
             "content": "",
             "link_text": "",
-            "link_url": "",
+            "link_url": "https://kume-studio.jp/products/turtleneck-superfine-merino-wool-sweater?variant=49342317887771",
             "link_style": "link",
             "text_position": "place-self-center text-center",
             "overlay_color": "#000000",
@@ -107,7 +107,7 @@
             "heading_tag": "h4",
             "content": "",
             "link_text": "",
-            "link_url": "",
+            "link_url": "https://kume-studio.jp/products/turtleneck-superfine-merino-wool-sweater?variant=49342317822235",
             "link_style": "link",
             "text_position": "place-self-center text-center",
             "overlay_color": "#000000",
@@ -121,7 +121,7 @@
         "image_rbWjPh"
       ],
       "custom_css": [
-        ".container {margin-top: 7rem; max-width: 600px; margin: auto;}",
+        ".container {margin: auto; margin-top: 7rem; max-width: 600px;}",
         ".media-grid {--media-grid-column-count: 12; grid: unset;}",
         ".media-grid__item {grid-area: span var(--media-grid-item-row-span) / span var(--media-grid-item-column-span);}",
         "p {font-size: 1.6rem; line-height: 2.5rem;}"
@@ -135,7 +135,8 @@
         "spacing": "md",
         "subheading": "",
         "title": "",
-        "content": "<p>Turtleneck Superfine<br/>Merino Wool Sweater</p>"
+        "content": "<p>Turtleneck Superfine<br/>Merino Wool Sweater</p>",
+        "link": "shopify://products/turtleneck-superfine-merino-wool-sweater"
       }
     },
     "rich_text_8PmMn7": {
@@ -152,7 +153,7 @@
         "richtext_aDHxaQ"
       ],
       "custom_css": [
-        ".container {max-width: 600px; margin: auto;}",
+        "@media only screen and (min-width: 768px) {.container {max-width: 550px; margin: auto; }}",
         ".prose {text-align: left;}"
       ],
       "settings": {
@@ -177,7 +178,7 @@
             "heading_tag": "h4",
             "content": "",
             "link_text": "",
-            "link_url": "",
+            "link_url": "https://kume-studio.jp/products/turtleneck-superfine-merino-wool-sweater?variant=49389722927387",
             "link_style": "link",
             "text_position": "place-self-center text-center",
             "overlay_color": "#000000",
@@ -195,7 +196,7 @@
             "heading_tag": "h4",
             "content": "",
             "link_text": "",
-            "link_url": "",
+            "link_url": "https://kume-studio.jp/products/turtleneck-superfine-merino-wool-sweater?variant=49342317822235",
             "link_style": "link",
             "text_position": "place-self-center text-center",
             "overlay_color": "#000000",
@@ -213,7 +214,7 @@
             "heading_tag": "h4",
             "content": "",
             "link_text": "",
-            "link_url": "",
+            "link_url": "https://kume-studio.jp/products/turtleneck-superfine-merino-wool-sweater?variant=49342318018843",
             "link_style": "link",
             "text_position": "place-self-center text-center",
             "overlay_color": "#000000",
@@ -231,7 +232,7 @@
             "heading_tag": "h4",
             "content": "",
             "link_text": "",
-            "link_url": "",
+            "link_url": "https://kume-studio.jp/products/turtleneck-superfine-merino-wool-sweater?variant=49389722927387",
             "link_style": "link",
             "text_position": "place-self-center text-center",
             "overlay_color": "#000000",
@@ -249,7 +250,7 @@
             "heading_tag": "h4",
             "content": "",
             "link_text": "",
-            "link_url": "",
+            "link_url": "https://kume-studio.jp/products/turtleneck-superfine-merino-wool-sweater?variant=49342317887771",
             "link_style": "link",
             "text_position": "place-self-center text-center",
             "overlay_color": "#000000",
@@ -278,7 +279,8 @@
         "spacing": "md",
         "subheading": "",
         "title": "",
-        "content": ""
+        "content": "",
+        "link": ""
       }
     },
     "custom_liquid_MtGACk": {
@@ -306,7 +308,7 @@
             "heading_tag": "h4",
             "content": "",
             "link_text": "",
-            "link_url": "",
+            "link_url": "shopify://products/v-neck-superfine-merino-wool-sweater",
             "link_style": "link",
             "text_position": "place-self-center text-center",
             "overlay_color": "#000000",
@@ -324,7 +326,7 @@
             "heading_tag": "h4",
             "content": "",
             "link_text": "",
-            "link_url": "",
+            "link_url": "https://kume-studio.jp/products/v-neck-superfine-merino-wool-sweater?variant=49389723156763",
             "link_style": "link",
             "text_position": "place-self-center text-center",
             "overlay_color": "#000000",
@@ -342,7 +344,7 @@
             "heading_tag": "h4",
             "content": "",
             "link_text": "",
-            "link_url": "",
+            "link_url": "https://kume-studio.jp/products/v-neck-superfine-merino-wool-sweater?variant=49342318444827",
             "link_style": "link",
             "text_position": "place-self-center text-center",
             "overlay_color": "#000000",
@@ -371,7 +373,8 @@
         "spacing": "md",
         "subheading": "",
         "title": "",
-        "content": "<p>V-neck Superfine<br/>Merino Wool Sweater</p>"
+        "content": "<p>V-neck Superfine<br/>Merino Wool Sweater</p>",
+        "link": "shopify://products/v-neck-superfine-merino-wool-sweater"
       }
     },
     "rich_text_EeGm6c": {
@@ -388,7 +391,7 @@
         "richtext_BzjApj"
       ],
       "custom_css": [
-        ".container {max-width: 600px; margin: auto;}",
+        "@media only screen and (min-width: 768px) {.container {max-width: 550px; margin: auto; }}",
         ".prose {text-align: left;}"
       ],
       "settings": {
@@ -413,7 +416,7 @@
             "heading_tag": "h4",
             "content": "",
             "link_text": "",
-            "link_url": "",
+            "link_url": "https://kume-studio.jp/products/v-neck-superfine-merino-wool-sweater?variant=49342318379291",
             "link_style": "link",
             "text_position": "place-self-center text-center",
             "overlay_color": "#000000",
@@ -431,7 +434,7 @@
             "heading_tag": "h4",
             "content": "",
             "link_text": "",
-            "link_url": "",
+            "link_url": "https://kume-studio.jp/products/v-neck-superfine-merino-wool-sweater?variant=49342318346523",
             "link_style": "link",
             "text_position": "place-self-center text-center",
             "overlay_color": "#000000",
@@ -449,7 +452,7 @@
             "heading_tag": "h4",
             "content": "",
             "link_text": "",
-            "link_url": "",
+            "link_url": "https://kume-studio.jp/products/v-neck-superfine-merino-wool-sweater?variant=49342318444827",
             "link_style": "link",
             "text_position": "place-self-center text-center",
             "overlay_color": "#000000",
@@ -467,7 +470,7 @@
             "heading_tag": "h4",
             "content": "",
             "link_text": "",
-            "link_url": "",
+            "link_url": "https://kume-studio.jp/products/v-neck-superfine-merino-wool-sweater?variant=49389723156763",
             "link_style": "link",
             "text_position": "place-self-center text-center",
             "overlay_color": "#000000",
@@ -485,7 +488,7 @@
             "heading_tag": "h4",
             "content": "",
             "link_text": "",
-            "link_url": "",
+            "link_url": "https://kume-studio.jp/products/v-neck-superfine-merino-wool-sweater?variant=49342318379291",
             "link_style": "link",
             "text_position": "place-self-center text-center",
             "overlay_color": "#000000",
@@ -514,7 +517,8 @@
         "spacing": "md",
         "subheading": "",
         "title": "",
-        "content": ""
+        "content": "",
+        "link": ""
       }
     },
     "custom_liquid_e6dy3D": {
@@ -542,7 +546,7 @@
             "heading_tag": "h4",
             "content": "",
             "link_text": "",
-            "link_url": "",
+            "link_url": "https://kume-studio.jp/products/basic-tencel-layering-t-shirt?variant=49342319100187",
             "link_style": "link",
             "text_position": "place-self-center text-center",
             "overlay_color": "#000000",
@@ -560,7 +564,7 @@
             "heading_tag": "h4",
             "content": "",
             "link_text": "",
-            "link_url": "",
+            "link_url": "https://kume-studio.jp/products/basic-tencel-layering-t-shirt?variant=49342319100187",
             "link_style": "link",
             "text_position": "place-self-center text-center",
             "overlay_color": "#000000",
@@ -578,7 +582,7 @@
             "heading_tag": "h4",
             "content": "",
             "link_text": "",
-            "link_url": "",
+            "link_url": "https://kume-studio.jp/products/basic-tencel-layering-t-shirt?variant=49342319231259",
             "link_style": "link",
             "text_position": "place-self-center text-center",
             "overlay_color": "#000000",
@@ -607,7 +611,8 @@
         "spacing": "md",
         "subheading": "",
         "title": "",
-        "content": "<p>Basic Tencel<br/>Layering T-shirt</p>"
+        "content": "<p>Basic Tencel<br/>Layering T-shirt</p>",
+        "link": "shopify://products/basic-tencel-layering-t-shirt"
       }
     },
     "rich_text_ArLWNK": {
@@ -624,7 +629,7 @@
         "richtext_hnaQTa"
       ],
       "custom_css": [
-        ".container {max-width: 600px; margin: auto;}",
+        "@media only screen and (min-width: 768px) {.container {max-width: 550px; margin: auto; }}",
         ".prose {text-align: left;}"
       ],
       "settings": {
@@ -649,7 +654,7 @@
             "heading_tag": "h4",
             "content": "",
             "link_text": "",
-            "link_url": "",
+            "link_url": "https://kume-studio.jp/products/basic-tencel-layering-t-shirt?variant=49342319034651",
             "link_style": "link",
             "text_position": "place-self-center text-center",
             "overlay_color": "#000000",
@@ -667,7 +672,7 @@
             "heading_tag": "h4",
             "content": "",
             "link_text": "",
-            "link_url": "",
+            "link_url": "https://kume-studio.jp/products/basic-tencel-layering-t-shirt?variant=49342318903579",
             "link_style": "link",
             "text_position": "place-self-center text-center",
             "overlay_color": "#000000",
@@ -685,7 +690,7 @@
             "heading_tag": "h4",
             "content": "",
             "link_text": "",
-            "link_url": "",
+            "link_url": "https://kume-studio.jp/products/basic-tencel-layering-t-shirt?variant=49342319231259",
             "link_style": "link",
             "text_position": "place-self-center text-center",
             "overlay_color": "#000000",
@@ -703,7 +708,7 @@
             "heading_tag": "h4",
             "content": "",
             "link_text": "",
-            "link_url": "",
+            "link_url": "https://kume-studio.jp/products/basic-tencel-layering-t-shirt?variant=49342319100187",
             "link_style": "link",
             "text_position": "place-self-center text-center",
             "overlay_color": "#000000",
@@ -721,7 +726,7 @@
             "heading_tag": "h4",
             "content": "",
             "link_text": "",
-            "link_url": "",
+            "link_url": "https://kume-studio.jp/products/basic-tencel-layering-t-shirt?variant=49342319034651",
             "link_style": "link",
             "text_position": "place-self-center text-center",
             "overlay_color": "#000000",
@@ -739,7 +744,7 @@
             "heading_tag": "h4",
             "content": "",
             "link_text": "",
-            "link_url": "",
+            "link_url": "https://kume-studio.jp/products/basic-tencel-layering-t-shirt?variant=49342318969115",
             "link_style": "link",
             "text_position": "place-self-center text-center",
             "overlay_color": "#000000",
@@ -772,7 +777,8 @@
         "spacing": "md",
         "subheading": "",
         "title": "",
-        "content": ""
+        "content": "",
+        "link": ""
       }
     }
   },
