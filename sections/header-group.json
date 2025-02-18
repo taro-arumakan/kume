@@ -14,17 +14,17 @@
     "announcement-bar": {
       "type": "announcement-bar",
       "blocks": {
-        "message_JtBBEg": {
-          "type": "message",
-          "disabled": true,
-          "settings": {
-            "text": "Black Friday開催中。Up to 30% Off。"
-          }
-        },
         "message-1": {
           "type": "message",
           "settings": {
             "text": "全国一律送料770円、また30,000円(税込)以上のご購入で全国送料無料"
+          }
+        },
+        "message_JtBBEg": {
+          "type": "message",
+          "disabled": true,
+          "settings": {
+            "text": "<a href=\"/pages/年末年始の配送-お問い合わせのお知らせ\" title=\"年末年始の配送 / お問い合わせのお知らせ\">年末年始の配送 / お問い合わせのお知らせ</a>"
           }
         },
         "message_4Ubh6N": {
@@ -36,8 +36,8 @@
         }
       },
       "block_order": [
-        "message_JtBBEg",
         "message-1",
+        "message_JtBBEg",
         "message_4Ubh6N"
       ],
       "settings": {
