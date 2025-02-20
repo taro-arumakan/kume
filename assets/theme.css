@@ -6783,7 +6783,7 @@ product-rerender {
   border-block-start-width: 0px;
 }
 
-.header-sidebar__main-panel .divide-y>:is(li:nth-of-type(4),li:nth-last-of-type(3)) {
+.header-sidebar__main-panel .divide-y>:is(li:nth-of-type(4),li:nth-last-of-type(4)) {
   border-block-start-width: 0.8px !important;
   border-color: rgb(var(--text-color));
   margin-top: 30px;
