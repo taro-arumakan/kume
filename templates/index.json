@@ -14,6 +14,7 @@
       "blocks": {
         "slide-2": {
           "type": "image",
+          "disabled": true,
           "settings": {
             "image": "shopify://shop_images/62932.jpg",
             "mobile_image": "shopify://shop_images/62931.jpg",
@@ -205,6 +206,7 @@
       "blocks": {
         "collection_rQAaCC": {
           "type": "collection",
+          "disabled": true,
           "settings": {
             "collection": "新作ノベルティ対象",
             "products_count": 8,
@@ -232,15 +234,47 @@
         "subheading": ""
       }
     },
+    "featured_collections_XmV7Vg": {
+      "type": "featured-collections",
+      "blocks": {
+        "collection_rYrVKE": {
+          "type": "collection",
+          "settings": {
+            "collection": "new-arrival",
+            "products_count": 4,
+            "title": "",
+            "link_url": "",
+            "link_text": "View all"
+          }
+        }
+      },
+      "block_order": [
+        "collection_rYrVKE"
+      ],
+      "custom_css": [
+        ".section-spacing {padding-block-start: 5rem;}"
+      ],
+      "settings": {
+        "color_scheme": "",
+        "separate_section_with_border": false,
+        "hide_product_information": false,
+        "stack_products": true,
+        "products_per_row_mobile": "2",
+        "products_per_row_desktop": 4,
+        "horizontal_spacing_factor": 1,
+        "vertical_spacing_factor": 1,
+        "subheading": ""
+      }
+    },
     "featured_collections_fwC7AD": {
       "type": "featured-collections",
       "blocks": {
         "collection_zr6qGz": {
           "type": "collection",
           "settings": {
-            "collection": "recommend",
+            "collection": "the-inspired-collection",
             "products_count": 6,
-            "title": "Best",
+            "title": "",
             "link_url": "shopify://collections/recommend",
             "link_text": "View all"
           }
@@ -282,39 +316,6 @@
         "subheading": "",
         "title": "Recently viewed",
         "content": ""
-      }
-    },
-    "featured_collections_XmV7Vg": {
-      "type": "featured-collections",
-      "blocks": {
-        "collection_rYrVKE": {
-          "type": "collection",
-          "settings": {
-            "collection": "fw24",
-            "products_count": 4,
-            "title": "24AW COLLECTION",
-            "link_url": "",
-            "link_text": "View all"
-          }
-        }
-      },
-      "block_order": [
-        "collection_rYrVKE"
-      ],
-      "disabled": true,
-      "custom_css": [
-        ".section-spacing {padding-block-start: 5rem;}"
-      ],
-      "settings": {
-        "color_scheme": "",
-        "separate_section_with_border": false,
-        "hide_product_information": false,
-        "stack_products": true,
-        "products_per_row_mobile": "2",
-        "products_per_row_desktop": 4,
-        "horizontal_spacing_factor": 1,
-        "vertical_spacing_factor": 1,
-        "subheading": ""
       }
     },
     "slideshow_jUGpWe": {
@@ -371,9 +372,9 @@
   "order": [
     "slideshow",
     "featured_collections_gXQ4xX",
+    "featured_collections_XmV7Vg",
     "featured_collections_fwC7AD",
     "recently_viewed_products_hpUjw8",
-    "featured_collections_XmV7Vg",
     "slideshow_jUGpWe"
   ]
 }
