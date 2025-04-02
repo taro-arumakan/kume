@@ -206,10 +206,9 @@
       "blocks": {
         "collection_rQAaCC": {
           "type": "collection",
-          "disabled": true,
           "settings": {
-            "collection": "新作ノベルティ対象",
-            "products_count": 8,
+            "collection": "akis-picks",
+            "products_count": 6,
             "title": "",
             "link_url": "shopify://collections/新作ノベルティ対象",
             "link_text": "View all"
@@ -258,7 +257,7 @@
         "color_scheme": "",
         "separate_section_with_border": false,
         "hide_product_information": false,
-        "stack_products": true,
+        "stack_products": false,
         "products_per_row_mobile": "2",
         "products_per_row_desktop": 4,
         "horizontal_spacing_factor": 1,
@@ -307,9 +306,9 @@
         "separate_section_with_border": false,
         "color_scheme": "",
         "hide_product_information": false,
-        "stack_products": true,
+        "stack_products": false,
         "products_count": 6,
-        "products_per_row_mobile": "2",
+        "products_per_row_mobile": "1",
         "products_per_row_desktop": 3,
         "horizontal_spacing_factor": 1,
         "vertical_spacing_factor": 1,
