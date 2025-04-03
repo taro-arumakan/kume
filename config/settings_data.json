@@ -30,6 +30,8 @@
     "button_letter_spacing": 18,
     "show_page_transition": true,
     "color_swatch_config": "BEIGE: #F5F5DC\nBLACK: #000000\nBLACK TWEED: #2F2F2F\nBLUE: #0000FF\nBLUE STRIPE: #87CEEB\nBRICK: #CB4154\nBROWN: #A52A2A\nBROWN CHECK: #8B4513\nCAMEL: #C19A6B\nCHARCOAL: #36454F\nCORAL: #FF7F50\nDARK BEIGE: #A89A91\nDARK BLUE: #00008B\nDARK BROWN: #654321\nECRU: #C2B280\nIVORY: #FFFFF0\nKHAKI: #C3B091\nLEOPARD: #D4A017\nLIGHT BEIGE: #F8E8D3\nLIGHT BLUE: #ADD8E6\nLIGHT GRAY: #D3D3D3\nLIGHT YELLOW: #FFFFE0\nLIME: #00FF00\nMAGENTA: #FF00FF\nMEDIUM BLUE: #0000CD\nMELANGE GRAY: #A9A9A9\nMELANGE OATMEAL: #E3D9C6\nMINT: #98FF98\nMIST: #B2BEB5\nMOCHA: #73503B\nNAVY: #000080\nOATMEAL: #E3D9C6\nOLIVE: #808000\nPEACH: #FFDAB9\nPINK: #FFC0CB\nRED: #FF0000\nSILVER: #C0C0C0\nSKY BLUE: #87CEEB\nWAX YELLOW: #FFD700\nWHITE: #FFFFFF",
+    "option_value_metafield": "custom.variation_value",
+    "variation_products_metafield": "custom.variation_products",
     "product_card_text_font": "heading",
     "product_color_display": "swatch",
     "show_discount": true,

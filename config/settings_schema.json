@@ -455,8 +455,20 @@
         "label": "t:theme_settings.color_swatch.configuration",
         "placeholder": "Red:#ff0000\nGreen:#00ff00\nBlue:#0000ff",
         "info": "t:theme_settings.color_swatch.configuration_info"
-      }
-    ]
+      },
+      {
+        "type": "text",
+        "id": "option_value_metafield",
+        "label": "t:sections.main_product.blocks.product_variations.option_value_metafield",
+        "info": "t:sections.main_product.blocks.product_variations.option_value_metafield_info"
+      },
+      {
+        "type": "text",
+        "id": "variation_products_metafield",
+        "label": "Variation products metafield",
+        "info": "Enter as a text the namespace and key of the metafield holding other variants registered as products. Eg.: custom.variation_products"
+      },
+      ]
   },
   {
     "name": "t:theme_settings.product_card.name",
