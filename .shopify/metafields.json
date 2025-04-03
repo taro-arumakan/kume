@@ -38,6 +38,26 @@
         "name": "boolean",
         "category": "TRUE_FALSE"
       }
+    },
+    {
+      "key": "variation_value",
+      "namespace": "custom",
+      "name": "Variation value",
+      "description": "Value of the variation of a product registered as a standalone product",
+      "type": {
+        "name": "single_line_text_field",
+        "category": "TEXT"
+      }
+    },
+    {
+      "key": "variation_products",
+      "namespace": "custom",
+      "name": "Variation products",
+      "description": "List of other products to show along with e.g. other variants registered as standalone products",
+      "type": {
+        "name": "list.product_reference",
+        "category": "REFERENCE"
+      }
     }
   ],
   "variant": [
