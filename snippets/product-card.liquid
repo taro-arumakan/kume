@@ -69,7 +69,6 @@ Supported variables
 
         {%- liquid
           assign main_media_loading_strategy = nil
-          
           if section.index > 3 or position > 3
             assign main_media_loading_strategy = 'lazy'
           endif
@@ -170,8 +169,34 @@ Supported variables
                 -%}
               </fieldset>
           {%- endcase -%}
-
           {%- break -%}
+
+        {%- elsif settings.option_value_metafield -%}
+          {%- liquid
+            assign metafield_parts = settings.option_value_metafield | split: '.'
+            assign metafield_namespace = metafield_parts | first
+            assign metafield_key = metafield_parts | last
+            assign variation_products_metafield_key = settings.variation_products_metafield | split: '.' | last
+          -%}
+          {%- if product.metafields[metafield_namespace][metafield_key].value -%}
+            <fieldset class="h-stack wrap justify-center gap-1">
+            {%- liquid
+              assign this_label = product.metafields[metafield_namespace][metafield_key].value
+              for product_variation in product.metafields[metafield_namespace][variation_products_metafield_key].value
+                assign label = product_variation.metafields[metafield_namespace][metafield_key].value
+                case label
+                  when this_label
+                    assign selected = true
+                  else
+                    assign selected = false
+                endcase
+                render 'option-value', type: 'swatch', url: product_variation.url, label: label, selected: selected
+              endfor
+            -%}
+            </fieldset>
+          {%- endif -%}
+          {%- break -%}
+
         {%- endif -%}
       {%- endfor -%}
     {%- endif -%}
