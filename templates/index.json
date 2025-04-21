@@ -208,7 +208,7 @@
           "type": "collection",
           "settings": {
             "collection": "new-arrival",
-            "products_count": 4,
+            "products_count": 8,
             "title": "",
             "link_url": "",
             "link_text": "View all"
@@ -240,7 +240,7 @@
           "type": "collection",
           "settings": {
             "collection": "recommend",
-            "products_count": 6,
+            "products_count": 8,
             "title": "",
             "link_url": "",
             "link_text": "View all"
