@@ -201,13 +201,13 @@
         "controls_color": "#ffffff"
       }
     },
-    "featured_collections_XmV7Vg": {
+    "featured_collections_yVDDrc": {
       "type": "featured-collections",
       "blocks": {
-        "collection_rYrVKE": {
+        "collection_xGLWtG": {
           "type": "collection",
           "settings": {
-            "collection": "new-arrival",
+            "collection": "akis-picks",
             "products_count": 8,
             "title": "",
             "link_url": "",
@@ -216,11 +216,45 @@
         }
       },
       "block_order": [
-        "collection_rYrVKE"
+        "collection_xGLWtG"
       ],
       "custom_css": [
         ".section-spacing {padding-block-start: 5rem;}"
       ],
+      "name": "t:sections.featured_collections.presets.featured_collections.name",
+      "settings": {
+        "color_scheme": "",
+        "separate_section_with_border": false,
+        "hide_product_information": false,
+        "stack_products": true,
+        "products_per_row_mobile": "2",
+        "products_per_row_desktop": 4,
+        "horizontal_spacing_factor": 1,
+        "vertical_spacing_factor": 1,
+        "subheading": "Featured collection"
+      }
+    },
+    "featured_collections_7awX9N": {
+      "type": "featured-collections",
+      "blocks": {
+        "collection_zkAyMf": {
+          "type": "collection",
+          "settings": {
+            "collection": "hankyu-umeda-collection",
+            "products_count": 8,
+            "title": "",
+            "link_url": "",
+            "link_text": "View all"
+          }
+        }
+      },
+      "block_order": [
+        "collection_zkAyMf"
+      ],
+      "custom_css": [
+        ".section-spacing {padding-block-start: 5rem;}"
+      ],
+      "name": "t:sections.featured_collections.presets.featured_collections.name",
       "settings": {
         "color_scheme": "",
         "separate_section_with_border": false,
@@ -230,7 +264,7 @@
         "products_per_row_desktop": 4,
         "horizontal_spacing_factor": 1,
         "vertical_spacing_factor": 1,
-        "subheading": ""
+        "subheading": "Featured collection"
       }
     },
     "featured_collections_gXQ4xX": {
@@ -258,6 +292,38 @@
         "separate_section_with_border": false,
         "hide_product_information": false,
         "stack_products": true,
+        "products_per_row_mobile": "2",
+        "products_per_row_desktop": 4,
+        "horizontal_spacing_factor": 1,
+        "vertical_spacing_factor": 1,
+        "subheading": ""
+      }
+    },
+    "featured_collections_XmV7Vg": {
+      "type": "featured-collections",
+      "blocks": {
+        "collection_rYrVKE": {
+          "type": "collection",
+          "settings": {
+            "collection": "new-arrival",
+            "products_count": 8,
+            "title": "",
+            "link_url": "",
+            "link_text": "View all"
+          }
+        }
+      },
+      "block_order": [
+        "collection_rYrVKE"
+      ],
+      "custom_css": [
+        ".section-spacing {padding-block-start: 5rem;}"
+      ],
+      "settings": {
+        "color_scheme": "",
+        "separate_section_with_border": false,
+        "hide_product_information": false,
+        "stack_products": false,
         "products_per_row_mobile": "2",
         "products_per_row_desktop": 4,
         "horizontal_spacing_factor": 1,
@@ -338,8 +404,10 @@
   },
   "order": [
     "slideshow",
-    "featured_collections_XmV7Vg",
+    "featured_collections_yVDDrc",
+    "featured_collections_7awX9N",
     "featured_collections_gXQ4xX",
+    "featured_collections_XmV7Vg",
     "recently_viewed_products_hpUjw8",
     "slideshow_jUGpWe"
   ]
