@@ -23,9 +23,18 @@
             "heading_tag": "h3"
           }
         },
-        "badges_6QH3J6": {
+        "badges_CqBxfj": {
           "type": "badges",
           "settings": {}
+        },
+        "product_variations_gnHVdU": {
+          "type": "product_variations",
+          "settings": {
+            "option_name": "カラー",
+            "option_value_metafield": "custom.variation_value",
+            "products": "{{ product.metafields.custom.variation_products.value }}",
+            "selector_style": "variant_image"
+          }
         },
         "variant_picker": {
           "type": "variant_picker",
@@ -33,7 +42,7 @@
             "hide_sold_out_variants": false,
             "selector_style": "block",
             "swatch_selector_style": "swatch",
-            "variant_image_options": "",
+            "variant_image_options": "カラー",
             "size_chart_page": ""
           }
         },
@@ -50,7 +59,7 @@
         "text_iHL7HE": {
           "type": "text",
           "settings": {
-            "text": "<h5><strong>こちらの商品は予約商品となります。<br/>発送開始は3月末を予定しております。</strong></h5>"
+            "text": "<h5><strong>こちらの商品は予約商品となります。<br/>発送開始は5月下旬を予定しております。</strong></h5>"
           }
         },
         "buy_buttons": {
@@ -93,7 +102,8 @@
       "block_order": [
         "vendor",
         "title",
-        "badges_6QH3J6",
+        "badges_CqBxfj",
+        "product_variations_gnHVdU",
         "variant_picker",
         "quantity_selector",
         "price",
@@ -109,10 +119,10 @@
       ],
       "settings": {
         "color_scheme": "",
-        "container_size": "lg",
+        "container_size": "full",
         "product_info_size": 35,
         "show_sticky_add_to_cart": true,
-        "center_basic_info": false,
+        "center_basic_info": true,
         "desktop_media_layout": "carousel_thumbnails_left",
         "desktop_media_grid_gap": 30,
         "mobile_controls": "thumbnails",
@@ -142,7 +152,7 @@
         "content": ""
       }
     },
-    "recently_viewed_products_MGyppK": {
+    "recently_viewed_products_rTNm3d": {
       "type": "recently-viewed-products",
       "custom_css": [
         ".section-spacing {padding-block-start: 5rem;}"
@@ -166,6 +176,6 @@
   "order": [
     "main",
     "related-products",
-    "recently_viewed_products_MGyppK"
+    "recently_viewed_products_rTNm3d"
   ]
 }
