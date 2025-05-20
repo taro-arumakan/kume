@@ -58,6 +58,16 @@
         "name": "list.product_reference",
         "category": "REFERENCE"
       }
+    },
+    {
+      "key": "expected_shipping_date",
+      "namespace": "custom",
+      "name": "expected shipping date",
+      "description": "date when shipping is expected to start",
+      "type": {
+        "name": "date",
+        "category": "DATE_TIME"
+      }
     }
   ],
   "variant": [

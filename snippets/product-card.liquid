@@ -84,7 +84,7 @@ Supported variables
       </a>
 
       {%- if show_quick_buy and product.available -%}
-        {%- unless product.template_suffix contains 'pre-order' -%}
+        {%- unless product.template_suffix contains 'pre-order' or product.metafields.custom.expected_shipping_date.value != blank -%}
           {%- if product.variants.size == 1 and product.selling_plan_groups.size == 0 -%}
             <product-form>
               {%- form 'product', product -%}

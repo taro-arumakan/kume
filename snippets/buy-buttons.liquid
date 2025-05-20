@@ -44,7 +44,7 @@ Supported variables
           assign button_disabled = true
           assign button_content = 'product.general.sold_out_button' | t
         else
-          if product.template_suffix contains 'pre-order'
+          if product.template_suffix contains 'pre-order' or product.metafields.custom.expected_shipping_date.value != blank
             assign button_content = 'product.general.pre_order_button' | t
           else
             assign button_content = 'product.general.add_to_cart_button' | t

@@ -47,6 +47,12 @@
             "show_taxes_notice": false
           }
         },
+        "liquid_zwJgMC": {
+          "type": "liquid",
+          "settings": {
+            "liquid": "{% style %}\n  .liquid {\n    color: crimson;\n  }\n{% endstyle %}\n{%- liquid\nassign expected_shipping_date = product.metafields['custom']['expected_shipping_date'].value\nif expected_shipping_date\n  assign expected_shipping_month = expected_shipping_date | date: '%m' | plus: 0\n  assign expected_shipping_date = expected_shipping_date | date: '%d' | plus: 0\n  if expected_shipping_date <= 10\n    assign expected_shipping_date_range = '上旬'\n  elsif expected_shipping_date <= 20\n    assign expected_shipping_date_range = '中旬'\n  else\n    assign expected_shipping_date_range = '下旬'\n  endif\n    echo 'こちらの商品は予約商品となります。<br>'\n    echo '発送開始は' | append: expected_shipping_month | append: '月' | append: expected_shipping_date_range | append: 'を予定しております。'\nendif\n-%}"
+          }
+        },
         "buy_buttons": {
           "type": "buy_buttons",
           "settings": {
@@ -91,6 +97,7 @@
         "variant_picker",
         "quantity_selector",
         "price",
+        "liquid_zwJgMC",
         "buy_buttons",
         "payment_terms",
         "separator",

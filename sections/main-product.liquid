@@ -56,12 +56,12 @@
               max_image_zoom_level: section.settings.max_image_zoom_level -%}
         {%- endif -%}
 
-        {%- render 'product-info', 
-          product: product, 
+        {%- render 'product-info',
+          product: product,
           product_form_id: product_form_id,
-          center_basic_info: section.settings.center_basic_info, 
-          has_content_below_gallery: has_content_below_gallery, 
-          context: 'main_product' 
+          center_basic_info: section.settings.center_basic_info,
+          has_content_below_gallery: has_content_below_gallery,
+          context: 'main_product'
         -%}
 
         {%- comment -%}On Prestige, some content may be on the left part below the product gallery{%- endcomment -%}
@@ -130,7 +130,6 @@
         {%- liquid
           assign button_disabled = false
           assign button_style = 'solid'
-
           if product.selected_or_first_available_variant == nil
             assign button_disabled = true
             assign button_style = 'outline'
@@ -140,7 +139,7 @@
             assign button_style = 'outline'
             assign button_content = 'product.general.sold_out_button' | t
           else
-            if product.template_suffix contains 'pre-order'
+            if product.template_suffix contains 'pre-order' or product.metafields.custom.expected_shipping_date.value != blank
               assign button_content = 'product.general.pre_order_button' | t
             else
               assign button_content = 'product.general.add_to_cart_button' | t
