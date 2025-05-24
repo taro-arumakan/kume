@@ -47,6 +47,11 @@
         "type": "shopify://apps/klaviyo-email-marketing-sms/blocks/klaviyo-onsite-embed/2632fe16-c075-4321-a88b-50b567f42507",
         "disabled": false,
         "settings": {}
+      },
+      "back-in-stock-restock-alerts-4bb73be2-b7c2-4870-949f-c528145452a3": {
+        "type": "shopify://apps/back-in-stock-restock-alerts/blocks/main/4bb73be2-b7c2-4870-949f-c528145452a3",
+        "disabled": false,
+        "settings": {}
       }
     },
     "color_schemes": {
@@ -282,7 +287,8 @@
       "#cataldesignProduct .shipping {padding: 16px 16px 8px; background-color: rgba(18, 18, 18, 0.04); border-radius: 2px;}",
       "#cataldesignProduct .shipping h4 {margin: 0; padding-bottom: 8px; font-size: 18px; text-align: left;}",
       "#cataldesignProduct .shipping p {font-size: 13px; line-height: 1.8em;}",
-      "#cataldesignProduct .table_title {background-color: rgba(18, 18, 18, 0.04); font-weight: bold;}"
+      "#cataldesignProduct .table_title {background-color: rgba(18, 18, 18, 0.04); font-weight: bold;}",
+      ".restock-rocket-button {margin-top: 0; height: 44px;}"
     ]
   }
 }
