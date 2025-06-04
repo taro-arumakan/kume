@@ -1,0 +1,228 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "main": {
+      "type": "main-list-collections",
+      "disabled": true,
+      "settings": {
+        "color_scheme": "",
+        "show_title": true,
+        "collections": [],
+        "collections_per_row_mobile": "1",
+        "collections_per_row_desktop": 3,
+        "image_size": "auto",
+        "content_position": "place-self-end-start text-start",
+        "text_color": "#ffffff",
+        "overlay_color": "#000000",
+        "overlay_opacity": 30
+      }
+    },
+    "image_with_text_overlay_8jeffn": {
+      "type": "image-with-text-overlay",
+      "custom_css": [
+        ".section-spacing {max-width: 1000px; margin: auto;}"
+      ],
+      "settings": {
+        "color_scheme": "scheme-1",
+        "image_size": "auto",
+        "image": "shopify://shop_images/25hotsummer_01.png",
+        "image_link": "",
+        "allow_transparent_header": false,
+        "reveal_on_scroll": true,
+        "remove_vertical_spacing": false,
+        "content_width": "md",
+        "mobile_text_position": "place-self-center text-center",
+        "desktop_text_position": "sm:place-self-center sm:text-center",
+        "overlay_color": "#000000",
+        "overlay_opacity": 0
+      }
+    },
+    "image_with_text_overlay_beJcUf": {
+      "type": "image-with-text-overlay",
+      "custom_css": [
+        ".content-over-media > picture img {min-width: unset;}",
+        ".section-spacing {max-width: 1000px; margin: auto;}"
+      ],
+      "settings": {
+        "color_scheme": "scheme-1",
+        "image_size": "auto",
+        "image": "shopify://shop_images/25hotsummer_02.png",
+        "image_link": "",
+        "allow_transparent_header": false,
+        "reveal_on_scroll": true,
+        "remove_vertical_spacing": false,
+        "content_width": "md",
+        "mobile_text_position": "place-self-center text-center",
+        "desktop_text_position": "sm:place-self-center sm:text-center",
+        "overlay_color": "#000000",
+        "overlay_opacity": 0
+      }
+    },
+    "image_with_text_overlay_x4Hh9D": {
+      "type": "image-with-text-overlay",
+      "custom_css": [
+        ".content-over-media > picture img {min-width: unset;}",
+        ".section-spacing {max-width: 1000px; margin: auto;}"
+      ],
+      "settings": {
+        "color_scheme": "scheme-1",
+        "image_size": "auto",
+        "image": "shopify://shop_images/25hotsummer_03.png",
+        "image_link": "",
+        "allow_transparent_header": false,
+        "reveal_on_scroll": true,
+        "remove_vertical_spacing": false,
+        "content_width": "md",
+        "mobile_text_position": "place-self-center text-center",
+        "desktop_text_position": "sm:place-self-center sm:text-center",
+        "overlay_color": "#000000",
+        "overlay_opacity": 0
+      }
+    },
+    "image_with_text_overlay_yYmN6T": {
+      "type": "image-with-text-overlay",
+      "custom_css": [
+        ".content-over-media > picture img {min-width: unset;}",
+        ".section-spacing {max-width: 1000px; margin: auto;}"
+      ],
+      "settings": {
+        "color_scheme": "scheme-1",
+        "image_size": "auto",
+        "image": "shopify://shop_images/25hotsummer_04.png",
+        "image_link": "",
+        "allow_transparent_header": false,
+        "reveal_on_scroll": true,
+        "remove_vertical_spacing": false,
+        "content_width": "md",
+        "mobile_text_position": "place-self-center text-center",
+        "desktop_text_position": "sm:place-self-center sm:text-center",
+        "overlay_color": "#000000",
+        "overlay_opacity": 0
+      }
+    },
+    "image_with_text_overlay_fTcW83": {
+      "type": "image-with-text-overlay",
+      "custom_css": [
+        ".content-over-media > picture img {min-width: unset;}",
+        ".section-spacing {max-width: 1000px; margin: auto;}"
+      ],
+      "settings": {
+        "color_scheme": "scheme-1",
+        "image_size": "auto",
+        "image": "shopify://shop_images/25hotsummer_05.png",
+        "image_link": "",
+        "allow_transparent_header": false,
+        "reveal_on_scroll": true,
+        "remove_vertical_spacing": false,
+        "content_width": "md",
+        "mobile_text_position": "place-self-center text-center",
+        "desktop_text_position": "sm:place-self-center sm:text-center",
+        "overlay_color": "#000000",
+        "overlay_opacity": 0
+      }
+    },
+    "image_with_text_overlay_RLAkC3": {
+      "type": "image-with-text-overlay",
+      "custom_css": [
+        ".content-over-media > picture img {min-width: unset;}",
+        ".section-spacing {max-width: 1000px; margin: auto;}"
+      ],
+      "settings": {
+        "color_scheme": "scheme-1",
+        "image_size": "auto",
+        "image": "shopify://shop_images/25hotsummer_06.png",
+        "image_link": "",
+        "allow_transparent_header": false,
+        "reveal_on_scroll": true,
+        "remove_vertical_spacing": false,
+        "content_width": "md",
+        "mobile_text_position": "place-self-center text-center",
+        "desktop_text_position": "sm:place-self-center sm:text-center",
+        "overlay_color": "#000000",
+        "overlay_opacity": 0
+      }
+    },
+    "image_with_text_overlay_Ber6BH": {
+      "type": "image-with-text-overlay",
+      "custom_css": [
+        ".content-over-media > picture img {min-width: unset;}",
+        ".section-spacing {max-width: 1000px; margin: auto;}"
+      ],
+      "settings": {
+        "color_scheme": "scheme-1",
+        "image_size": "auto",
+        "image": "shopify://shop_images/25hotsummer_07.png",
+        "image_link": "",
+        "allow_transparent_header": false,
+        "reveal_on_scroll": true,
+        "remove_vertical_spacing": false,
+        "content_width": "md",
+        "mobile_text_position": "place-self-center text-center",
+        "desktop_text_position": "sm:place-self-center sm:text-center",
+        "overlay_color": "#000000",
+        "overlay_opacity": 0
+      }
+    },
+    "image_with_text_overlay_GVFWCQ": {
+      "type": "image-with-text-overlay",
+      "custom_css": [
+        ".content-over-media > picture img {min-width: unset;}",
+        ".section-spacing {max-width: 1000px; margin: auto;}"
+      ],
+      "settings": {
+        "color_scheme": "scheme-1",
+        "image_size": "auto",
+        "image": "shopify://shop_images/25hotsummer_08.png",
+        "image_link": "",
+        "allow_transparent_header": false,
+        "reveal_on_scroll": true,
+        "remove_vertical_spacing": false,
+        "content_width": "md",
+        "mobile_text_position": "place-self-center text-center",
+        "desktop_text_position": "sm:place-self-center sm:text-center",
+        "overlay_color": "#000000",
+        "overlay_opacity": 0
+      }
+    },
+    "image_with_text_overlay_VxG4VM": {
+      "type": "image-with-text-overlay",
+      "custom_css": [
+        ".section-spacing {max-width: 1000px; margin: auto;}"
+      ],
+      "settings": {
+        "color_scheme": "scheme-1",
+        "image_size": "auto",
+        "image": "shopify://shop_images/25hotsummer_09.png",
+        "image_link": "",
+        "allow_transparent_header": false,
+        "reveal_on_scroll": true,
+        "remove_vertical_spacing": false,
+        "content_width": "md",
+        "mobile_text_position": "place-self-center text-center",
+        "desktop_text_position": "sm:place-self-center sm:text-center",
+        "overlay_color": "#000000",
+        "overlay_opacity": 0
+      }
+    }
+  },
+  "order": [
+    "main",
+    "image_with_text_overlay_8jeffn",
+    "image_with_text_overlay_beJcUf",
+    "image_with_text_overlay_x4Hh9D",
+    "image_with_text_overlay_yYmN6T",
+    "image_with_text_overlay_fTcW83",
+    "image_with_text_overlay_RLAkC3",
+    "image_with_text_overlay_Ber6BH",
+    "image_with_text_overlay_GVFWCQ",
+    "image_with_text_overlay_VxG4VM"
+  ]
+}
